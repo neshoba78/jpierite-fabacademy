@@ -21,4 +21,6 @@
 * [May 31: invention, intellectual property, and income](may-31-invention-intellectual-property-and-income.md)
 * [Jun 07: project development](jun-07-project-development.md)
 * [Jun 14: project presentations](jun-14-project-presentations.md)
+* [Appendices](appendices.md)
+* [How to Trade \(almost\) Anything](how-to-trade-almost-anything.md)
 
