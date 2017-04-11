@@ -9,17 +9,16 @@
 * [Feb 22: 3D scanning and printing](feb-22-3d-scanning-and-printing.md)
 * [Mar 01: electronics design](mar-01-electronics-design.md)
 * [Mar 08: computer-controlled machining](mar-08-computer-controlled-machining.md)
-* Mar 15: embedded programming
-* Mar 22: mechanical design
-* Mar 29: output devices
-* Apr 05: machine design
-* Apr 19: molding and casting
-* Apr 26: input devices
-* May 03: composites
-* May 10: networking and communications
-* May 17: interface and application programming
-* May 24: applications and implications
-* May 31: invention, intellectual property, and income
-* Jun 07: project development
-* Jun 14: project presentations
+* [Mar 15: embedded programming](mar-15-embedded-programming.md)
+* [Mar 22: mechanical design](mar-22-mechanical-design.md)
+* [Mar 29: output devices](mar-29-output-devices.md)
+* [Apr 19: molding and casting](apr-19-molding-and-casting.md)
+* [Apr 26: input devices](apr-26-input-devices.md)
+* [May 03: composites](may-03-composites.md)
+* [May 10: networking and communications](may-10-networking-and-communications.md)
+* [May 17: interface and application programming](may-17-interface-and-application-programming.md)
+* [May 24: applications and implications](may-24-applications-and-implications.md)
+* [May 31: invention, intellectual property, and income](may-31-invention-intellectual-property-and-income.md)
+* [Jun 07: project development](jun-07-project-development.md)
+* [Jun 14: project presentations](jun-14-project-presentations.md)
 
