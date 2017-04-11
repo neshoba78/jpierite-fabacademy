@@ -9,4 +9,17 @@
 * [Feb 22: 3D scanning and printing](feb-22-3d-scanning-and-printing.md)
 * [Mar 01: electronics design](mar-01-electronics-design.md)
 * [Mar 08: computer-controlled machining](mar-08-computer-controlled-machining.md)
+* Mar 15: embedded programming
+* Mar 22: mechanical design
+* Mar 29: output devices
+* Apr 05: machine design
+* Apr 19: molding and casting
+* Apr 26: input devices
+* May 03: composites
+* May 10: networking and communications
+* May 17: interface and application programming
+* May 24: applications and implications
+* May 31: invention, intellectual property, and income
+* Jun 07: project development
+* Jun 14: project presentations
 
