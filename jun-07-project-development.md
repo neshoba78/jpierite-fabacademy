@@ -1,30 +1,20 @@
 # Project Development {#project-development}
 
-Complete your final project. Track and document your progress.
+#### Have you answered these questions:
 
-## Learning outcomes: {#learning-outcomes}
+* [ ] what is the deadline? How much time do I have left?
 
-* Evaluate project plan
+* [ ] what tasks have been completed, and what tasks remain?
 
-* Apply time management techniques
+* [ ] how will I complete the remaining tasks in time?
 
-* Summarise and communicate the essence of a project
+* [ ] what has worked?
 
-## Have you answered these questions: {#have-you-answered-these-questions}
+* [ ] what hasn't?
 
-* what is the deadline? How much time do I have left?
+* [ ] what questions still need to be resolved?
 
-* what tasks have been completed, and what tasks remain?
-
-* how will I complete the remaining tasks in time?
-
-* what has worked?
-
-* what hasn't?
-
-* what questions still need to be resolved?
-
-* what have you learned?
+* [ ] what have you learned?
 
 
 

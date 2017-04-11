@@ -1,36 +1,18 @@
 # Mechanical Design, Machine Design {#mechanical-design-machine-design}
 
-MECHANICAL DESIGN \(week 1 of 2\)
+#### Have you:
 
-Make a[machine](http://mtm.cba.mit.edu/machines/science), including the end effector, build the passive parts and operate it manually.
+* [ ] Explained your individual contribution to this project on your own website
 
-MACHINE DESIGN \(week 2 of 2\)
+#### On the group page, has your group:
 
-Automate your[machine](http://academy.cba.mit.edu/classes/mechanical_design/index.html). Document the group project and your individual contribution.
+* [ ] Shown how your team planned and executed the project
 
-## Learning outcomes: {#learning-outcomes}
+* [ ] Described problems and how the team solved them
 
-* Work and communicate effectively in a team and independently
+* [ ] Listed future development opportunities for this project
 
-* Design, plan and build a system
-
-* Analyse and solve technical problems
-
-* Recognise opportunities for improvements in the design
-
-## Have you: {#have-you}
-
-* Explained your individual contribution to this project on your own website
-
-## On the group page, has your group: {#on-the-group-page-has-your-group}
-
-* Shown how your team planned and executed the project
-
-* Described problems and how the team solved them
-
-* Listed future development opportunities for this project
-
-* Included your design files, ‘hero shot’ photos of the machine and a short video of it operating
+* [ ] Included your design files, ‘hero shot’ photos of the machine and a short video of it operating
 
 
 

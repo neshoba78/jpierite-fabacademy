@@ -1,26 +1,14 @@
 # Embedded Networking and Communications {#embedded-networking-and-communications}
 
-Design and build a wired &/or wireless network connecting at least two processors
+#### Have you:
 
-> ### Issue opened. {#issue-opened}
->
-> Networking needs to be more clearly defined here. Like expressing the need to have multiple controllers communicating using addressing.
+* [ ] Described your design and fabrication process using words/images/screenshots.
 
-## Learning outcomes: {#learning-outcomes}
+* [ ] Explained the programming process/es you used.
 
-* Demonstrate workflows used in network design and construction
+* [ ] Outlined problems and how you fixed them
 
-* Implement and interpret networking protocols
-
-## Have you: {#have-you}
-
-* Described your design and fabrication process using words/images/screenshots.
-
-* Explained the programming process/es you used.
-
-* Outlined problems and how you fixed them
-
-* Included original design files and code
+* [ ] Included original design files and code
 
 
 

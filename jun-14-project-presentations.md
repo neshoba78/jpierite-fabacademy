@@ -1,43 +1,36 @@
-Congratulations, you have now reached the point of working on your Final Project. The following weeks are an opportunity to demonstrate your mastery of the skills you have developed in the previous weeks. Your goal is to keep it as affordable as possible. Design and fabricate your own parts instead of buying off-the-shelf components. Your project must:
+#### Have you made a separate\_Final Project\_page that:
 
-> * _be your own design_
-> * include a fabbed input device and an output device of your own design
-> * include other components made with additive and subtractive techniques
-> * include 2D and 3D design elements
+* [ ] briefly summarises your project
 
-## Have you made a separate_Final Project_page that: {#have-you-made-a-separate-final-project-page-that}
+* [ ] includes the BOM \(Bill of Materials\) for your project
 
-* briefly summarises your project
+* [ ] links to any weeks that you worked on your final project
 
-* includes the BOM \(Bill of Materials\) for your project
+* [ ] links to your presentation.png and presentation.mp4
 
-* links to any weeks that you worked on your final project
+* [ ] includes all of your design files in the archive \(no external hosting of final project files - discuss file sizes with your instructor\)
 
-* links to your presentation.png and presentation.mp4
+* [ ] includes the licence you chose
 
-* includes all of your design files in the archive \(no external hosting of final project files - discuss file sizes with your instructor\)
+* [ ] acknowledges work done by others
 
-* includes the licence you chose
+#### Have you made your slide:
 
-* acknowledges work done by others
+* [ ] slide: 1280 x 1024 pixels named presentation.png
 
-## Have you made your slide: {#have-you-made-your-slide}
+* [ ] your name
 
-* slide: 1280 x 1024 pixels named presentation.png
+* [ ] the name of your project
 
-* your name
+* [ ] the name of the Fab Lab
 
-* the name of your project
+* [ ] photo/render/sketch of your project
 
-* the name of the Fab Lab
+* [ ] a brief description of what your project is/does
 
-* photo/render/sketch of your project
+#### Have you made your video:
 
-* a brief description of what your project is/does
-
-## Have you made your video: {#have-you-made-your-video}
-
-* made a ~1 minute \(10MB/1080p\) video of you explaining your project
+* [ ] made a ~1 minute \(10MB/1080p\) video of you explaining your project
 
 
 

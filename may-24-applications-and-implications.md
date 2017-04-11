@@ -1,40 +1,30 @@
 # Applications and Implications {#applications-and-implications}
 
-Propose a final project that integrates the range of units covered.
+#### Have you answered these questions:
 
-## Learning outcomes: {#learning-outcomes}
+* [ ] what will it do?
 
-* Define the scope of a project
+* [ ] who has done what beforehand?
 
-* Develop a project plan
+* [ ] what materials and components will be required?
 
-> Think of your project plan as an ‘installation and implementation guide’ for the future. How will others be able to make your project by reading your documentation?
+* [ ] where will they come from?
 
-## Have you answered these questions: {#have-you-answered-these-questions}
+* [ ] how much will it cost?
 
-* what will it do?
+_The answers to the questions above will allow you to create your BOM, or Bill Of Materials._
 
-* who has done what beforehand?
+* [ ] what parts and systems will be made?
 
-* what materials and components will be required?
+* [ ] what processes will be used?
 
-* where will they come from?
+* [ ] what tasks need to be completed?
 
-* how much will it cost?
+* [ ] what questions need to be answered?
 
-The answers to the questions above will allow you to create your BOM, or Bill Of Materials.
+* [ ] what is the schedule?
 
-* what parts and systems will be made?
-
-* what processes will be used?
-
-* what tasks need to be completed?
-
-* what questions need to be answered?
-
-* what is the schedule?
-
-* how will it be evaluated?
+* [ ] how will it be evaluated?
 
 
 
