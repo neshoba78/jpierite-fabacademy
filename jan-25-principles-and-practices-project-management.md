@@ -6,7 +6,7 @@
 
 * [x] introduced yourself
 
-* [ ] described and made a sketch of your final project
+* [x] described and made a sketch of your final project
 
 * [x] documented steps for uploading files to archive
 
