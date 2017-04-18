@@ -6,6 +6,8 @@ WIPO Intergovernmental Committee on Intellectual Property and Genetic Resources,
 
 Copyright \(c\) 2017 Jean-Luc Pierite
 
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files \(the "Software"\), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
 USE OF TERMS
 
 For the purposes of this instrument
@@ -92,7 +94,7 @@ TRANSBOUNDARY COOPERATION
 
 CAPACITY BUILDING AND AWARENESS RAISING
 
-1.  \[Member States\]/\[Contracting Parties\] \[should\]/\[shall\] cooperate in the capacity building and strengthening of human resources, in particular, those of the beneficiaries, and the development of institutional capacities, to effectively implement the \[instrument\].
+1. \[Member States\]/\[Contracting Parties\] \[should\]/\[shall\] cooperate in the capacity building and strengthening of human resources, in particular, those of the beneficiaries, and the development of institutional capacities, to effectively implement the \[instrument\].
 2. \[Member States\]/\[Contracting Parties\] \[should\]/\[shall\] provide the necessary resources for indigenous \[peoples\] and local communities and join forces with them to develop capacity- building projects within indigenous \[peoples\] and local communities, focused on the development of appropriate mechanisms and methodologies, such as new electronic and didactical material which are culturally adequate, and have been developed with the full participation and effective participation of indigenous peoples and local communities and their organizations.
 3. \[In this context, \[Member States\]/\[Contracting Parties\] \[should\]/\[shall\] provide for the full participation of the beneficiaries and other relevant stakeholders, including non-government organizations and the private sector.\]
 4. \[Member States\]/\[Contracting Parties\] \[should\]/\[shall\] take measures to raise awareness of the \[instrument,\] and in particular educate users and holders of traditional cultural expressions of their obligations under this instrument.
