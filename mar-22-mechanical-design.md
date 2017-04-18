@@ -14,5 +14,15 @@
 
 * [ ] Included your design files, ‘hero shot’ photos of the machine and a short video of it operating
 
+![](/assets/Week 16 4.JPG)
+
+![](/assets/Week 16 5.JPG)
+
+![](/assets/Week 16 6.JPG)
+
+![](/assets/Week 16 8.JPG)
+
+![](/assets/Week 16 9.JPG)
+
 
 
