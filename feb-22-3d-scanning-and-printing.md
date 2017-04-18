@@ -46,6 +46,8 @@ Of course, I could just source PLA from New Zealand. I hear Diamond Age Solution
 
 The goal of FDM \(Fused Deposition Modeling\) is to allow molten material to be extruded and consistently laid onto the build plate. Ultimaker provides some good visuals as to what is and what isn’t a good first layer. What I noticed from my first few attempts at printing was that material just barely made an impression on the build plate. It took some layers for the part to show up at all. This was due to our build plate being too close to the nozzle. Ultimaker does have on-screen instructions to help with leveling. Still, when you live in a country in which people live and die without knowing the metric system; you can easily mess up a process that starts with “make sure the nozzle is 1 mm away from the build plate.” The best way to eyeball the process that I found was to think of the materials diameter which then gets extruded through the diameter of the nozzle.
 
+![](/assets/IMG_0750.JPG)
+
 ##### Going Straight to the Ulti-Source
 
 I spent time with Luis Rodriguez of Ultimaker to go through basic warranty and service training for their line of printers. We went over tips and tricks for proper maintenance of the printers as well as workflow within Cura to send jobs to the printers.
