@@ -28,7 +28,7 @@ These are some of the websites that I worked on:
 
 I started class work for [Fab Academy in 2015](http://fabacademy.org/archives/2015/na/students/pierite.jean-luc/old-site/index.html). Back then, we used Mercurial for version control. Repositories were divided by region. Continuing my work after FAB12 with Fab Lab Wgtn, I started to work in the git repository under a network folder with a very binary student ID.
 
-![](/assets/Screen Shot 2016-09-12 at 7.02.15 PM.png)
+
 
 Originally, I built my website with a local copy of Wordpress. I triple booted my work computer, “Mama Rosie”, and installed the CMS on an Ubuntu partition. As I made updates to my website, I mirrored it with httrack to make flat HTML files. This was a workflow that I used through Fab Academy 2015 and 2016.
 
