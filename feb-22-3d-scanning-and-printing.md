@@ -1,5 +1,17 @@
 # 3D Scanning and Printing
 
+#### Have you:
+
+* [ ] Described what you learned by testing the 3D printers
+
+* [ ] Shown how you designed and made your object and explained why it could not be made subtractively
+
+* [ ] Scanned an object
+
+* [ ] Outlined problems and how you fixed them
+
+* [ ] Included your design files and ‘hero shot’ photos of the scan and the final object
+
 Last year, I spent Halloween dressed as Bernie Sanders while I 3D printed toys and treats for kids. I got a good workflow going from designing pixel art in GIMP, to converting the designs in vector in Inkscape, and then extruding the models in blender. There was just one problem: the models that I was printing were subtractive and not additive.
 
 I found that the difference between additive vs. subtractive processes were difficult to articulate in design. The actual part from the Halloween activity was additive by how the model was rendered in Makerware or Cura. The part is hollow, aside from a honeycomb interior supported by external walls. That said, a subtractive method such as machining wax on the mini-mill could achieve the same external shape.

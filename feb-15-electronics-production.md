@@ -1,5 +1,13 @@
 # Electronics Production
 
+#### Have you:
+
+* [ ] Shown how you made and programmed the board
+
+* [ ] Explained any problems and how you fixed them
+
+* [ ] Included a ‘hero shot’ of your board
+
 Since before the Democratic National Convention, people in the United States waited on Julian Assange to release whatever leaked documents he has that could affect our presidential election. This is what I feel like I’ve been doing to my instructors at FabLab Wgtn. Let’s make that better…
 
 ##### Wrestling with the MDX-20 at South End Technology Center
@@ -29,6 +37,4 @@ At FAB@CIC, I sat down with Luciano and Andrea Lane to mill out and solder the F
 My third iteration got a green light from the AVRISP mkII. Mama Rosie was prepared to program following Anna Kaziunas France’s instructions. I set the paths so that Terminal would be able to find avrdude. I then downloaded and installed CrossPack AVR. I downloaded and installed XCode so that I could run make. I then downloaded and unzipped the firmware to my Desktop. I connected both the AVRISP mkII and the FAB ISP to Mama Rosie through her front USB ports. Connecting FAB ISP to the AVRISP mkII through the six pin connector got a green led indication. The FAB ISP was properly powered and connected. In Terminal, I changed the directory to the firmware directory and ran: “make clean”, “make hex”, “make fuse”, and “make program”. I got no errors. When I refreshed the USB profile in System Information, I saw “FABISP” as a new device. I was excited and ran to Luciano to tell him of my success. “Now,” said Luciano, “desolder the jumpers, get an Arduino, and program that to be sure that your board works.”
 
 I had to download the Arduino IDE to Mama Rosie. While that was happening, I ran back down to FAB@CIC to desolder the jumpers. I left the 0 ohm resistor, though. When I returned with my FAB ISP and an Arduino UNO, I opened the Arduino IDE. Under Tools, I set the Board to “Arduino/Genuino UNO”. I also set the Programmer to “USBtinyISP”. I opened the Blink example and selected “Upload using Programmer” from the Sketch menu. I was able to send the program to the Arduino. I made a second attempt by adjusting the variables in the code to modify the blink. That worked as well. I was pretty satisfied with my board. Though I returned to FAB@CIC to remake one more after a weekend. This time, I was able to solder the board and program within 30 minutes. So, I was comfortable enough with the workflow to continue with my other Academy projects.
-
-
 
