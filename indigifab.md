@@ -1,3 +1,5 @@
+# ![](/assets/indigifab.png)
+
 # InDigiFab
 
 To collaboratively create a programme that invites engagement and contribution by indigenous communities with new technologies and the systems associated with the Fab Lab movement.
