@@ -1,5 +1,17 @@
 # Principles and Practices, Project Management
 
+#### Have You
+
+* [ ] made a website and described how you did it
+
+* [ ] introduced yourself
+
+* [ ] described and made a sketch of your final project
+
+* [ ] documented steps for uploading files to archive
+
+* [ ] pushed to the class archive
+
 In a previous life, I was an Internet Marketing Specialist for Mohegan Sun in Uncasville, CT. I helped manage six of their company websites using proprietary content managements systems and flat HTML. I got comfortable with working first with a local copy and pushing content to a server that was scheduled to cache every four hours.
 
 These are some of the websites that I worked on:
