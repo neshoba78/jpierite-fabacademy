@@ -10,5 +10,11 @@
 
 * [ ] Included your design files and ‘hero shot’ photos of the mould and the final object
 
+![](/assets/IMG_0491.JPG)
+
+![](/assets/IMG_0519.JPG)
+
+
+
 
 

@@ -2,11 +2,11 @@
 
 #### Have you:
 
-* [ ] Shown how you made and programmed the board
+* [x] Shown how you made and programmed the board
 
-* [ ] Explained any problems and how you fixed them
+* [x] Explained any problems and how you fixed them
 
-* [ ] Included a ‘hero shot’ of your board
+* [x] Included a ‘hero shot’ of your board
 
 Since before the Democratic National Convention, people in the United States waited on Julian Assange to release whatever leaked documents he has that could affect our presidential election. This is what I feel like I’ve been doing to my instructors at FabLab Wgtn. Let’s make that better…
 
