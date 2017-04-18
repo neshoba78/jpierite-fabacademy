@@ -1,4 +1,4 @@
-Indigenous Peoples and Local Communities License
+Indigenous Peoples and Local Communities \(modified\) MIT License
 
 Adapted from:
 
