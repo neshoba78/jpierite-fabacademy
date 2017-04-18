@@ -18,8 +18,7 @@
   * [Harmonized System Database](http://www.wcoomd.org/en/online-services/hs-online.aspx)
   * [Origin – Instruments and Tools](http://www.wcoomd.org/en/topics/origin/instrument-and-tools.aspx)
 * [UNSPSC](https://www.unspsc.org/)
-  * [code hierarchy](https://www.unspsc.org/faqs#How does UNSPSC work)
-
+  * [code hierarchy](https://www.unspsc.org/faqs#How%20does%20UNSPSC%20work)
 * [Dun & Bradstreet](http://www.dnb.com/about-us/company/history.html)
   * [D-U-N-S Number](http://www.dnb.com/duns-number.html)
     * [Lookup](http://www.dnb.com/duns-number/lookup.html)
