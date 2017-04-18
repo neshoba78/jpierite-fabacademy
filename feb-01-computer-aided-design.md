@@ -16,7 +16,11 @@ My final project,[last year](http://archive.fabacademy.org/archives/2017/fablabw
 
 The second iteration of my final project concept was a ceramic pot with a stylized spider. I used Inkscape to do this rendering. I used shape tools and gradients to give the design a bit more of a 3D look. The spider was traced from a Bitmap in Inkscape. I like working with vectors graphics that you can scale to use on small projects like thermography on business cards or cut vinyl for signs.
 
+![](/assets/IMG_3590.JPG)
+
 My third iteration of my final project concept was a[stylized alligator toy](http://fabacademy.org/archives/2015/na/students/pierite.jean-luc/presentation.png). I wasn’t too sure what the project would do, or how a person would interact with the toy. I started thinking of ways to incorporate skills, but in a way that didn’t mean much. I pictured 3D printed cheeks that would accent holes for speakers. I hand drew the basic geometry and scanned in the art. I then imported the picture into Inkscape to trace out an SVG. I imported the SVG into blender and got lost in a world of keyboard shortcuts.
+
+![](/assets/untitled.png)
 
 3D model rendered in blender. Steps to convert from 2D to 3D[here](http://archive.fabacademy.org/archives/2017/fablabwgtn/students/457/old-site/index07430743.html?page_id=69#assignment).
 
