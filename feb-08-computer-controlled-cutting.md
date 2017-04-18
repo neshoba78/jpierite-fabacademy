@@ -2,19 +2,19 @@
 
 #### Have you:
 
-* [ ] Explained how you parametrically designed your files
+* [x] Explained how you parametrically designed your files
 
-* [ ] Shown how you made your press-fit kit
+* [x] Shown how you made your press-fit kit
 
-* [ ] Included your design files and photos of your finished project
+* [x] Included your design files and photos of your finished project
 
 #### Have you:
 
-* [ ] Explained how you drew your files
+* [x] Explained how you drew your files
 
-* [ ] Shown how you made your vinyl project
+* [x] Shown how you made your vinyl project
 
-* [ ] Included your design files and photos of your finished project
+* [x] Included your design files and photos of your finished project
 
 ##### **A protoype for**[**Computer Controlled Machining**](http://archive.fabacademy.org/archives/2017/fablabwgtn/students/457/index.php/computer-controlled-machining/index.html)**assignment also covers this assignment**
 
