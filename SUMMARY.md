@@ -23,4 +23,5 @@
 * [Jun 14: project presentations](jun-14-project-presentations.md)
 * [Appendices](appendices.md)
 * [How to Trade \(almost\) Anything](how-to-trade-almost-anything.md)
+* [Licenses](LICENSE.md)
 
