@@ -1,6 +1,6 @@
 # Principles and Practices, Project Management
 
-#### Have You
+#### Have you:
 
 * [ ] made a website and described how you did it
 

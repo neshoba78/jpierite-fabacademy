@@ -1,5 +1,13 @@
 # Computer-aided Design
 
+#### Have you:
+
+* [ ] Modelled experimental objects/part of a possible project in 2D and 3D software
+
+* [ ] Shown how you did it with words/images/screenshots
+
+* [ ] Included your original design files
+
 Design files:[click here](http://archive.fabacademy.org/archives/2017/fablabwgtn/students/457/uploads/tamahka.zip)
 
 What do you do when you’re short on time for a Final Project and need to do a slide? This assignment!
