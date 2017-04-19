@@ -40,6 +40,8 @@ I decided to try the same setup with Mama Rosie. I had to migrate the local Word
 
 It was after the first lecture for this cycle of Fab Academy that I worked out a procedure that would allow me to work from multiple devices. I cloned the repository to Mama Rosie's desktop. Eclipse is an editor that I was comfortable with using from my previous web work. I could work on the code locally and push to the server. To solve the need for a local copy, I turned on a localhost server on Mama Rosie. I then copied my student folder to a subfolder of the local WebServer. In order to keep the code up to date, I tried some solutions for file synchronization. Unison was one option that we covered in the lecture. This solution needed a couple dependencies and some edits to config files. After a couple attempts, the build still failed on OS X El Capitan. It was then that I resolved, when we cover topics we aren't exactly mandated to use the options covered. Unison and rsync are recommendations, but I needed a currently supported app that would synchronize the contents of two local folders. I found Sync Folders on the App Store. This not only works with Mama Rosie running El Capitan, but also with my home laptop which runs Lion. I can sync folders and push to the repository much faster.
 
+![](/assets/git-commit.gif)
+
 Overall, I would still compose a website originally in CMS, mirror and flatten to HTML. Instead of regular updates, it's better to set a template and then edit the HTML from Eclipse. There is some housekeeping to do, but I'm happy with the current workflow.
 
 On to spending some mental cycles sketching my final project...
