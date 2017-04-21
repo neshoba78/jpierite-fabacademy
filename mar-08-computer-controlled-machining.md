@@ -10,6 +10,10 @@
 
 * [ ] Included your design files and ‘hero shot’ photos of final object
 
+![](/assets/cnc-fab-lab.gif)
+
+Oh. My God. It's like I've always thought. Mystery Science Theater 3000 is a parody of my work at The Fab Foundation!
+
 There's a tutorial for this assignment on The Center for Bits and Atoms site, [here](http://fab.cba.mit.edu/content/tools/shopbot/index.html). I didn't know that in 2015. So, what ended up happening is that I went to the CBA shop and bothered the "Spiciest Meme Lord" Tom Lutz. He walked me through the process of using Partworks, setting up the ShopBot, and not losing eyes or fingers in the process. With Tom's assistance, I was able to design and cut out a monogram plaque which I keep by my work desk to this day.
 
 ![](/assets/IMG_3858.JPG)
