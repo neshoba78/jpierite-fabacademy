@@ -14,6 +14,4 @@
 
 
 
-
-
 [![Programming FAB ISP ](https://img.youtube.com/vi/jYEh778O1hM/0.jpg)](https://www.youtube.com/watch?v=jYEh778O1hM "Programming FAB ISP")
