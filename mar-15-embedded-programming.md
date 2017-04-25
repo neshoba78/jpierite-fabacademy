@@ -13,4 +13,4 @@
 * [ ] Included your code
 
 
-[![Embedded programming](https://img.youtube.com/vi/wdKsoC5_NIc/0.jpg)](https://www.youtube.com/watch?v= wdKsoC5_NIc "Embedded programming")
+[![Embedded programming](https://img.youtube.com/vi/wdKsoC5_NIc/0.jpg)](https://www.youtube.com/watch?v=wdKsoC5_NIc "Embedded programming")
