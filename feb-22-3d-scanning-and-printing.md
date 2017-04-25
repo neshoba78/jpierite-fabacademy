@@ -20,6 +20,8 @@ I found that the difference between additive vs. subtractive processes were diff
 
 So, I thought about it for a year…
 
+![](/assets/10683667_10153011787026307_794709291805732171_o.jpg)
+
 One day, I decided to search for additive design which led me to Danish architect Jørn Utzon and his work on “Additive Architecture.” Utzon observed the “growth principle in nature” which inspired a belief that buildings should be organized freely. Instead of starting with a box and subdividing the interior with partition walls, an additive method starts with components that could range in variety yet assembles them in such a way to achieve harmony.
 
 Those were some pretty thoughts, but I didn’t have an “Aha!” moment until I saw a video in my Facebook feed…
