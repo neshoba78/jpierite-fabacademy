@@ -16,8 +16,8 @@
 
 * [x] Included your design files and photos of your finished project
 
-Design files:[ click here](/uploads/fab-beading-loom.zip)
-Design files:[ click here](/uploads/Boo%20Design.zip)
+* Design files:[ Right click + Save As](/uploads/fab-beading-loom.zip)
+* Design files:[ Right click + Save As](/uploads/Boo%20Design.zip)
 
 And then came the class in which the rubber met the road, or the laser met the cardboard.
 
