@@ -38,6 +38,8 @@ Back in Boston at Fab@CIC, we installed two laser cutters: an Epilog Fusion M2 3
 
 We covered several types of joints in the lecture for this assignment. I decided to make my own version of GIK using Inkscape to draw SVG shapes that can be brought into Fab Modules. I haven’t worked out sending jobs from Inkscape. The current workaround is to save out as a PDF and send from Adobe Acrobat. The main consideration for sending jobs is to be sure that strokes \(outlines for shapes of parts to be cut\) must be .001 to .003 inches or .0254 to .0762 mm.
 
+[![Laser](https://img.youtube.com/vi/03y0BWMeBX8/0.jpg)](https://www.youtube.com/watch?v= 03y0BWMeBX8 "Laser")
+
 Using Inkscape, I was able to create shapes and clones of shapes. These are all defined as SVG elements in the XML Editor. Shapes have either basic geometry or are defined as paths. Clones have use IDs and references to the original shapes. SVG elements have attributes that can be adjusted parametrically such as dimensions or transforms. In order to perform additive or subtractive boolean operations, those have to be done in the document. Once those operations are performed, a new path element is created. History of the new element is only retained by the undo button. So, it’s better to use an application like Antimony or FreeCAD to have parametric and hierarchical modeling.
 
 ![](/assets/IMG_3617.JPG)
@@ -47,4 +49,6 @@ The vinyl cutter was an old friend from my sign shop days. In Central Louisiana,
 ![](/assets/IMG_3903.JPG)
 
 The goal of cutting with the vinyl cutter is to only cut the adhesive material and not the substrate. The knife only sticks out about the depth of a fingernail. You also have to balance the amount of force applied to cut the material. I once tried cutting Fab Foundation decals at a DigiFabCon in Cambridge, MA. Jean-Michel Molenaar came by the booth and saw that the force that I had was around 45. He immediately bumped the force up to 90 which made nice cuts that weeded very well.
+
+[![Vinyl](https://img.youtube.com/vi/e2W-DZFuE5E/0.jpg)](https://www.youtube.com/watch?v= e2W-DZFuE5E "Vinyl")
 
