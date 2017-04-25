@@ -74,3 +74,5 @@ With the app, I took a series of pictures around the subject which are assigned 
 
 I tried a couple times to capture the lion. As a free app, there’s not much support and the model can take several hours to process once loaded to Autodesk’s service. In order to completely scan the statue, I would have to take more pictures from consistent distances and angles.
 
+[![Lion Scan](https://img.youtube.com/vi/unT5ybCM4qU/0.jpg)](https://www.youtube.com/watch?v=unT5ybCM4qU "Lion Scan")
+
