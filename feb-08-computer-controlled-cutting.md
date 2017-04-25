@@ -16,7 +16,8 @@
 
 * [x] Included your design files and photos of your finished project
 
-##### **A protoype for**[** Computer Controlled Machining **]()**assignment also covers this assignment**
+Design files:[ click here](/uploads/fab-beading-loom.zip)
+Design files:[ click here](/uploads/Boo%20Design.zip)
 
 And then came the class in which the rubber met the road, or the laser met the cardboard.
 

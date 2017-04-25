@@ -8,6 +8,8 @@
 
 * [ ] Included original design files \(Eagle, KiCad, Inkscape, .cad - whatever\)
 
+Design files:[ click here](/uploads/helloEcho.zip)
+
 ![](/assets/electronics-design-1-350x197.png)
 
 Since I began with The Fab Foundation, I helped support two cycles of Fab Academy. While my main preoccupation with Fab Labs is procuring and deploying inventories for new installations, I also help procure supplies for labs running Academany courses. While most requests come in the form of shipping out end mills or FR-1, the most involved request was the procurement and distribution of Stage Kits for the Machine Making assignment. It was during my second go in 2016 of shipping out stage kits that I got my first big lesson in Electronics Design.

@@ -12,6 +12,8 @@
 
 * [ ] Included your design files and ‘hero shot’ photos of the scan and the final object
 
+Design files:[ click here](/uploads/katamari.zip)
+
 ![](/assets/12066021_10153011932486307_3001689237034383865_n.jpg)
 
 Last year, I spent Halloween dressed as Bernie Sanders while I 3D printed toys and treats for kids. I got a good workflow going from designing pixel art in GIMP, to converting the designs in vector in Inkscape, and then extruding the models in blender. There was just one problem: the models that I was printing were subtractive and not additive.
