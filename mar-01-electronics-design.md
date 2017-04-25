@@ -8,7 +8,7 @@
 
 * [ ] Included original design files \(Eagle, KiCad, Inkscape, .cad - whatever\)
 
-Design files:[ click here](/uploads/helloEcho.zip)
+* Design files:[ Right click + Save As](/uploads/helloEcho.zip)
 
 ![](/assets/electronics-design-1-350x197.png)
 
