@@ -8,7 +8,7 @@
 
 * [x] Included your original design files
 
-Design files:[ click here](/uploads/tamahka.zip)
+Design files:[ Right click + Save As](/uploads/tamahka.zip)
 
 What do you do when you’re short on time for a Final Project and need to do a slide? This assignment!
 
