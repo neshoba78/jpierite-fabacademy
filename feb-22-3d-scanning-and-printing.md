@@ -2,15 +2,15 @@
 
 #### Have you:
 
-* [ ] Described what you learned by testing the 3D printers
+* [x] Described what you learned by testing the 3D printers
 
-* [ ] Shown how you designed and made your object and explained why it could not be made subtractively
+* [x] Shown how you designed and made your object and explained why it could not be made subtractively
 
-* [ ] Scanned an object
+* [x] Scanned an object
 
-* [ ] Outlined problems and how you fixed them
+* [x] Outlined problems and how you fixed them
 
-* [ ] Included your design files and ‘hero shot’ photos of the scan and the final object
+* [x] Included your design files and ‘hero shot’ photos of the scan and the final object
 
 * Design files:[ Right click + Save As](/uploads/katamari.zip)
 
