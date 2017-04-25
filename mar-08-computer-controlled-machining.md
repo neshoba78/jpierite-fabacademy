@@ -24,6 +24,12 @@ There's a tutorial for this assignment on The Center for Bits and Atoms site, [h
 
 ![](/assets/IMG_3862.JPG)
 
+[![April 7, 2015 ](https://img.youtube.com/vi/MdH7EsKkzcI/0.jpg)](https://www.youtube.com/watch?v= MdH7EsKkzcI "April 7, 2015 ")
+
+[![April 7, 2015 ](https://img.youtube.com/vi/ysspIwxeKBs/0.jpg)](https://www.youtube.com/watch?v= ysspIwxeKBs "April 7, 2015 ")
+
+[![April 7, 2015 ](https://img.youtube.com/vi/RaRJE4wzvX0/0.jpg)](https://www.youtube.com/watch?v= RaRJE4wzvX0 "April 7, 2015 ")
+
 But wait, there's more!
 
 After taking that nice lesson, I returned to the South End Technology Center to wrestle with the first ShopBot ever purchased for a Fab Lab. What a bear that thing was. First off, the control box looked like a hollowed out desktop tower with an emergency stop. The spindle control was mounted to the wall. I had to go to
