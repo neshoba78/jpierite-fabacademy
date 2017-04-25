@@ -8,7 +8,7 @@
 
 * [x] Included a ‘hero shot’ of your board
 
-Since before the Democratic National [Convention](/assets/IMG_3602.JPG), people in the United States waited on Julian Assange to release whatever leaked documents he has that could affect our presidential election. This is what I feel like I’ve been doing to my instructors at FabLab Wgtn. Let’s make that better…
+Since before the Democratic National Convention, people in the United States waited on Julian Assange to release whatever leaked documents he has that could affect our presidential election. This is what I feel like I’ve been doing to my instructors at FabLab Wgtn. Let’s make that better…
 
 ![](/assets/IMG_3627.JPG)
 

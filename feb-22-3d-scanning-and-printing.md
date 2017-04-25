@@ -14,6 +14,8 @@
 
 Last year, I spent Halloween dressed as Bernie Sanders while I 3D printed toys and treats for kids. I got a good workflow going from designing pixel art in GIMP, to converting the designs in vector in Inkscape, and then extruding the models in blender. There was just one problem: the models that I was printing were subtractive and not additive.
 
+![](/assets/12066021_10153011932486307_3001689237034383865_n.jpg)
+
 I found that the difference between additive vs. subtractive processes were difficult to articulate in design. The actual part from the Halloween activity was additive by how the model was rendered in Makerware or Cura. The part is hollow, aside from a honeycomb interior supported by external walls. That said, a subtractive method such as machining wax on the mini-mill could achieve the same external shape.
 
 So, I thought about it for a year…
@@ -24,9 +26,13 @@ Those were some pretty thoughts, but I didn’t have an “Aha!” moment until 
 
 A red ball rolled down the streets of Toledo, Ohio. It was part of an exhibit for the Toledo Museum of Art. Wind and rain from a storm freed the giant 15-foot wide ball and sent it fleeing museum staff members that hoped to capture and return it.
 
+[![BIG RED BALL KATAMARI DAMACY](https://img.youtube.com/vi/D049v4uBOJ4/0.jpg)](https://www.youtube.com/watch?v=D049v4uBOJ4 "BIG RED BALL KATAMARI DAMACY")
+
 Seeing this ball reminded me of Katamari Damacy, a video game about rolling balls along any scale of surface. You start small by rolling pencils, pins, and mice; ultimately the ball becomes so large that you can roll up: cows, whales and Godzilla. The clump of animals, vehicles, and buildings is then judged by the King of the Cosmos. He decides whether the product is big and impressive enough to become a star. Seems like the perfect metaphor for Fab Academy.
 
 And so I set out to make a Katamari wrapped in a paperclip chain…
+
+![](/assets/Screen-Shot-2016-09-22-at-2.13.54-PM.png)
 
 NOT SO FAST: you forgot to wrestle with machines and troubleshoot
 
