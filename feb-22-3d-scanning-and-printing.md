@@ -12,7 +12,7 @@
 
 * [ ] Included your design files and ‘hero shot’ photos of the scan and the final object
 
-Design files:[ click here](/uploads/katamari.zip)
+* Design files:[ Right click + Save As](/uploads/katamari.zip)
 
 ![](/assets/12066021_10153011932486307_3001689237034383865_n.jpg)
 
