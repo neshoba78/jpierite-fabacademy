@@ -24,11 +24,11 @@ There's a tutorial for this assignment on The Center for Bits and Atoms site, [h
 
 ![](/assets/IMG_3862.JPG)
 
-[![April 7, 2015 ](https://img.youtube.com/vi/MdH7EsKkzcI/0.jpg)](https://www.youtube.com/watch?v= MdH7EsKkzcI "April 7, 2015 ")
+[![April 7, 2015 ](https://img.youtube.com/vi/MdH7EsKkzcI/0.jpg)](https://www.youtube.com/watch?v=MdH7EsKkzcI "April 7, 2015 ")
 
-[![April 7, 2015 ](https://img.youtube.com/vi/ysspIwxeKBs/0.jpg)](https://www.youtube.com/watch?v= ysspIwxeKBs "April 7, 2015 ")
+[![April 7, 2015 ](https://img.youtube.com/vi/ysspIwxeKBs/0.jpg)](https://www.youtube.com/watch?v=ysspIwxeKBs "April 7, 2015 ")
 
-[![April 7, 2015 ](https://img.youtube.com/vi/RaRJE4wzvX0/0.jpg)](https://www.youtube.com/watch?v= RaRJE4wzvX0 "April 7, 2015 ")
+[![April 7, 2015 ](https://img.youtube.com/vi/RaRJE4wzvX0/0.jpg)](https://www.youtube.com/watch?v=RaRJE4wzvX0 "April 7, 2015 ")
 
 But wait, there's more!
 
