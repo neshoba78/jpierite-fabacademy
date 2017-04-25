@@ -2,11 +2,11 @@
 
 #### Have you:
 
-* [ ] Shown your process using words/images/screenshots
+* [x] Shown your process using words/images/screenshots
 
-* [ ] Explained problems and how you fixed them, including how you worked with design rules for milling \(DRC in EagleCad and KiCad\)
+* [x] Explained problems and how you fixed them, including how you worked with design rules for milling \(DRC in EagleCad and KiCad\)
 
-* [ ] Included original design files \(Eagle, KiCad, Inkscape, .cad - whatever\)
+* [x] Included original design files \(Eagle, KiCad, Inkscape, .cad - whatever\)
 
 * Design files:[ Right click + Save As](/uploads/helloEcho.zip)
 
