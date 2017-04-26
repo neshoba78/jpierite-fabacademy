@@ -20,6 +20,8 @@
 
 Design Files: [Right Click + Save](/uploads/four-pos-tool.zip)
 
+See also: [Work done submitting the gestalt node to Seeed Studio](/mar-01-electronics-design.md)
+
 This is a group project that I worked on with Dan Moran, Fab Lab Tulsa. Using the instructions on the modular Machines that Make page, we built a single stage and planned for an end effector. Rather than have a single end effector, we decided to prototype a mechanical four-position tool.
 
 The concept is to sacrifice some of the carriage’s travel distance to rotate a ratchet and swap tool heads.
@@ -62,8 +64,4 @@ Moran, Dan "Machine Building" Message to Jean-Luc Pierite. 26 May 2015. E-mail.
 Moran, Dan "Machine Design End Effector Update" Message to Jean-Luc Pierite. 2 June 2015. E-mail.
 
 Pierite, Jean-Luc "Machine Design End Effector Update" Message to Dan Moran. 8 June 2015. E-mail.
-
-
-
-
 
