@@ -14,15 +14,56 @@
 
 * [ ] Included your design files, ‘hero shot’ photos of the machine and a short video of it operating
 
-![](/assets/Week 16 4.JPG)
+![](/assets/four-pos-tool-slide.png)
 
-![](/assets/Week 16 5.JPG)
+[![Four Position Tool Changer](https://img.youtube.com/vi/qs3NtUlOjG4/0.jpg)](https://www.youtube.com/watch?v=qs3NtUlOjG4 "Four Position Tool Changer")
 
-![](/assets/Week 16 6.JPG)
+Design Files: [Right Click + Save](/uploads/four-pos-tool.zip)
 
-![](/assets/Week 16 8.JPG)
+This is a group project that I worked on with Dan Moran, Fab Lab Tulsa. Using the instructions on the modular Machines that Make page, we built a single stage and planned for an end effector. Rather than have a single end effector, we decided to prototype a mechanical four-position tool.
 
-![](/assets/Week 16 9.JPG)
+The concept is to sacrifice some of the carriage’s travel distance to rotate a ratchet and swap tool heads.
+
+**Description from Dan:**  
+“The lead screw will move the carriage to one of its limits where a ratchet on the carriage will engage a static pawl anchored to the stage housing. As the carriage is moved away the pawl should rotate the ratchet a quarter turn and be left in that position thanks to a concentric, spring-loaded cam. So by sacrificing a small portion of its overall travel to the ratcheting action, a single stage should now have the ability to use 4 times the tools.”
+
+The build took several rounds of revisions in order to get the ratchet and pawl to engage reliably and stay in contact longer.
+
+After several revisions, we improved on engagement by adding an additional rake to the pawl and ratchet.
+
+The carriage will translate backwards towards the stepper motor to the engage the pawl attached to a platform screwed to the stage housing and as the carriage moves away, the pawl will rotate the face plate a quarter turn as controlled by the 4 lobe cam and rubber band powered cam follower.
+
+We used \#8 screws to illustrate tools.
+
+We mounted the pawl assembly over the stepper motor end of the stage and put it through several manual cycles with my hands. Here are distances as measured from the pawl platform leading edge to the leading edge of the cardboard carriage \(lead screw nut end\) that would influence the range of the stage:
+
+1. 30 mm Pawl makes contact with ratchet \(carriage moving toward pawl assy. and stepper motor\)
+2. 33 mm Pawl seated in ratchet tooth \(carriage moving away from pawl assy. and stepper motor\)
+3. 70 mm Pawl clears ratchet tooth \(carriage moving away from pawl assy. & stepper motor\)
+
+These distances were a little difficult to measure with much accuracy. The stage would loose at least 70mm of its range in the current design or potentially more since the pawl assembly can be mounted anywhere along the length of the lead screw.
+
+Catching up with you on the software side of our machine. I have attached the code and a “path.csv” to manage the coordinates for moves.
+
+The file can be executed by navigating to the directory and typing “python pawl.py” I’d probably copy this into /examples/htmaa. Wasn’t sure if there were any other dependencies. For this round, I did not include the bootloader.
+
+**Notes:**
+
+1. I need to know the device ID of the FTDI cable on your end. I left it as the default: “/dev/ttyUSB0”. You can find the device by typing “ls /dev/tty.usb\*”
+2. I noticed several threads come up that can be resolved by deleting the “test.vmp” file. I added that as our first step.
+3. Because we need to move the carriage from a home point, towards the motor and back; I wanted to do this in three moves to avoid errors. The first move takes the carriage back to home \(70\) in case of any power outage or interruption. The carriage then moves toward the motor \(30\) to engage the pawl. The final move \(70\) causes the pawl to rotate the face plate. These are set in the path.csv.
+4. I used Bas’s FABNET Bridge Board to test. Attached the traces.
+5. We can control the velocity of the moves, considering wear on the pawl and how quickly we want to make the change.
+
+**Sources**
+
+Moran, Dan "Machine Building" Message to Jean-Luc Pierite. 26 May 2015. E-mail.
+
+Moran, Dan "Machine Design End Effector Update" Message to Jean-Luc Pierite. 2 June 2015. E-mail.
+
+Pierite, Jean-Luc "Machine Design End Effector Update" Message to Dan Moran. 8 June 2015. E-mail.
+
+
 
 
 
