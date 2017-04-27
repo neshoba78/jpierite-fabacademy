@@ -99,7 +99,7 @@ The week of DigiFabCon 2017, I met Ted Hall at Center for Bits and Atoms. His fi
 
 Before I met Sallye, I would create Fab Lab pro forma based solely on the Fab Lab Inventory curated by MIT. The what's and why's were normally answered by, "this is what MIT recommends" or "this is what is needed to take Fab Academy." That said, I don't think we ever got around to explaining 5 gallons of machine oil or the $84 USD 1/2" two flute downcut end mill. I received a spreadsheet on tooling from Sallye that was very helpful in explaining what was the right tool for wood-specific applications in a Fab Lab: [Right Click + Save](/uploads/bit-inventory.csv)
 
-Aside from tooling information, Sallye also composed a very helpful PowerPoint on Fab Lab tools and software: [Right Click + Save](/uploads/fablab-summary-tools-software.pdf)
+Aside from tooling information, Sallye also composed a very helpful PowerPoint on Fab Lab tools and software: [Right Click + Save](/uploads/fablab-summary-tools-software.zip)
 
 Main takeaways:  
 1. Software is either CAD, What + Where, or CAM, How  
