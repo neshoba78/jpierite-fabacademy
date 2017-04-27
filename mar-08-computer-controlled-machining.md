@@ -21,11 +21,13 @@ Oh. My God. It's like I've always thought. [Mystery Science Theater 3000](http:/
 There's a tutorial for this assignment on The Center for Bits and Atoms site, [here](http://fab.cba.mit.edu/content/tools/shopbot/index.html). I didn't know that in 2015. So, what ended up happening is that I went to the CBA shop and bothered the "Spiciest Meme Lord" Tom Lutz.
 
 ![](/assets/IMG_3858.JPG)
+
 _They're not playing around in the CBA Shop. Oh yeah, cause you can lose limbs or die..._
 
 He walked me through the process of using Partworks, setting up the ShopBot, and not losing eyes or fingers in the process. With those surviving eyes and fingers, I took copious notes.
 
 ![](/assets/SHOPBOT NOTES FROM CBA.jpg)
+
 _#Copious_
 
 With Tom's assistance, I was able to design and cut out a monogram plaque which I keep by my work desk to this day.
@@ -34,11 +36,14 @@ With Tom's assistance, I was able to design and cut out a monogram plaque which 
 
 [![April 7, 2015 ](https://img.youtube.com/vi/ysspIwxeKBs/0.jpg)](https://www.youtube.com/watch?v=ysspIwxeKBs "April 7, 2015 ")
 
+_Baby's first machining project_
+
 **Trouble at The Southend Technology Center**
 
 After taking that nice lesson, I returned to the South End Technology Center to wrestle with the first ShopBot ever purchased for a Fab Lab. What a bear that thing was. First off, the control box looked like a hollowed out desktop tower with an emergency stop.
 
 ![](/assets/IMG_3908.JPG)
+
 _What the Hell is this??_
 
 It took a visit from Bill Young and an email to Ed Baafi to figure out what the mystery of the setup was. According to Ed, the big e-stop on the PC case is a hardware e-stop which cuts power. The big e-stop on the spindle controller is a software e-stop that stops a running program.
@@ -59,17 +64,20 @@ Ale Diaz de Leon has a nice summary of work flow on her page that I will adapt a
    * Outlines with tabs with tabs to keep pieces attached to the board while it's cutting
    
 ![](/assets/IMG_3860.JPG)
+
 _An example of setting up the file from Tom's walk through_
 
 * Put the stock on the sacrificial board on the machine. The surface should be clean and smooth
 
 ![](/assets/IMG_3863.JPG)
+
 _Stock is fixtured on four corners, instead of points set in software_
 
 * Find the home points for X, Y, Z
 * _#EmmasTips_ Emma Pareschi, (If the machine stops) the XYZ calibration should still be the same so always check if the machine kept it.
 
 ![](/assets/IMG_3862.JPG)
+
 _Homing the spindle from the ShopBot software_
 
 * Send the file from the ShopBot software to find the holes
@@ -78,6 +86,7 @@ _Homing the spindle from the ShopBot software_
 * _#EmmasTips_, if during the milling job the machine stops (it can happen for several reason like electric drop or comunication problems with the computer) it's important to take note of the line where the job ended. Then you can start the same job with the option: "start from the line" from the File menu. I suggest to move the bit close to the working area and start the job from two lines before the one you wrote down. For istance if the line stopped at line 200, I would start the new job from line 198.
 
 [![April 7, 2015 ](https://img.youtube.com/vi/RaRJE4wzvX0/0.jpg)](https://www.youtube.com/watch?v=RaRJE4wzvX0 "April 7, 2015 ")
+
 _ShopBot file running and sending tool paths to the machine_
 
 * Remove the tabs using a chisel and a hammer.
@@ -85,7 +94,7 @@ _ShopBot file running and sending tool paths to the machine_
 
 **Tooling**
 
-The week of DigiFabCon 2017, I met Ted Hall at Center for Bits and Atoms. His first words to me were, "Oh, so you're Jean-Luc. I heard everything about you." Followed up by, "I hear you've been spending a lot of time with my wife." Bill Young chuckled, "Well, that's one way to start a conversation." Sallye Coyle is a good friend and a great teacher. We've been on two Fab Lab installs together and two FABx meetings.
+The week of DigiFabCon 2017, I met Ted Hall at Center for Bits and Atoms. His first words to me were, "Oh, so you're Jean-Luc. I heard everything about you." Bill Young chuckled, "Well, that's one way to start a conversation." Sallye Coyle of ShopBot (and FAB CNC Guru) was on several adventures with me during the course of my work at The Fab Foundation. We've so far been on two lab installs and two FABx meetings.
 
 Before I met Sallye, I would create Fab Lab pro forma based solely on the Fab Lab Inventory curated by MIT. The what's and why's were normally answered by, "this is what MIT recommends" or "this is what is needed to take Fab Academy." That said, I don't think we ever got around to explaining 5 gallons of machine oil or the $84 USD 1/2" two flute downcut end mill. I received a spreadsheet on tooling from Sallye that was very helpful in explaining what was the right tool for wood-specific applications in a Fab Lab: [Right Click + Save](/uploads/bit-inventory.csv)
 
