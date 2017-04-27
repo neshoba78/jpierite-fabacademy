@@ -84,17 +84,17 @@ _ShopBot file running and sending tool paths to the machine_
 **Tooling**
 
 
-
 **Materials**
 
 
+**Designing files for Machining**
 
-**Setting up a ShopBot**
+
+**Building up a ShopBot**
 
 ![](/assets/IMG_0783.JPG)
 
 ![](/assets/IMG_0795.JPG)
-
 
 **Sources**
 
@@ -103,3 +103,4 @@ Baafi, Ed "A couple of quick questions on the ShopBot at SETC" Message to Jean-L
 Diaz De Leon Lastras, A. \(n.d.\). Computer-Controlled Machining. Retrieved April 19, 2017, from [http://fabacademy.org/archives/2014/students/diazdeleon.alejandra/8.Computer-ControlledM.html](http://fabacademy.org/archives/2014/students/diazdeleon.alejandra/8.Computer-ControlledM.html)
 
 Young, Bill "a couple of things for the SETC ShopBot" Message to Jean-Luc Pierite. 20 April 2015. E-mail.
+
