@@ -12,13 +12,33 @@
 
 ![](/assets/cnc-fab-lab.gif)
 
+**This week's "Invention Exchange"**
+
 Oh. My God. It's like I've always thought. [Mystery Science Theater 3000](http://splitsider.com/2017/03/building-on-sacred-ground-with-the-new-cast-of-mst3k/) is a parody of my work at The Fab Foundation!
 
-There's a tutorial for this assignment on The Center for Bits and Atoms site, [here](http://fab.cba.mit.edu/content/tools/shopbot/index.html). I didn't know that in 2015. So, what ended up happening is that I went to the CBA shop and bothered the "Spiciest Meme Lord" Tom Lutz. He walked me through the process of using Partworks, setting up the ShopBot, and not losing eyes or fingers in the process. With Tom's assistance, I was able to design and cut out a monogram plaque which I keep by my work desk to this day.
+**Visiting MIT's Center for Bits and Atoms**
 
-But wait, there's more!
+There's a tutorial for this assignment on The Center for Bits and Atoms site, [here](http://fab.cba.mit.edu/content/tools/shopbot/index.html). I didn't know that in 2015. So, what ended up happening is that I went to the CBA shop and bothered the "Spiciest Meme Lord" Tom Lutz.
 
-After taking that nice lesson, I returned to the South End Technology Center to wrestle with the first ShopBot ever purchased for a Fab Lab. What a bear that thing was. First off, the control box looked like a hollowed out desktop tower with an emergency stop. The spindle control was mounted to the wall. I had to go to
+![](/assets/IMG_3858.JPG)
+
+He walked me through the process of using Partworks, setting up the ShopBot, and not losing eyes or fingers in the process.
+
+![](/assets/SHOPBOT NOTES FROM CBA.jpg)
+
+With Tom's assistance, I was able to design and cut out a monogram plaque which I keep by my work desk to this day.
+
+[![April 7, 2015 ](https://img.youtube.com/vi/MdH7EsKkzcI/0.jpg)](https://www.youtube.com/watch?v=MdH7EsKkzcI "April 7, 2015 ")
+
+[![April 7, 2015 ](https://img.youtube.com/vi/ysspIwxeKBs/0.jpg)](https://www.youtube.com/watch?v=ysspIwxeKBs "April 7, 2015 ")
+
+[![April 7, 2015 ](https://img.youtube.com/vi/RaRJE4wzvX0/0.jpg)](https://www.youtube.com/watch?v=RaRJE4wzvX0 "April 7, 2015 ")
+
+**Trouble at The Southend Technology Center**
+
+After taking that nice lesson, I returned to the South End Technology Center to wrestle with the first ShopBot ever purchased for a Fab Lab. What a bear that thing was. First off, the control box looked like a hollowed out desktop tower with an emergency stop.
+
+**Steps for Machining**
 
 Ale Diaz de Leon has a nice summary of work flow on her page that I will adapt and integrate with the tutorials and CBA lesson:
 
@@ -38,9 +58,9 @@ Ale Diaz de Leon has a nice summary of work flow on her page that I will adapt a
 
 Diaz De Leon Lastras, A. (n.d.). Computer-Controlled Machining. Retrieved April 19, 2017, from http://fabacademy.org/archives/2014/students/diazdeleon.alejandra/8.Computer-ControlledM.html
 
-![](/assets/IMG_3858.JPG)
 
-![](/assets/SHOPBOT NOTES FROM CBA.jpg)
+
+
 
 ![](/assets/IMG_3860.JPG)
 
@@ -48,11 +68,7 @@ Diaz De Leon Lastras, A. (n.d.). Computer-Controlled Machining. Retrieved April 
 
 ![](/assets/IMG_3862.JPG)
 
-[![April 7, 2015 ](https://img.youtube.com/vi/MdH7EsKkzcI/0.jpg)](https://www.youtube.com/watch?v=MdH7EsKkzcI "April 7, 2015 ")
 
-[![April 7, 2015 ](https://img.youtube.com/vi/ysspIwxeKBs/0.jpg)](https://www.youtube.com/watch?v=ysspIwxeKBs "April 7, 2015 ")
-
-[![April 7, 2015 ](https://img.youtube.com/vi/RaRJE4wzvX0/0.jpg)](https://www.youtube.com/watch?v=RaRJE4wzvX0 "April 7, 2015 ")
 
 ![](/assets/IMG_0783.JPG)
 
