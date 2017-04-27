@@ -67,6 +67,7 @@ _An example of setting up the file from Tom's walk through_
 _Stock is fixtured on four corners, instead of points set in software_
 
 * Find the home points for X, Y, Z
+* _#EmmasTips_ Emma Pareschi, (If the machine stops) the XYZ calibration should still be the same so always check if the machine kept it.
 
 ![](/assets/IMG_3862.JPG)
 _Homing the spindle from the ShopBot software_
@@ -74,6 +75,7 @@ _Homing the spindle from the ShopBot software_
 * Send the file from the ShopBot software to find the holes
 * Drill the screws on the stock to fixture. That way, the stock will not move during the machining
 * Send the file and wait for it to finish cutting.
+* _#EmmasTips_, if during the milling job the machine stops (it can happen for several reason like electric drop or comunication problems with the computer) it's important to take note of the line where the job ended. Then you can start the same job with the option: "start from the line" from the File menu. I suggest to move the bit close to the working area and start the job from two lines before the one you wrote down. For istance if the line stopped at line 200, I would start the new job from line 198.
 
 [![April 7, 2015 ](https://img.youtube.com/vi/RaRJE4wzvX0/0.jpg)](https://www.youtube.com/watch?v=RaRJE4wzvX0 "April 7, 2015 ")
 _ShopBot file running and sending tool paths to the machine_
@@ -101,6 +103,8 @@ _ShopBot file running and sending tool paths to the machine_
 Baafi, Ed "A couple of quick questions on the ShopBot at SETC" Message to Jean-Luc Pierite. 30 April 2015. E-mail.
 
 Diaz De Leon Lastras, A. \(n.d.\). Computer-Controlled Machining. Retrieved April 19, 2017, from [http://fabacademy.org/archives/2014/students/diazdeleon.alejandra/8.Computer-ControlledM.html](http://fabacademy.org/archives/2014/students/diazdeleon.alejandra/8.Computer-ControlledM.html)
+
+Pareschi, E. (n.d.). Emma's note. Retrieved April 19, 2017, from http://fabacademy.org/archives/2014/students/pareschi.emma/classes_wk7.html
 
 Young, Bill "a couple of things for the SETC ShopBot" Message to Jean-Luc Pierite. 20 April 2015. E-mail.
 
