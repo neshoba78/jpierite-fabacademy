@@ -102,9 +102,9 @@ Before I met Sallye, I would create Fab Lab pro forma based solely on the Fab La
 Aside from tooling information, Sallye also composed a very helpful PowerPoint on Fab Lab tools and software: [Right Click + Save](/uploads/fablab-summary-tools-software.pdf)
 
 Main takeaways:  
-1. Software is either CAD, What + Where, or CAM, How  
-2. Types of toolpaths \(ShopBot\):  
-   1. 2D \(Cut to one depth: end mill bit\)  
+1. Software is either CAD, What + Where, or CAM, How
+2. Types of toolpaths \(ShopBot\):
+   1. 2D \(Cut to one depth: end mill bit\)
    2. Engrave \(Create engraved look in le ering, designs: V bit\) • 3D \(ball nose bit\)  
 3. Able to Machine \(ShopBot\)  
    1. Wood and wood products: Plywood; Hardwood; MDF  
