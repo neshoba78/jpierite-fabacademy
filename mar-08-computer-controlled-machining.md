@@ -85,6 +85,9 @@ _ShopBot file running and sending tool paths to the machine_
 
 **Tooling**
 
+The week of DigiFabCon 2017, I met Ted Hall at Center for Bits and Atoms. His first words to me were, "Oh, so you're Jean-Luc. I heard everything about you." Followed up by, "I hear you've been spending a lot of time with my wife." Bill Young chuckled, "Well, that's one way to start a conversation." Sallye Coyle is a good friend and a great teacher. We've been on two Fab Lab installs together and two FABx meetings.
+
+Before I met Sallye, I would create Fab Lab pro forma based on 
 
 **Materials**
 
@@ -101,6 +104,8 @@ _ShopBot file running and sending tool paths to the machine_
 **Sources**
 
 Baafi, Ed "A couple of quick questions on the ShopBot at SETC" Message to Jean-Luc Pierite. 30 April 2015. E-mail.
+
+Coyle, Sallye "Bit inventory for Bakersfield" Message to Jean-Luc Pierite. 20 July 2016. E-mail.
 
 Diaz De Leon Lastras, A. \(n.d.\). Computer-Controlled Machining. Retrieved April 19, 2017, from [http://fabacademy.org/archives/2014/students/diazdeleon.alejandra/8.Computer-ControlledM.html](http://fabacademy.org/archives/2014/students/diazdeleon.alejandra/8.Computer-ControlledM.html)
 
