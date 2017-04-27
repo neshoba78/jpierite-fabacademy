@@ -98,6 +98,21 @@ The week of DigiFabCon 2017, I met Ted Hall at Center for Bits and Atoms. His fi
 
 Before I met Sallye, I would create Fab Lab pro forma based solely on the Fab Lab Inventory curated by MIT. The what's and why's were normally answered by, "this is what MIT recommends" or "this is what is needed to take Fab Academy." That said, I don't think we ever got around to explaining 5 gallons of machine oil or the $84 USD 1/2" two flute downcut end mill. I received a spreadsheet on tooling from Sallye that was very helpful in explaining what was the right tool for wood-specific applications in a Fab Lab: [Right Click + Save](/uploads/bit-inventory.csv)
 
+Aside from tooling information, Sallye also composed a very helpful PowerPoint on Fab Lab tools and software: [Right Click + Save](/uploads/fablab-summary-tools-software.pdf)
+
+Main takeaways:
+1. Software is either CAD, What + Where, or CAM, How
+2. Types of toolpaths (ShopBot)
+  1. 2D (Cut to one depth: end mill bit)
+  2. Engrave (Create engraved look in le ering, designs: V bit) • 3D (ball nose bit)
+3. Able to Machine (ShopBot)
+  1. Wood and wood products: Plywood; Hardwood; MDF
+  2. Plastics (use correct bit and slower RPMs than for wood): Acrylic; PVC; HDPE
+  3. So  metals (use correct bit and slower RPMs than for wood, some mes use coolant): Aluminum; Copper/ Brass
+  4. Circuit boards: copper on phenolic (detail depends on model of ShopBot)
+  5. Machineable wax
+  6. Plaster and other mold making materials such as pressed vermiculite and Ceramaguard TM(use good dust collec on and respira on masks)
+
 **Materials**
 
 
@@ -115,6 +130,8 @@ Before I met Sallye, I would create Fab Lab pro forma based solely on the Fab La
 Baafi, Ed "A couple of quick questions on the ShopBot at SETC" Message to Jean-Luc Pierite. 30 April 2015. E-mail.
 
 Coyle, Sallye "Bit inventory for Bakersfield" Message to Jean-Luc Pierite. 20 July 2016. E-mail.
+
+Coyle, Sallye "Powerpoint i did in Egypt for the teachers to summarize the equipment and software in a FabLab" Message to Jean-Luc Pierite. 23 March 2016. E-mail.
 
 Diaz De Leon Lastras, A. \(n.d.\). Computer-Controlled Machining. Retrieved April 19, 2017, from [http://fabacademy.org/archives/2014/students/diazdeleon.alejandra/8.Computer-ControlledM.html](http://fabacademy.org/archives/2014/students/diazdeleon.alejandra/8.Computer-ControlledM.html)
 
