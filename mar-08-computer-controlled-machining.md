@@ -28,7 +28,7 @@ He walked me through the process of using Partworks, setting up the ShopBot, and
 
 ![](/assets/SHOPBOT NOTES FROM CBA.jpg)
 
-_#Copious_
+_\#Copious_
 
 With Tom's assistance, I was able to design and cut out a monogram plaque which I keep by my work desk to this day.
 
@@ -49,8 +49,9 @@ _What the Hell is this??_
 It took a visit from Bill Young and an email to Ed Baafi to figure out what the mystery of the setup was. According to Ed, the big e-stop on the PC case is a hardware e-stop which cuts power. The big e-stop on the spindle controller is a software e-stop that stops a running program.
 
 Bill Young's visit gave us a little history on the "first ShopBot ever purchased for a Fab Lab":
+
 * We did not know when was the last time the pinion gears were changed, if ever
-* Dianne Reynolds from ShopBot found the specs on the tool. It's a PRSstandard96-48-6 4/2007 with a 4hp 1 phase spindle (This is actually important to remember when loading the settings file in the ShopBot software)
+* Dianne Reynolds from ShopBot found the specs on the tool. It's a PRSstandard96-48-6 4/2007 with a 4hp 1 phase spindle \(This is actually important to remember when loading the settings file in the ShopBot software\)
 * We also needed a surfacing bit for leveling the sacrificial board and stock.
 * The spindle control that had the software e-stop is a V7-4X VFD. We wanted to replace that, but another visit from Ryan Patterson resolved any bugs by updating the firmware
 
@@ -59,10 +60,10 @@ Bill Young's visit gave us a little history on the "first ShopBot ever purchased
 Ale Diaz de Leon has a nice summary of work flow on her page that I will adapt and integrate with the tutorials and CBA lesson:
 
 * Prepare the file on the ShopBot software. The result is three layers:
-   * Holes for fixturing the stock
-   * Inside pieces
-   * Outlines with tabs with tabs to keep pieces attached to the board while it's cutting
-   
+  * Holes for fixturing the stock
+  * Inside pieces
+  * Outlines with tabs with tabs to keep pieces attached to the board while it's cutting
+
 ![](/assets/IMG_3860.JPG)
 
 _An example of setting up the file from Tom's walk through_
@@ -74,7 +75,7 @@ _An example of setting up the file from Tom's walk through_
 _Stock is fixtured on four corners, instead of points set in software_
 
 * Find the home points for X, Y, Z
-* _#EmmasTips_ Emma Pareschi, (If the machine stops) the XYZ calibration should still be the same so always check if the machine kept it.
+* _\#EmmasTips_ Emma Pareschi, \(If the machine stops\) the XYZ calibration should still be the same so always check if the machine kept it.
 
 ![](/assets/IMG_3862.JPG)
 
@@ -83,7 +84,7 @@ _Homing the spindle from the ShopBot software_
 * Send the file from the ShopBot software to find the holes
 * Drill the screws on the stock to fixture. That way, the stock will not move during the machining
 * Send the file and wait for it to finish cutting.
-* _#EmmasTips_, if during the milling job the machine stops (it can happen for several reason like electric drop or comunication problems with the computer) it's important to take note of the line where the job ended. Then you can start the same job with the option: "start from the line" from the File menu. I suggest to move the bit close to the working area and start the job from two lines before the one you wrote down. For istance if the line stopped at line 200, I would start the new job from line 198.
+* _\#EmmasTips_, if during the milling job the machine stops \(it can happen for several reason like electric drop or comunication problems with the computer\) it's important to take note of the line where the job ended. Then you can start the same job with the option: "start from the line" from the File menu. I suggest to move the bit close to the working area and start the job from two lines before the one you wrote down. For istance if the line stopped at line 200, I would start the new job from line 198.
 
 [![April 7, 2015 ](https://img.youtube.com/vi/RaRJE4wzvX0/0.jpg)](https://www.youtube.com/watch?v=RaRJE4wzvX0 "April 7, 2015 ")
 
@@ -94,30 +95,28 @@ _ShopBot file running and sending tool paths to the machine_
 
 **Tooling**
 
-The week of DigiFabCon 2017, I met Ted Hall at Center for Bits and Atoms. His first words to me were, "Oh, so you're Jean-Luc. I heard everything about you." Bill Young chuckled, "Well, that's one way to start a conversation." Sallye Coyle of ShopBot (and FAB CNC Guru) was on several adventures with me during the course of my work at The Fab Foundation. We've so far been on two lab installs and two FABx meetings.
+The week of DigiFabCon 2017, I met Ted Hall at Center for Bits and Atoms. His first words to me were, "Oh, so you're Jean-Luc. I heard everything about you." Bill Young chuckled, "Well, that's one way to start a conversation." Sallye Coyle of ShopBot \(and FAB CNC Guru\) was on several adventures with me during the course of my work at The Fab Foundation. We've so far been on two lab installs and two FABx meetings.
 
 Before I met Sallye, I would create Fab Lab pro forma based solely on the Fab Lab Inventory curated by MIT. The what's and why's were normally answered by, "this is what MIT recommends" or "this is what is needed to take Fab Academy." That said, I don't think we ever got around to explaining 5 gallons of machine oil or the $84 USD 1/2" two flute downcut end mill. I received a spreadsheet on tooling from Sallye that was very helpful in explaining what was the right tool for wood-specific applications in a Fab Lab: [Right Click + Save](/uploads/bit-inventory.csv)
 
 Aside from tooling information, Sallye also composed a very helpful PowerPoint on Fab Lab tools and software: [Right Click + Save](/uploads/fablab-summary-tools-software.pdf)
 
-Main takeaways:
-1. Software is either CAD, What + Where, or CAM, How
-2. Types of toolpaths (ShopBot)
-  1. 2D (Cut to one depth: end mill bit)
-  2. Engrave (Create engraved look in le ering, designs: V bit) • 3D (ball nose bit)
-3. Able to Machine (ShopBot)
-  1. Wood and wood products: Plywood; Hardwood; MDF
-  2. Plastics (use correct bit and slower RPMs than for wood): Acrylic; PVC; HDPE
-  3. So  metals (use correct bit and slower RPMs than for wood, some mes use coolant): Aluminum; Copper/ Brass
-  4. Circuit boards: copper on phenolic (detail depends on model of ShopBot)
-  5. Machineable wax
-  6. Plaster and other mold making materials such as pressed vermiculite and Ceramaguard TM(use good dust collec on and respira on masks)
+Main takeaways:  
+1. Software is either CAD, What + Where, or CAM, How  
+2. Types of toolpaths \(ShopBot\):
+   1. 2D \(Cut to one depth: end mill bit\)
+   2. Engrave \(Create engraved look in le ering, designs: V bit\) • 3D \(ball nose bit\)
+3. Able to Machine \(ShopBot\)
+   1. Wood and wood products: Plywood; Hardwood; MDF
+   2. Plastics \(use correct bit and slower RPMs than for wood\): Acrylic; PVC; HDPE
+   3. So  metals \(use correct bit and slower RPMs than for wood, some mes use coolant\): Aluminum; Copper/ Brass
+   4. Circuit boards: copper on phenolic \(detail depends on model of ShopBot\)
+   5. Machineable wax
+   6. Plaster and other mold making materials such as pressed vermiculite and Ceramaguard TM\(use good dust collec on and respira on masks\)
 
 **Materials**
 
-
 **Designing files for Machining**
-
 
 **Building up a ShopBot**
 
@@ -135,7 +134,7 @@ Coyle, Sallye "Powerpoint i did in Egypt for the teachers to summarize the equip
 
 Diaz De Leon Lastras, A. \(n.d.\). Computer-Controlled Machining. Retrieved April 19, 2017, from [http://fabacademy.org/archives/2014/students/diazdeleon.alejandra/8.Computer-ControlledM.html](http://fabacademy.org/archives/2014/students/diazdeleon.alejandra/8.Computer-ControlledM.html)
 
-Pareschi, E. (n.d.). Emma's note. Retrieved April 19, 2017, from http://fabacademy.org/archives/2014/students/pareschi.emma/classes_wk7.html
+Pareschi, E. \(n.d.\). Emma's note. Retrieved April 19, 2017, from [http://fabacademy.org/archives/2014/students/pareschi.emma/classes\_wk7.html](http://fabacademy.org/archives/2014/students/pareschi.emma/classes_wk7.html)
 
 Young, Bill "a couple of things for the SETC ShopBot" Message to Jean-Luc Pierite. 20 April 2015. E-mail.
 
