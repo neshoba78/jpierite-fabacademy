@@ -87,7 +87,7 @@ _ShopBot file running and sending tool paths to the machine_
 
 The week of DigiFabCon 2017, I met Ted Hall at Center for Bits and Atoms. His first words to me were, "Oh, so you're Jean-Luc. I heard everything about you." Followed up by, "I hear you've been spending a lot of time with my wife." Bill Young chuckled, "Well, that's one way to start a conversation." Sallye Coyle is a good friend and a great teacher. We've been on two Fab Lab installs together and two FABx meetings.
 
-Before I met Sallye, I would create Fab Lab pro forma based on 
+Before I met Sallye, I would create Fab Lab pro forma based solely on the Fab Lab Inventory curated by MIT. The what's and why's were normally answered by, "this is what MIT recommends" or "this is what is needed to take Fab Academy." That said, I don't think we ever got around to explaining 5 gallons of machine oil or the $84 USD 1/2" two flute downcut end mill. I received a spreadsheet on tooling from Sallye that was very helpful in explaining what was the right tool for specific, common applications in a Fab Lab: [Right Click + Save](/uploads/bit-inventory.csv)
 
 **Materials**
 
