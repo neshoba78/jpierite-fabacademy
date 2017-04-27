@@ -103,15 +103,15 @@ Aside from tooling information, Sallye also composed a very helpful PowerPoint o
 
 Main takeaways:  
 1. Software is either CAD, What + Where, or CAM, How  
-2. Types of toolpaths \(ShopBot\):
-   1. 2D \(Cut to one depth: end mill bit\)
-   2. Engrave \(Create engraved look in le ering, designs: V bit\) • 3D \(ball nose bit\)
-3. Able to Machine \(ShopBot\)
-   1. Wood and wood products: Plywood; Hardwood; MDF
-   2. Plastics \(use correct bit and slower RPMs than for wood\): Acrylic; PVC; HDPE
-   3. So  metals \(use correct bit and slower RPMs than for wood, some mes use coolant\): Aluminum; Copper/ Brass
-   4. Circuit boards: copper on phenolic \(detail depends on model of ShopBot\)
-   5. Machineable wax
+2. Types of toolpaths \(ShopBot\):  
+   1. 2D \(Cut to one depth: end mill bit\)  
+   2. Engrave \(Create engraved look in le ering, designs: V bit\) • 3D \(ball nose bit\)  
+3. Able to Machine \(ShopBot\)  
+   1. Wood and wood products: Plywood; Hardwood; MDF  
+   2. Plastics \(use correct bit and slower RPMs than for wood\): Acrylic; PVC; HDPE  
+   3. So  metals \(use correct bit and slower RPMs than for wood, some mes use coolant\): Aluminum; Copper/ Brass  
+   4. Circuit boards: copper on phenolic \(detail depends on model of ShopBot\)  
+   5. Machineable wax  
    6. Plaster and other mold making materials such as pressed vermiculite and Ceramaguard TM\(use good dust collec on and respira on masks\)
 
 **Materials**
