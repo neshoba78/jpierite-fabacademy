@@ -16,6 +16,8 @@
 
 ![](/assets/12066021_10153011932486307_3001689237034383865_n.jpg)
 
+_Time to have an honest discussion with children about Democratic Socialism_
+
 Last year, I spent Halloween dressed as Bernie Sanders while I 3D printed toys and treats for kids. I got a good workflow going from designing pixel art in GIMP, to converting the designs in vector in Inkscape, and then extruding the models in blender. There was just one problem: the models that I was printing were subtractive and not additive.
 
 [![3D Printing](https://img.youtube.com/vi/vj_raCvGO7E/0.jpg)](https://www.youtube.com/watch?v=vj_raCvGO7E "3D Printing")
