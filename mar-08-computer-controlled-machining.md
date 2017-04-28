@@ -66,9 +66,13 @@ Ale Diaz de Leon has a nice summary of work flow on her page that I will adapt a
   * Inside pieces
   * Outlines with tabs with tabs to keep pieces attached to the board while it's cutting
 
+* _#RobertosTip_ Roberto Gallo, experiment with the design by fabricating scale models to find design errors. Repeat for at least four iterations to get the best results.
+
 ![](/assets/IMG_3860.JPG)
 
 _An example of setting up the file from Tom's walk through_
+
+* _#IsaacsTip_ Isaac Robles, check that all parts of the machining bed are leveled.
 
 * Put the stock on the sacrificial board on the machine. The surface should be clean and smooth
 
@@ -77,6 +81,7 @@ _An example of setting up the file from Tom's walk through_
 _Stock is fixtured on four corners, instead of points set in software_
 
 * Find the home points for X, Y, Z
+* _#JeanLucsTip_ Luciano Betoldi and I tested jogs after noticing that everything was scaled by 50%. Double check that your settings file is the right one for the machine. If you are unsure, send jog commands from the ShopBot software and test that the spindle moves the correct distance of millimeters or inches.
 * _\#EmmasTips_ Emma Pareschi, \(If the machine stops\) the XYZ calibration should still be the same so always check if the machine kept it.
 
 ![](/assets/IMG_3862.JPG)
@@ -84,6 +89,8 @@ _Stock is fixtured on four corners, instead of points set in software_
 _Homing the spindle from the ShopBot software_
 
 * Send the file from the ShopBot software to find the holes
+* _#KonstantinsTip_ Konstantin Leonenko, don't forget to air cut. When ready, take time to manually load panel-per-panel and hole-per-hole until confident enough to load simultaneous sides. Use a buddy system for fixturing. Careful positioning of screws will save stock and stay out of the way for the machine.
+* _#ScottsTip_ Scott Zitek, screws are preferable to clamps which stick up and can easily be hit by a moving spindle. When creating holes for screws on stock, only barely mark the surface.
 * Drill the screws on the stock to fixture. That way, the stock will not move during the machining
 * Send the file and wait for it to finish cutting.
 * _\#EmmasTips_, if during the milling job the machine stops \(it can happen for several reason like electric drop or comunication problems with the computer\) it's important to take note of the line where the job ended. Then you can start the same job with the option: "start from the line" from the File menu. I suggest to move the bit close to the working area and start the job from two lines before the one you wrote down. For istance if the line stopped at line 200, I would start the new job from line 198.
@@ -94,6 +101,7 @@ _ShopBot file running and sending tool paths to the machine_
 
 * Remove the tabs using a chisel and a hammer.
 * Remove the pieces and the excess stock
+* _#GonzalosTip_ Gonzalo Siu, finishing is harder than expected. Even though design can be adjusted parametrically, be prepared for a lot of sanding to chamfer males and widen female slots to perfect joints.
 
 **Tooling**
 
