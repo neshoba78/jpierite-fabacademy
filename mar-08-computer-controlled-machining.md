@@ -16,6 +16,14 @@
 
 Oh. My God. It's like I've always thought. [Mystery Science Theater 3000](http://splitsider.com/2017/03/building-on-sacred-ground-with-the-new-cast-of-mst3k/) is a parody of my work at The Fab Foundation!
 
+For the uninitiated, MST3K is about a random guy working at a scientific institute. He could be a janitor, temp, or glorified truck driver. In any case, a boss character who generally specializes in the "Mad" field of science subjects the host to torture in the form of "cheesy movies." Given my experience with customs documentations, I'd rather be watching Gamera movies.
+
+Despite the torture, the host maintains sanity with the help of robots made from parts that were meant to control the movies. Not sure how a gumball machine, bowling pins, or flash light hot glued to an unimaginable amount of hose would control a movie. I couldn't even tell you the amount of programming of AI that would be required to get robots to do comedy riffs.
+
+When I was growing up though, Thanksgiving was "Turkey Day"; a marathon day for MST3K. A sci-fi puppet show really helps as a coping mechanism for colonial legacy.
+
+What was the connection? Oh yeah, Jonah just happened to say, "CNC in my Fab Lab."
+
 **Visiting MIT's Center for Bits and Atoms**
 
 There's a tutorial for this assignment on The Center for Bits and Atoms site, [here](http://fab.cba.mit.edu/content/tools/shopbot/index.html). I didn't know that in 2015. So, what ended up happening is that I went to the CBA shop and bothered the "Spiciest Meme Lord" Tom Lutz.
