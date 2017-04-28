@@ -126,7 +126,13 @@ Main takeaways:
 
 ![](/assets/IMG_0783.JPG)
 
+I collaborated with Luciano Betoldi on a Fab Lab installation manual which can be found [here](https://docs.google.com/document/d/155maIqvf9fOnJGXfv3Q8N6UAjP9aISlYwnCmgquhNOE/edit?usp=sharing)
+
+I helped Sallye build and troubleshoot ShopBots at several sites including: Tampa, New Orleans, and Shenzhen.
+
 ![](/assets/IMG_0795.JPG)
+
+_Does this count as "Machine Building"?_
 
 **Sources**
 
