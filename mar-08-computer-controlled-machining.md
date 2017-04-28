@@ -55,6 +55,8 @@ Bill Young's visit gave us a little history on the "first ShopBot ever purchased
 * We also needed a surfacing bit for leveling the sacrificial board and stock.
 * The spindle control that had the software e-stop is a V7-4X VFD. We wanted to replace that, but another visit from Ryan Patterson resolved any bugs by updating the firmware
 
+Next time, I'll do this assignment on _#HardMode_ by flying to Milan, send my files with LinuxCNC, and machining out my parts with a MECAMATIC MF 150. Right, Fiore?
+
 **Steps for Machining**
 
 Ale Diaz de Leon has a nice summary of work flow on her page that I will adapt and integrate with the tutorials and CBA lesson:
@@ -97,7 +99,9 @@ _ShopBot file running and sending tool paths to the machine_
 
 The week of DigiFabCon 2017, I met Ted Hall at Center for Bits and Atoms. His first words to me were, "Oh, so you're Jean-Luc. I heard everything about you." Bill Young chuckled, "Well, that's one way to start a conversation." Sallye Coyle of ShopBot \(and FAB CNC Guru\) was on several adventures with me during the course of my work at The Fab Foundation. We've so far been on two lab installs and two FABx meetings.
 
-Before I met Sallye, I would create Fab Lab pro forma based solely on the Fab Lab Inventory curated by MIT. The what's and why's were normally answered by, "this is what MIT recommends" or "this is what is needed to take Fab Academy." That said, I don't think we ever got around to explaining 5 gallons of machine oil or the $84 USD 1/2" two flute downcut end mill. I received a spreadsheet on tooling from Sallye that was very helpful in explaining what was the right tool for wood-specific applications in a Fab Lab: [Right Click + Save](/uploads/bit-inventory.csv)
+Before I met Sallye, I would create Fab Lab pro forma based solely on the Fab Lab Inventory curated by MIT. The what's and why's were normally answered by, "this is what MIT recommends" or "this is what is needed to take Fab Academy." That said, I don't think we ever got around to explaining 5 gallons of machine oil or the $130 USD 1/2" two flute upcut ballnose end mill. I received a spreadsheet on tooling from Sallye that was very helpful in explaining what was the right tool for wood-specific applications in a Fab Lab: [Right Click + Save](/uploads/bit-inventory.csv)
+
+According to Fiore and Ted Hung, they both used a 10mm flat end mill. It appears the closest in the ShopBot "Router Bit Starter Kit" is the [1/2" Two Flute Straight V Flute.](https://store.shopbottools.com/products/half-inch-carbide-tipped-two-flute-straight-v-flute?variant=17412736519)
 
 Aside from tooling information, Sallye also composed a very helpful PowerPoint on Fab Lab tools and software: [Right Click + Save](/uploads/fablab-summary-tools-software.zip)
 
@@ -126,7 +130,13 @@ Main takeaways:
 
 **Sources**
 
+Abiko, K. (n.d.). Kenzo Abiko FabAcademy. Retrieved April 19, 2017, from http://fabacademy.org/archives/2015/na/students/abiko.kenzo/index.html
+
 Baafi, Ed "A couple of quick questions on the ShopBot at SETC" Message to Jean-Luc Pierite. 30 April 2015. E-mail.
+
+Basile, F. (n.d.). Fiore Basile @ FabAcademy 2014. Retrieved April 19, 2017, from http://fabacademy.org/archives/2014/students/basile.fiore/classes/07_computer_controller_cutting.html
+
+Cesar, S. (n.d.). W07 - COMPUTER-CONTROLLED MACHINING. Retrieved April 19, 2017, from http://archive.fabacademy.org/archives/2016/as220/students/273/w07.html
 
 Coyle, Sallye "Bit inventory for Bakersfield" Message to Jean-Luc Pierite. 20 July 2016. E-mail.
 
@@ -134,7 +144,26 @@ Coyle, Sallye "Powerpoint i did in Egypt for the teachers to summarize the equip
 
 Diaz De Leon Lastras, A. \(n.d.\). Computer-Controlled Machining. Retrieved April 19, 2017, from [http://fabacademy.org/archives/2014/students/diazdeleon.alejandra/8.Computer-ControlledM.html](http://fabacademy.org/archives/2014/students/diazdeleon.alejandra/8.Computer-ControlledM.html)
 
+Gallo, R. (n.d.). Computer-Controlled machining. Retrieved April 19, 2017, from http://archive.fabacademy.org/archives/2016/fablabyachay/students/302/7w.html
+
+Garita, R. (n.d.). Robert Garita Fab Academy 2014. Retrieved April 19, 2017, from http://fabacademy.org/archives/2014/students/garita.robert/
+
+Harris, A. (2014, March 12). Week 7 (March 12th 2014) | Computer-Controlled Machining (Make Something Big). Retrieved April 19, 2017, from http://fabacademy.org/archives/2014/students/harris.adam/week7.html
+
+Hung, T. (n.d.). Computer-Controlled Machining. Retrieved April 19, 2017, from http://fabacademy.org/archives/2014/students/hung.ted/pages/07.html
+
+Leonenko, K. (n.d.). FabAcademy 2014 - Konstantin Leonenko. Retrieved April 19, 2017, from http://fabacademy.org/archives/2014/students/leonenko.konstantin/week_07.html
+
 Pareschi, E. \(n.d.\). Emma's note. Retrieved April 19, 2017, from [http://fabacademy.org/archives/2014/students/pareschi.emma/classes\_wk7.html](http://fabacademy.org/archives/2014/students/pareschi.emma/classes_wk7.html)
+
+Robles, I. (n.d.). 6. Computer-controlled Machining Assignment. Retrieved April 19, 2017, from http://fabacademy.org/archives/2014/students/robles.isaac/assignments/6_Computer_controlled_machining/machining.html
+
+Siu Lam, G. (n.d.). Documento sin título. Retrieved April 19, 2017, from http://fabacademy.org/archives/2015/sa/students/siu.gonzalo/index.html
+
+Sollazzo, A. (n.d.). FA14 | AS. Retrieved April 19, 2017, from http://fabacademy.org/archives/2014/students/sollazzo.aldo/w8.html
+
+Thongsouksanoumane, P. (n.d.). Phonesavanh Thongsouksanoumane. Retrieved April 19, 2017, from http://archive.fabacademy.org/archives/2016/woma/students/463/exercise07.html
 
 Young, Bill "a couple of things for the SETC ShopBot" Message to Jean-Luc Pierite. 20 April 2015. E-mail.
 
+Zitek, S. (n.d.). Week 7 - Scott Zitek - Fab Academy 2014. Retrieved April 19, 2017, from http://fabacademy.org/archives/2014/students/zitek.scott/week7.html
