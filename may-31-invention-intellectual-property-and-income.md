@@ -27,7 +27,11 @@ Neil continues that this process of invention is dependent upon ecosystems. "New
 
 Simple projects and documentation shared or "trafficked" (in the invention context) can then be used to solve issues or "pain" (no matter how tangential) within other parts of the network.
 
- 
+Moving from an invention to intellectual property, we need to address the issue of protection. Patents are limited in scope. There are two types of patents: utility and design. These can be searched through various public sites. Thinking about either utility or design, a person should search the databases to see if something has already been achieved. If that is not the case, there is the issue of discloure. Disclosure means making something available, whether publicly or privately. In the US, an inventor can file a patent up to 1 year from public disclosure. In most international cases, disclosure blocks the ability to file a patent. Sometimes, disclosure is used to prevent filing of patents.
+
+Making the decision of when to file a patent, a person has the option to file a "provisional". Provisional filings are cheap and quick. The content of provisional filings could be (almost) any form of documentation. These are works in progress. At The Center for Bits and Atoms, many provisionals are filed throughout the year. These then get weeded out for full filings. Provisionals are given up to a year to convert to a full filing which is included in the lifespan of the full filing.
+
+A full patent filing must be teachable for someone with skill. Two main sections of the patent filing are the specification and claims. The specification is the narrative that tells the story of the invention (i.e., how it's achieved, what was work that was done previously, etc.) The claims section is carefully crafted to assert what is different what is new about the patent. If claims are too generic, the patent filing may be rejected. If the claims are too narrow, the patent will not be of use to others. A utility patent comes in different types. A person can patent the compostion of a thing, the method of making a thing, an apparatus which is a thing that does something, or manufacture which is the output of making something. 
 
 **Sources**
 
