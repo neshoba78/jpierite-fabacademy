@@ -15,6 +15,8 @@ Not much discussion on intellectual property and business models. Most of the fo
 
 **2017 Class Notes**
 
+**Discussion on Invention**
+
 Invention sounds like an intangible thing, but there are many things to learn about managing it. "Science The Endless Frontier" written by Vannevar Bush led to the creation of the National Science Foundation. Created a notion taht you do basic research, applied research, and then commercialize. This is not how it actually happens.
 
 Neil's suggestion is a "ready, fire, aim" model. "A Low-Cost Electromagnetic Tagging Technology for Wireless Identification, Sensing, and Tracking of Objects" by Richard Ribon Fletcher was the research behind shop-lifting tags. An unexpected consequence of that research led to a method for making quantum computers ("Bulk Spin-Resonance Quantum Computation", Neil A. Gershenfeld and Isaac L. Chuang). At this point the "ready" was the making of shoplifting tags. Making those tags in the "fire" stage led to the consequence of creating quantum computers. Knowing that quantum computers were an achievable target, the "aim" stage took the work further and created practical ways to interrogate molecular structures ("Ultra-small-sample molecular structure detection using microslot waveguide nuclear spin resonance", Yael Maguire, Isaac L. Chuang, Shuguang Zhang, and Neil Gershenfeld). As a second iteration of the aim stage, Neil's students then made radio which spun off to a company that makes readers for RFID tags.
@@ -27,11 +29,25 @@ Neil continues that this process of invention is dependent upon ecosystems. "New
 
 Simple projects and documentation shared or "trafficked" (in the invention context) can then be used to solve issues or "pain" (no matter how tangential) within other parts of the network.
 
+**Discussion on patents**
+
 Moving from an invention to intellectual property, we need to address the issue of protection. Patents are limited in scope. There are two types of patents: utility and design. These can be searched through various public sites. Thinking about either utility or design, a person should search the databases to see if something has already been achieved. If that is not the case, there is the issue of discloure. Disclosure means making something available, whether publicly or privately. In the US, an inventor can file a patent up to 1 year from public disclosure. In most international cases, disclosure blocks the ability to file a patent. Sometimes, disclosure is used to prevent filing of patents.
 
 Making the decision of when to file a patent, a person has the option to file a "provisional". Provisional filings are cheap and quick. The content of provisional filings could be (almost) any form of documentation. These are works in progress. At The Center for Bits and Atoms, many provisionals are filed throughout the year. These then get weeded out for full filings. Provisionals are given up to a year to convert to a full filing which is included in the lifespan of the full filing.
 
 A full patent filing must be teachable for someone with skill. Two main sections of the patent filing are the specification and claims. The specification is the narrative that tells the story of the invention (i.e., how it's achieved, what was work that was done previously, etc.) The claims section is carefully crafted to assert what is different what is new about the patent. If claims are too generic, the patent filing may be rejected. If the claims are too narrow, the patent will not be of use to others. A utility patent comes in different types. A person can patent the compostion of a thing, the method of making a thing, an apparatus which is a thing that does something, or manufacture which is the output of making something. 
+
+During the patent examination, the criteria are whether an invention is: novel (is it a new thing?), non-obvious, and useful. The examiner must also check if the invention is possible. An applicant previously had to submit a physical appartus to be granted a patent. This is no longer the case. Because of this, patents are weak in that many things can be patented that are not actually possible. So, a patent is not an endorsement of an idea. A patent is granted because an inventor successfully navigated the process.
+
+Going from the domestic scope to the international arena, Neil discusses Patent Cooperation Treaty. While filing with PCT does register a pareson's patent internationally. The patent then has to go through the nationalization process to be enforceable in specific jursidictions. Europe has an European Patent Office. This function the same as the PCT in that the patent still needs to be nationalized in specific jurisdictions.
+
+Precedence initially was defined by "first to invent" meaning that careful notes were taken in labs and people had to prove who had an idea for an invention, first. Now precedence is a "first to file" process, meaning whoever gets the paperwork in first is the inventor.
+
+Once a patent is issued, the inventor has a duty to maintain it. This involves defending the patent against infringement. The inventor should have the ability to identify infringement. There must also be barriers to infringement. For example, any work that can be accomplished in a fab lab does not have a sufficient barrier. Litigation to defend a patent is costly in addition to the process of fully filing a patent. Patents are useful when an invention is a large investment. For work achieved in a fab lab, not so much.
+
+**Discussion of Copyright**
+
+Use of copyright is for creative works. While copyright does not protect the design of a thing, it does protect the actual files which were authored. Copyright regulates: reproduction, modification, distribution, performance, and display of creative work. 
 
 **Sources**
 
