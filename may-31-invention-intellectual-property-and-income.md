@@ -67,8 +67,14 @@ During the discussion on income, there was a question on the use of "fablab" by 
 
 **Discussion on Income**
 
+Neil recommends two factors for a successful business based upon an example from a former student. In lieu of a scheme to get rich, an entrepreneur is better to consider: what type of environment is preferrable for a workplace, and what is the impact on society that the entrepreneur wishes to make.
+
+Neil warns that one of the worst ways to make money in a fab lab is to sell something that you make. After working with Neil since 2014, I've come to appreciate the constant refrain of "sell the benefit of using the thing, not the actual thing." Google, for example, sell the benefits of search through placement in results and advertising. As with the example of Sindoh 3D Wox printers which are affordably priced, the majority of income is generated around filament cartridges which are refillable. You can sell a license to users, which is normally the case of selling software and video games. You can create a platform for people to connect. You can also create infrastructure for communities. Services such as: operations, customization, education, entertainment, generating impact, or research; these are all viable strategies for generating revenue.
+
 
 
 **Sources**
+
+Gregory, Pete "re: Nerataya Book" Message to Jean-Luc Pierite. 24 April 2009. E-mail.
 
 Oustry, F. “Blockchain based solutions for intellectual property management.” Prax Value, 20 May 2017, praxvalue.blogspot.co.uk/2017/05/blockchain-based-solutions-for.html. Accessed 11 Sept. 2017.
