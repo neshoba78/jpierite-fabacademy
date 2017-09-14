@@ -62,7 +62,12 @@ Neil points out several questions that companies want to know when reviewing a l
 **Discussion of Trademark**
  
 Trademarks protect the mark or brand of a product. This could be a name or slogan that identifies a product. In order to claim a trademark, a person would have to mark it with a trademark symbol and then defend the use of that name or slogan. This is useful for a commercial brand, but not specifically useful for protecting intellectual property.
- 
+
+During the discussion on income, there was a question on the use of "fablab" by a french grocer. This is perhaps despite new [entries](https://mobile.twitter.com/LeRobert_com/status/732157038965456896) in French dictionaries such as Le Petit Larousse and Le Petit Robert. Neil suggests to "snow under" big corporations with all the previous uses. A potential feature of the fab lab network web portal project would be to include this letter for translation into specific languages for regional use.
+
+**Discussion on Income**
+
+
 
 **Sources**
 
