@@ -47,7 +47,22 @@ Once a patent is issued, the inventor has a duty to maintain it. This involves d
 
 **Discussion of Copyright**
 
-Use of copyright is for creative works. While copyright does not protect the design of a thing, it does protect the actual files which were authored. Copyright regulates: reproduction, modification, distribution, performance, and display of creative work. 
+Use of copyright is for creative works. While copyright does not protect the design of a thing, it does protect the actual files which were authored. Copyright regulates: reproduction, modification, distribution, performance, and display of creative work. Copyrights are secured upon creaton, and not dependent filing. You can register the work with a copyright office, but this only creates a papertrail. Copyrights last for the oerson's lifetime, plus 70 years. A "clean room" redesign of work can be done to accomplish the same design, but must be created from scratch and absent of knowledge of the original work.
+
+Licenses can be commercial that are paid for and maintain the secrecy of the work. Open-source only means that the source code is shared, the actual work is not necessarily available for free. There are several flavors of open-source licensing. Neil crafted a blanket statement which would cover the work done by Center for Bits and Atoms independent of the source of funding for specific projects. While somewhat sufficient, companies prefer to have "pages of legalese". An exercise in modifying the MIT license respective of indigenous concepts is part of my homework for this class.
+
+Neil points out several questions that companies want to know when reviewing a license:
+
+* Does the author certify that he or she created the work?
+* Can the author clearly assert that he or she can transfer ownership?
+* Does the author commit to the transfer to the company for reproduction, modification, distribution, performance, or display?
+
+"Pedigree" of work as warranted by a license is only one factor. What companies also need is the ability of the author to support and share knowledge related to the design files.
+
+**Discussion of Trademark**
+ 
+Trademarks protect the mark or brand of a product. This could be a name or slogan that identifies a product. In order to claim a trademark, a person would have to mark it with a trademark symbol and then defend the use of that name or slogan. This is useful for a commercial brand, but not specifically useful for protecting intellectual property.
+ 
 
 **Sources**
 
