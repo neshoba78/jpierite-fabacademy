@@ -71,6 +71,12 @@ Neil recommends two factors for a successful business based upon an example from
 
 Neil warns that one of the worst ways to make money in a fab lab is to sell something that you make. After working with Neil since 2014, I've come to appreciate the constant refrain of "sell the benefit of using the thing, not the actual thing." Google, for example, sell the benefits of search through placement in results and advertising. As with the example of Sindoh 3D Wox printers which are affordably priced, the majority of income is generated around filament cartridges which are refillable. You can sell a license to users, which is normally the case of selling software and video games. You can create a platform for people to connect. You can also create infrastructure for communities. Services such as: operations, customization, education, entertainment, generating impact, or research; these are all viable strategies for generating revenue.
 
+**Homework**
+
+I began thinking about intellectual property, because I love my mom and care about her work. My family's intergenerational work and my mom's work as a continuation has been to revitalize and preeserve the langauge and culture of our Tribe, the Tunica-Biloxi Tribe of Louisiana. As a Indigneous Nation in the United States, we were subject to the dispossession of our land and identity. Efforts to preserve and maintain our culture date back to at least the 1890's with the work done by Chief Volsin Chiki. Volsin Chiki was a blind chief who revived our green corn ceremony. This was after the murder of a predecessor by a local non-native who was out on "Indian Patrol".
+
+Since the efforts of Volsin Chiki, our Tribe worked with anthropologists and linguists and preserved our langauge as well as our story and song tradition through articles and reports now publicly available. While our tribal members disclosed stories and songs, we maintained a base of ancestral knowledge through oral tradition. Certain families held on to certain pieces of the overall puzzle to be brought together again during intercommunity gatherings. The diaspora of our Tribe spread from Central Louisiana to Houston, Texas and Chicago, Illinois. Tribal members such as Harry Broussard were noted for blending "Indian language" and musical cues with jazz riffs.
+
 
 
 **Sources**
