@@ -23,18 +23,18 @@ Concept: “smart planter” incorporating competencies of: #input, #output, #3D
 #### Planning and Design
 
 * October 1, 2017, Sunday
-** Have Brunch with Mel King (3 hours)
-** Revise and update workplan (30 minutes) 
-** Sketch prototype design (2 hours)
-** Identify components for a BOM with a budget of $10's (2 hours)
+1. Have Brunch with Mel King (3 hours)
+2. Revise and update workplan (30 minutes) 
+3. Sketch prototype design (2 hours)
+4. Identify components for a BOM with a budget of $10's (2 hours)
 * October 2, 2017, Monday
-** 3D model planter in OnShape
-*** make at least three iterations
+1. 3D model planter in OnShape
+2. make at least three iterations
 * October 3, 2017, Tuesday
-** Eagle CAD for humidity sensor #input
-*** make at least three iterations (4 hours)
-** Review 3D model of planter
-*** revise as necessary (2 hours)
+1. Eagle CAD for humidity sensor #input
+  *  make at least three iterations (4 hours)
+2. Review 3D model of planter
+  * revise as necessary (2 hours)
 October 4, 2017
 Eagle CAD for speaker #output
 make at least three iteration (4 hours)
