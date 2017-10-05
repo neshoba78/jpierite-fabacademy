@@ -8,3 +8,4 @@ _Rev.0.3 - GitBook Edition, January 2017_
 
 _Trello:_ [https://trello.com/b/0xcU2e5T](https://trello.com/b/0xcU2e5T)
 
+_&copy; 2017 Jean-Luc Pierite_
