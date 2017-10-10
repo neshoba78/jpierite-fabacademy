@@ -27,7 +27,27 @@ Cindy Kohtala, Fab Lab Aalto (Finland), was not current; but she was working on 
 
 Bas Withagen asked a question about the DHT11 humidity sensor and the getting the component to work/fit with the ATTiny45. Fiore Basile said that the sensor does work. There are up to a dozen libraries to support. Neil advocated for capacitance as a way to DIY a humidity sensor.
 
-Fiore Basile asked a question about the digital version of the MEMS microphone. This introduced the I2S protocol which seemed to be a "non-trivial" threshold for microcontrollers. Neil supposed that you may need to use an XMega board vs. an ATTiny. Working with the specific protocol would involve developing a codec. It is much simpler to use the analog version of MEMS and ust do the A to D conversion.
+Fiore Basile asked a question about the digital version of the MEMS microphone. This introduced the I2S protocol which seemed to be a "non-trivial" threshold for microcontrollers. Neil supposed that you may need to use an XMega board vs. an ATTiny. Working with the specific protocol would involve developing a codec. It is much simpler to use the analog version of MEMS and ust do the A to D conversion. Bas added that I2S is a fairly old protocol which was used for 52 speed CD-ROM players.
 
 #### Class Notes 2017
 
+The goal is to take a microcontroller board that is an original design, add a sensor, and measure something. This can be used toward the final project.
+
+We started by reviewing the ATTiny45 which is an eight pin AVR microcontroller. In the ATTiny45, there are multiple kinds of inputs. There are pins that read logic, high and low level. There's a comparator that reads the difference between two voltages. There's an A to D convertere that measures absolute voltage. There's a counter that measures time and events. To understand the assignment, a comprehensive review is required.
+
+Device communication is done through a serial interface. Installation on a host computer is required. PySerial through Node.js there are seevral options for a serial interface. Knowledge of bit timing is essential. Serial communication needs a 1% tolerance. To debug bit timing, the use of an oscilloscope is recommended.
+
+Time delay can be set in the C code. In the clocks section of the microcontroller datasheet, there is detail regarding the OSCAL register. You can send values to that register to make time go faster or slower. The simpler solution is to set values in the C code. In the example of a switch, resistors pull up on the signal while a switch pulls the signal down.
+
+For motion detection, there are pyroelectric sensors which measuring thermoradiation. A human body emits thermoradiation. Alternatively, Doppler radar is scaling down and can measure radio waves.
+
+Sonar detection, requires a good reflective surface. Fuzzy or angled surfaces will cause a fault. Applications for distance measuring can be found in sinks and toilets. An alternative to sonar is time-of-flight detection which measures the reflection of light back fr4om a relfective surface. Sonar can be good for measuring heights of liquids. Further reading into this subject, I found examples of trade off in regards to the Kinect sensor. Kinect I uses structured light. Kinect II uses time-of-flight which has a trade off between angled and dark surfaces. I thought of this because of recent articles about the applications of sensors and differing results with darker skinned people. The issue is with LED emission and whether or not a surface will reflect or absorb light which would cause a fault in detection.
+
+
+
+
+#### Sources
+
+Pöhlmann, Stefanie T. L. et al. “Evaluation of Kinect 3D Sensor for Healthcare Imaging.” Journal of Medical and Biological Engineering 36.6 (2016): 857–870. PMC. Web. 10 Oct. 2017.
+
+Smith, Adam. “These automatic soap dispensers don't work for black people.” Metro, 13 July 2017, metro.co.uk/2017/07/13/racist-soap-dispensers-dont-work-for-black-people-6775909/.
