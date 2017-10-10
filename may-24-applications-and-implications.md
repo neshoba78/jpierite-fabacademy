@@ -26,5 +26,3 @@ _The answers to the questions above will allow you to create your BOM, or Bill O
 
 * [ ] how will it be evaluated?
 
-
-
