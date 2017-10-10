@@ -43,6 +43,10 @@ For motion detection, there are pyroelectric sensors which measuring thermoradia
 
 Sonar detection, requires a good reflective surface. Fuzzy or angled surfaces will cause a fault. Applications for distance measuring can be found in sinks and toilets. An alternative to sonar is time-of-flight detection which measures the reflection of light back fr4om a relfective surface. Sonar can be good for measuring heights of liquids. Further reading into this subject, I found examples of trade off in regards to the Kinect sensor. Kinect I uses structured light. Kinect II uses time-of-flight which has a trade off between angled and dark surfaces. I thought of this because of recent articles about the applications of sensors and differing results with darker skinned people. The issue is with LED emission and whether or not a surface will reflect or absorb light which would cause a fault in detection.
 
+Magnetic field detection, a hall sensor can detect the magnetic field of individual magnets or that of the Earth. Neil uses oversampling which measures the Anaog to Digital coversion many times. This oversampling improves the resolution of the results.
+
+Neil showed an example of a browser-based intreface graphing the results of a hall effect sensor. Browsers can not natively talk to serial devices. Certain browser do have extensions for serial communication. A solution that is cross-platform would be to code a webpage that opens a web socket that talks to a Jaavscript program. That program can use the Serialport library from Node.js to facilitate communication. The result is taht the webpage talks to the server which communicates with the input device. The flexibility of this solution means that the webpage can be local or remote to the webserver.
+
 
 
 
