@@ -47,6 +47,7 @@ Magnetic field detection, a hall sensor can detect the magnetic field of individ
 
 Neil showed an example of a browser-based intreface graphing the results of a hall effect sensor. Browsers can not natively talk to serial devices. Certain browser do have extensions for serial communication. A solution that is cross-platform would be to code a webpage that opens a web socket that talks to a Jaavscript program. That program can use the Serialport library from Node.js to facilitate communication. The result is taht the webpage talks to the server which communicates with the input device. The flexibility of this solution means that the webpage can be local or remote to the webserver.
 
+Temperature detection is achieved through the use of thermistors. These come in two varieties, NTC and RTD. NTC can be more sensitive. RTD can be more accurate and operates at higher temperatures. The example board on the class page uses a "bridge" which is an important measurement concept. Further reading, I found a tutorial on this type of resistance bridge or "Wheat stone bridge". Measuring could happen with one fixed resistor and one variable resistor. What this does in the A to D is only slightly move the needle within the signal. This wastes to much of the A to D. Instead, we should measure "small change" within a "small signal". Using three fixed resistors and one variable resistor we can measure the differential within the ADC. In the code, Neil turns on the A to D and uses the hardware amplifier to amplify the difference. Digging further into the code, Neil uses a formula which approximates temperature. This is not sufficient for more precise thermometers. For that application, there are tables of the differences to temperatures. That said, the formula is a quick and dirty way to get started. The results are also filtered in the code, that is the resolution is increased by mixing new and old readings.
 
 
 
@@ -55,3 +56,5 @@ Neil showed an example of a browser-based intreface graphing the results of a ha
 Pöhlmann, Stefanie T. L. et al. “Evaluation of Kinect 3D Sensor for Healthcare Imaging.” Journal of Medical and Biological Engineering 36.6 (2016): 857–870. PMC. Web. 10 Oct. 2017.
 
 Smith, Adam. “These automatic soap dispensers don't work for black people.” Metro, 13 July 2017, metro.co.uk/2017/07/13/racist-soap-dispensers-dont-work-for-black-people-6775909/.
+
+“Wheatstone Bridge Circuit and Theory of Operation.” Wheatstone Bridge Circuit and Theory of Operation, www.electronics-tutorials.ws/blog/wheatstone-bridge.html.
