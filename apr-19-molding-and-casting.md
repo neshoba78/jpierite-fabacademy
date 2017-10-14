@@ -14,12 +14,6 @@
 
 _I'm FAB Dog_
 
-![](/assets/IMG_0519.JPG)
-
-![](/assets/IMG_0520.JPG)
-
-![](/assets/IMG_0525.JPG)
-
 #### 2016 Class Review
 
 [Siew Chin Yue](http://archive.fabacademy.org/archives/2016/fablabsingapore/students/156/exercise12.html), Fab Lab Singapore, was introduced by Steven Lai Keat Chew. She used 123D to make the model of the tooling, then 3D printed. Neil reminded her that the goal of the assignment was to make the tooling using three-axis machining. Machineable wax can be used in ways that are different from 3D printed tooling. It allows for better surface finishes. It can be melted down and reused. It can make things larger than the build area of most 3D printers. Siew Chin Yue made a separate box, which Neil added should have been part of the toolpath calculation. She used [Easy Mold Silicone Rubber](https://www.eti-usa.com/easymold-silicone-rubber) cured in a vacuum gas chamber for over 24 hours. Neil then mentioned Oomoo which is in the recommended fab lab inventory. Oomoo demolds much faster than 24 hours. Oomoo cures at room temperature and can be demolded within an hour under optimal conditions. Siew Chin Yue used an epoxy resin which takes more time to cure. This resulted in Siew's documentation to be incomplete by class time. Steven joined the conversation when asked if the lab had access to Hydrostone or Drystone for casting media. During the discussion, it was mentioned that I or Jean-Michel Molenaar would develop a global supply chain for class materials. We did, for the 2017 cycle, develop class kits. These were adopted at a very low rate, given the coast of shipping, duties, and taxes. A world map of Smooth-On suppliers can be found, [here](https://www.smooth-on.com/distributors/). A map of distributors for USG can be found, [here](https://www.usg.com/content/usgcom/en/resource-center/tools/where-to-buy.html).
@@ -32,7 +26,15 @@ _I'm FAB Dog_
 
 [Mario Fullone](http://archive.fabacademy.org/archives/2016/fablabtoscana2016/students/999/Week_13.html), Fab Lab Toscana (Italy), was volunteered by Fiore as an example of a student who achieved metal casting for the week's assignment. Mario started by downloading a model of a dagger from thingiverse. He then imported the model into Rhino to break the part into two halves. Neil commented that Mario's video was good documentation of the week's work. Mario also painted his part that was cast out of resin. To achieve metal casting, Mario melted scrap wax from his first part. Mario then machined a part from the reused wax. He used clay to make the mold and used [Zamak](http://www.zamakingots.com/image/Nimet_Maden_Zamak_Datasheet.pdf) as a casting medium.
 
+![](/assets/IMG_0520.JPG)
+
+_brushing metallic powder into a mold to "fake" metal casting_
+
 [Thomas Feminier](http://archive.fabacademy.org/archives/2016/woma/students/209/week11.html), WOMA/Volumes (France), who is apparently a fan of Lego, South Park and Philip K. Dick discussed a "fake" metal casting. His part was a Lego figure that incorporated aluminum powder with Parts A and B of the casting medium. Saverio Silli taught WOMA a very cheap method of mold making which involved corn starch and silicone which would normally be used to make joints in bathrooms. You can mix both, and the amount of corn starch affects the time need for the mold to cure. Despite hardening, because the mold is silicone; it remains flexible. Saverio added to think of brushing aluminum powder into the mold like spreading flour onto a cake pan. The powder was primarily added into Part A of the casting medium.
+
+![](/assets/IMG_0525.JPG)
+
+_resulting parts_
 
 #### 2017 Class Notes
 
@@ -56,9 +58,32 @@ Flexible or soft molding is the goal for this week's assignment. We machine a ri
 
 [FOAMULAR® 150 Rigid Foam Insulation](http://www.foamular.com/foam/products/foamular-150.aspx) can be used for architectural molds. The issue with these applications would be sealing the parts. This can be achieved by applying coats of Gesso or melting the foam onto itself.
 
-Lifecasting is achieved by using an aljinate such as Activa's [Instamold](https://cdn.shopify.com/s/files/1/0276/9565/files/Correct_Instamold_Instruction_2012.pdf?958). This is also good for food safe applications.
+Lifecasting is achieved by using an aljinate such as Activa's [Instamold](https://cdn.shopify.com/s/files/1/0276/9565/files/Correct_Instamold_Instruction_2012.pdf?958). This is also good for food safe applications. [Sorta Clear](https://www.smooth-on.com/msds/files/SORTA_CLEAR_18.PDF) is also food safe.
 
 ![](/assets/IMG_0512.JPG)
+
 _Media for casting_
 
-Urethane is used for casting
+Urethane plastic, such as [Smooth Cast 300](https://www.smooth-on.com/msds/files/Smooth-Cast_300,_300Q,_305,_310.pdf), is used for casting which is a medium that can be dyed and creates very well finished plastic parts.
+
+![](/assets/IMG_0519.JPG)
+
+_Urethane part_
+
+[Oomoo 25](https://www.smooth-on.com/msds/files/OOMOO_Series.pdf) is a silicone that is not as reusable as urethane, but it is very friendly for beginning mold making.
+
+[Drystone](https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-drystone-casting-media-sds-en-52000000013.pdf) and [Hydrostone Super X](http://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-hydro-stone-super-x-sds-en-52000000100.pdf?region=united_states&lang=english&cat=docspecs,products) are casting media that are based o calcium compounds that are the basis of plaster. Plaster is granular and brittle. Drystone, for comparison, mixes with a polymer and produces nice plastic parts. Hydrostone Super X is grey and needs time to dry. These media do not need ventilation as opposed to the urethane which does.
+
+Metal casting can be achieved with media such as Zamak described above or with a low melt [281F Bismuth alloy](https://www.rotometals.com/lead-free-fishing-tackle-weight-bismuth-tin-alloy-281/?gclid=EAIaIQobChMIvsLi1ffw1gIVgYdpCh3pWANXEAYYASABEgJ7kPD_BwE). This alloy is cheap at $15 USD and can be melted in a toaster oven. [Jason Wang](http://fabacademy.org/archives/2015/as/students/wang.tse-kang/week09.html) has an example of making a Fab Academy medallion.Jason read a blacksmith article which led him to use regular baby powder (talc and some perfume) to produce finer detail while casting. Aluminum can be cast using casting clay or sand, but requires a more foundry setting than a fab lab.
+
+![](/assets/IMG_0507.JPG)
+_Safety tip for pouring a mold_
+
+![](/assets/IMG_0508.JPG)
+_Tips for mixing rubber_
+
+![](/assets/IMG_0509.JPG)
+_Double mix and pour technique_
+
+![](/assets/IMG_0510.JPG)
+_"high and thin" pouring technique_
