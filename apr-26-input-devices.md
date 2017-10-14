@@ -57,11 +57,7 @@ Microphones with built-in amplifiers are also available. These, like the acceler
 
 Step response sensors can detect (almost) anything. Boards for these sensors are trivial in design. The complexity is on the software side with tricks for sampling data. Step response sensors function similarly to synchronous detection using phototransistors. Instead of an emitter and detector sampling visible or IR light, step response sensors use electrodes that emit and detect charges and interruption in circuit flow. A pulse of charge is sent through the circuit. This is filtered to smooth background noise. Differences in the highs and lows of the signal are calculated to measure changes within the electric field. In this way, we can make buttons that can be pressed or know when they are about to be pressed. A single electrode input goes out to room ground, which makes it unreliable in various environments. Two electrodes use the synchronous detection method and work when a circuit is completed between the emitter and detector. Many things can be measured with step response sensors, and can be achieved with a simple PCB design with electrodes cut on the vinyl cutter.
 
-Transducer piezos 
-
-
-
-
+There are several other types of input devices that Neil did not spend too much time covering. Transducer piezos can measure vibration and time-of-flight. Force sensors are a bit nasty. As an alternative to these, Neil suggests capacitance sensors to measure force. Image is detected by the use of cameras. These have scaled down. Webcams are only a few dollars. Single board Linux computers can connect to these through USB and Javascript.
 
 
 
