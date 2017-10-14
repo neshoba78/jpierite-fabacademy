@@ -51,7 +51,9 @@ Temperature detection is achieved through the use of thermistors. These come in 
 
 Light detection is achieved through the use of a phototransistor. Neil says a common misconception is that this is done through the use of a light sensitive resistor. Part of the issue of using a light dependent resistor is that some countries have banned them over the use of lead or cadmium which results in environmental safety concerns. In a circuit using a phototransistor, a pull up resistor goes to the A to D. The amount of light detected controls the current going through the transistor. Some phototransistors can see IR only. Some can see IR and visible light. Neil uses light detection to demonstrate synchronous detection. These present some of the same issues as time-of-flight due to the reflexion of skin color.
 
-Accelerometer for rotation and orientation uses I2C which will be discussed in Networking week.
+Accelerometer for detection of acceleration in X, Y, and Z axes. These sensors also measure gravity. The sensor uses I2C which will be discussed in Networking week. This protocol is a standard for device communications. Accelerometers are like processors with series of registers, each with a range of commands. A user needs to send commands to trigger readings and get results back. The one caveat to the accelerometer's popular use is that they universally come in tiny packages that are suited for smart phones. In order to use this device, you would have to use reflow to mount to the surface of PCB. The traces are a bit finer, but millable using the 1/64" end mill. In order to do reflow, you could use solder paste on the pads and heat the board in a frying pan or toaster oven. Another method involves tinning the pads, aiming a hot air gun, melting the solder which is supposed to suck in the piece. Reflow is required for the use of smaller parts.
+
+
 
 
 
