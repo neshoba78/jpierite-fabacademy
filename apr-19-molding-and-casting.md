@@ -28,9 +28,25 @@ _I'm FAB Dog_
 
 [Adriana Cristina Cabrera Galindez](http://archive.fabacademy.org/archives/2016/fablabkamplintfort/students/124/11molding_casting.html), Fab Lab Kamp-Lintfort (Germany), was only able to complete machining the wax and creating the mold with silicone. On her completed page, there were two examples of mold making and casting. One was a washable gyro which was a lilypad sensor embedded in a part cast from [Axson UR 3440](http://www.jacomp.fi/wp-content/uploads/2013/07/ur3440.pdf). Adriana did not originally succeed, instead there was too much air in the mold which resulted in the part not curing. Another example was a kinder egg, the mold was made with an aljinate and cast in chocolate. This cycle was Kamp-Lintfort's first time machining with the MDX-40. Neil suggested designing a continuous lip to constrain a mold for casting.
 
-[Fabio Ibarra](http://archive.fabacademy.org/archives/2016/fablabtecsup/students/363/content/assignments/assignment-12.html), Fab Lab TECSUP (Peru), used the ShopBot to 3-axis machine a mold out of wax. He used a 1/8" single flute end mill for rough cutting. He then used a 1/8" ball nose for finishing. Both sides of the mold were machined out of the same block of wax. These were separated by a sheet of paper. After making the old from Oomoo 25, he used three materials to test casting his part: resin, plaster, and hydrostone. The final part was a pipe fitting.
+[Fabio Ibarra](http://archive.fabacademy.org/archives/2016/fablabtecsup/students/363/content/assignments/assignment-12.html), Fab Lab TECSUP (Peru), used the ShopBot to 3-axis machine a mold out of wax. He used a 1/8" single flute end mill for rough cutting. He then used a 1/8" ball nose for finishing. Both sides of the mold were machined out of the same block of wax. These were separated by a sheet of paper. After making the old from Oomoo 25, he used three materials to test casting his part: resin, plaster, and hydrostone. The final part was a pipe fitting. At the time of the review, Fabio was taking the course in Lima with the aspiration of opening the first fab lab in Paraguay. This resulted in [Fab Lab CIDi](https://cidifadauna.com/fablab/).
 
+[Mario Fullone](http://archive.fabacademy.org/archives/2016/fablabtoscana2016/students/999/Week_13.html), Fab Lab Toscana (Italy), was volunteered by Fiore as an example of a student who achieved metal casting for the week's assignment. Mario started by downloading a model of a dagger from thingiverse. He then imported the model into Rhino to break the part into two halves. Neil commented that Mario's video was good documentation of the week's work. Mario also painted his part that was cast out of resin. To achieve metal casting, Mario melted scrap wax from his first part. Mario then machined a part from the reused wax. He used clay to make the mold and used [Zamak](http://www.zamakingots.com/image/Nimet_Maden_Zamak_Datasheet.pdf) as a casting medium.
 
-
+[Thomas Feminier](http://archive.fabacademy.org/archives/2016/woma/students/209/week11.html), WOMA/Volumes (France), who is apparently a fan of Lego, South Park and Philip K. Dick discussed a "fake" metal casting. His part was a Lego figure that incorporated aluminum powder with Parts A and B of the casting medium. Saverio Silli taught WOMA a very cheap method of mold making which involved corn starch and silicone which would normally be used to make joints in bathrooms. You can mix both, and the amount of corn starch affects the time need for the mold to cure. Despite hardening, because the mold is silicone; it remains flexible. Saverio added to think of brushing aluminum powder into the mold like spreading flour onto a cake pan. The powder was primarily added into Part A of the casting medium.
 
 #### 2017 Class Notes
+
+If 3D printing is over represented in digital fabrictation, molding and casting is under represented. Mold making takes as long as 3D printing. Once done, you are at an advantage by being able to make many parts.
+
+In injection molding, plastic pellets are melted, heated, and then a sprue forces them into a mold. The sprue is where the casting media interfaces with the mold. The runner is how it travels in the mold. The gate is where the media goes into the cavity. Then, in the cavity, the vent is where the air leaves. A parting line is the seam between the faces of the mold. Flashing is any material left in the parting line. A bad mold needs lots of finishing a good mold produces parts that need no post-processing.
+
+Insert molding is where you mold around something. Examples of this are, Alex Schaub's [fabfoos](http://www.fabguru.com/fabfoos) or Adriana's washable gyro from the 2016 review.
+
+Vacuum molding is where you heat a piece of plastic and pull it down with a vacuum. That's commonly used for product packaging.
+
+Blow molding is where you heat and inflate media inside of a mold. Applications for this would be how bottles are made.
+
+Rotational molding is where you turn the mold as you are casting to drive the media through the mold.
+
+Flexible or soft molding is the goal for this week's assignment. We machine a rigid material. Then a mold is made from a flexible material. This is often the first step before conducting injection molding. Mold faces are not limited to two sides.[Matt Edwards](http://fab.cba.mit.edu/classes/863.12/people/matted/weekly-projects/6-molding-and-casting.html) made a mold with six faces.
+
