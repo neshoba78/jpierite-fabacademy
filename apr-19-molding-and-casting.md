@@ -50,3 +50,15 @@ Rotational molding is where you turn the mold as you are casting to drive the me
 
 Flexible or soft molding is the goal for this week's assignment. We machine a rigid material. Then a mold is made from a flexible material. This is often the first step before conducting injection molding. Mold faces are not limited to two sides.[Matt Edwards](http://fab.cba.mit.edu/classes/863.12/people/matted/weekly-projects/6-molding-and-casting.html) made a mold with six faces.
 
+[Amaco Flexwax Moldmaking Material](https://s3.amazonaws.com/amacobrent/section_images/attachments/2985/original_MSDS-Flexwax-AP.pdf?1441121713) is flexible at room temperature, reusable, and good for making copies of objects.
+
+[Machineable Wax](http://machinablewax.com/docs/SDS-MachinableWax_BLUE_F-14.pdf) is a rigid material which can be recycled. An example of recycling can be found in Mario Fullone's documentation.
+
+[FOAMULAR® 150 Rigid Foam Insulation](http://www.foamular.com/foam/products/foamular-150.aspx) can be used for architectural molds. The issue with these applications would be sealing the parts. This can be achieved by applying coats of Gesso or melting the foam onto itself.
+
+Lifecasting is achieved by using an aljinate such as Activa's [Instamold](https://cdn.shopify.com/s/files/1/0276/9565/files/Correct_Instamold_Instruction_2012.pdf?958). This is also good for food safe applications.
+
+![](/assets/IMG_0512.JPG)
+_Media for casting_
+
+Urethane is used for casting
