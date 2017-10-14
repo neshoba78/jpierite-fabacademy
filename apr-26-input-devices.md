@@ -59,8 +59,6 @@ Step response sensors can detect (almost) anything. Boards for these sensors are
 
 There are several other types of input devices that Neil did not spend too much time covering. Transducer piezos can measure vibration and time-of-flight. Force sensors are a bit nasty. As an alternative to these, Neil suggests capacitance sensors to measure force. Image is detected by the use of cameras. These have scaled down. Webcams are only a few dollars. Single board Linux computers can connect to these through USB and Javascript.
 
-
-
 #### Sources
 
 Pöhlmann, Stefanie T. L. et al. “Evaluation of Kinect 3D Sensor for Healthcare Imaging.” Journal of Medical and Biological Engineering 36.6 (2016): 857–870. PMC. Web. 10 Oct. 2017.
