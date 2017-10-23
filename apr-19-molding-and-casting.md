@@ -74,16 +74,31 @@ _Urethane part_
 
 [Drystone](https://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-drystone-casting-media-sds-en-52000000013.pdf) and [Hydrostone Super X](http://www.usg.com/content/dam/USG_Marketing_Communications/united_states/sds/usg-hydro-stone-super-x-sds-en-52000000100.pdf?region=united_states&lang=english&cat=docspecs,products) are casting media that are based o calcium compounds that are the basis of plaster. Plaster is granular and brittle. Drystone, for comparison, mixes with a polymer and produces nice plastic parts. Hydrostone Super X is grey and needs time to dry. These media do not need ventilation as opposed to the urethane which does.
 
-Metal casting can be achieved with media such as Zamak described above or with a low melt [281F Bismuth alloy](https://www.rotometals.com/lead-free-fishing-tackle-weight-bismuth-tin-alloy-281/?gclid=EAIaIQobChMIvsLi1ffw1gIVgYdpCh3pWANXEAYYASABEgJ7kPD_BwE). This alloy is cheap at $15 USD and can be melted in a toaster oven. [Jason Wang](http://fabacademy.org/archives/2015/as/students/wang.tse-kang/week09.html) has an example of making a Fab Academy medallion.Jason read a blacksmith article which led him to use regular baby powder (talc and some perfume) to produce finer detail while casting. Aluminum can be cast using casting clay or sand, but requires a more foundry setting than a fab lab.
-
-![](/assets/IMG_0507.JPG)
-_Safety tip for pouring a mold_
+Metal casting can be achieved with media such as Zamak described above or with a low melt [281F Bismuth alloy](https://www.rotometals.com/lead-free-fishing-tackle-weight-bismuth-tin-alloy-281/?gclid=EAIaIQobChMIvsLi1ffw1gIVgYdpCh3pWANXEAYYASABEgJ7kPD_BwE). This alloy is cheap at $15 USD and can be melted in a toaster oven. [Jason Wang](http://fabacademy.org/archives/2015/as/students/wang.tse-kang/week09.html) has an example of making a Fab Academy medallion. Jason read a blacksmith article which led him to use regular baby powder (talc and some perfume) to produce finer detail while casting. Aluminum can be cast using casting clay or sand, but requires a more foundry setting than a fab lab.
 
 ![](/assets/IMG_0508.JPG)
 _Tips for mixing rubber_
 
+Workflow for this week is Machineable Wax (positive) to Oomoo (negative) to Hydrostone or Drystone (positive). The casting material does not need to be solid. Among additive materials are: graphite (friction, conductivity), aluminum or nickel, quartz for thermal conductivity, and glass microspheres. Microlight filler is an additive that acts as a matrix for plastic to add porosity.
+
 ![](/assets/IMG_0509.JPG)
 _Double mix and pour technique_
 
+To make the mold, first make a little test cast. Cast a little part in anything such as a plastic cup. These materials have a shelf life, 1 year unopened or a few weeks once opened. These are two part compounds that need to be uniformly mixed so that you see no striation. The mixing takes about fives times longer than you would expect.
+
+![](/assets/IMG_0507.JPG)
+_Safety tip for pouring a mold_
+
+To pour, you want a thin stream of material to pour into the mold and or tooling. If you have corners in the mold, come in with a wooden stick to poke the material in to fill. You can also paint the surface of the mold to ensure coverage. 
+
 ![](/assets/IMG_0510.JPG)
 _"high and thin" pouring technique_
+
+One trick to avoiding bubbles is to shear the compound as you are mixing. This motion is not scooping, rather you mix from side to side. Vacuum pumps are also handy to eliminate bubbles. Once the compound is mixed, you should let it sit for a few minutes and wait for the bubbles to naturally float to the top. When the resin is curing, there is an exothermic reaction. This means that the resin will heat up. This is an indication that the compound is reacting as expected.
+
+Storage of resin is very sensitive. When using the material, build up tends to form on the rim of the container. Proper care of the material and the container are important to be able to use the full amount. Build up degrades over time. If it comes into contact with cloth, the container may seal. Diligence about storage and shelf life helps to avoid gooey messes.
+
+For safety concerns, a number of the materials have warnings. In procurement and deployment, I have to be familiar with reading MSDS to know what can be sent via air. For users what could happen is sensitization, one student in Barcelona ended up in the hospital after exposure to the materials without ventilation. The materials required for this week are more friendly for beginning users.
+
+To complete the assignment, it is a requirement to use 3-axis machining. While tooling could be 3D printed, the resolution of the printer is a limiter for the resolution of the tooling. The first sequence of passes is called a rough cut. A second sequence of passes is the finishing cut. A rough cut passes in layers horizontally and then plunges. Jens Dyvik added that 7% stepover is a "magic number" when calculating finishing cut toolpaths. Stepover of 20% is okay and doesn't leave very visible artifacts. Stepover of 100% leaving clear beading, according to Neil. CAM software options include VCarve, Fusion 360, or Fab modules.
+
