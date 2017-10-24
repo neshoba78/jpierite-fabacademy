@@ -27,6 +27,22 @@
 
 [APOORV VATS](http://archive.fabacademy.org/archives/2017/fablabakgec/students/462/week8_Embedded%20Programming/assignment8.html), AKGEC (India), tried assembly language to also program his board. Apoorv described this as using a third language to program the board. Neil explained that Arduino is not a separate language. Arduino is C but additionally call libraries. The IDE uses gcc. the point behind Neil's example is to demonstrate a way to directly call gcc and code without the overhead of Arduino. Despite the supposed misinterpretation of "language", Apoorv demonstrates the size comparison of the code. An Arduino sketch with included libraries is 952 bytes, a C program is 100 bytes, and Assembly program is only 44 bytes. This prompted Neil to correct himself in stating that C code was a "ground truth." You can go to a lower level than just plain C by programming in Assembly. With Assembly, there are no toolchains or libraries. Lower than Assembly is hex code which is even lighter, but not many people go to that level. Neil recommended the Arduino IDE to leverage the libraries written for it. He recommended C code for iteration, looping, and subreoutines. He recommended Assembly for considering every byte of code to every clock tick. Apoorv also experimented with interrupt based programming. His experience was sometime the reverse of the expected output. This led Neil to explain [Schmitt Triggers](http://www.ti.com/lit/an/scea046/scea046.pdf). Schmitt Triggers are useful when a user needs to convert a sine wave into a square wave. This is a technique that is applied in software.
 
+#### 2017 Class Notes
+
+An embedded processor, such as an ATTiny, is a complete computer system on a chip that costs 75 cents. An Arduino is actually five separate things that get mixed. It is a board. It is C libraries. It is a bootloader. It is also a header. Each of those five components gets mixed. The purpose of this week is to untangle them.
+
+Computers historically are known as having a Harvard architecture. The Mark I computer is also famous for having the first computer bug. A von Neumann architecture stores the data and program are in the same place, in that way they can modify themselves. CISC instructions are on desktop computers. RISC are simpler and are used in a processors. Microprocessors are computer chips that need other chips to function. Microcontrollers condense multiple computer chip functions into one package.
+
+In a $1 microcontroller, there are many things. One of the things is memory. These come as registers which the microcontroller operates on very quickly. There is RAM which stores data. SRAM is fast. DRAM is slower but with more capacity. EEPROM is nonvolatile memory. You can write into it, and it will save the value. FLASH is also nonvolatile. It's harder to write to but that is where you write programs. Fuse memory is where configurations are stored.
+
+There are also many peripherals. There is an A/D (analog to digital) that converts a voltage into a number. A comparator compares two numbers quickly. D/A (digital to analog) turn data into a voltage. A timer measures time. a counter measures events. PWM (pulse width modulation) varies pulses that you would use to control motors, displays, etc. USART and USB are peripherals for communication to send messages in and out.
+
+Processors are rated by the word size. The example microcontroller is 8-bit meaning the register stores 8 bits. Many desktop computers are 32 or 64-bit. The 8-bit microcontrollers work on "little" words. We are going to use these packages at 20 MHz. It will do one instruction per clock cycle. So, that means 20 million instruction per second. 64-bit math can be achieved. There is a threshold of quality for audio, but it can be done.
+
+[![Atmel: Vegard Wollan and Alf-Egil Bogen Discuss AVR’s Inception](https://img.youtube.com/vi/VUyEFr0YHJs/0.jpg)](https://www.youtube.com/watch?v=VUyEFr0YHJs "Atmel: Vegard Wollan and Alf-Egil Bogen Discuss AVR’s Inception")
+
+The AVR family was originally designed by Egil Bogen and Vegard Wollan.
+
 #### Sources
 
 Cockrill, C. _Understanding Schmitt Triggers_. Texas Instruments, Sept. 2011, www.ti.com/lit/an/scea046/scea046.pdf.
