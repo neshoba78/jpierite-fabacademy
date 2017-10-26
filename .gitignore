@@ -8,6 +8,7 @@
 node_modules
 
 .project
+.DS_Store
 
 # Book build output
 _book
