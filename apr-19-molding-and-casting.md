@@ -38,15 +38,9 @@ _resulting parts_
 
 #### 2017 Class Notes
 
-[![Part 1 - Cutting a Wax Block](https://img.youtube.com/vi/TovsiBCElZE/0.jpg)](https://www.youtube.com/watch?v=TovsiBCElZE "Part 1 - Cutting a Wax Block")
-_Part 1 of Demo for molding/casting led by Neil Gershenfeld at the Heads on Fire :: Fab Lab in San Diego. We used a DeWalt DW788S 20" Variable Speed Scroll Saw. (filmed by Xavier Leonard)_
-
 If 3D printing is over represented in digital fabrictation, molding and casting is under represented. Mold making takes as long as 3D printing. Once done, you are at an advantage by being able to make many parts.
 
 In injection molding, plastic pellets are melted, heated, and then a sprue forces them into a mold. The sprue is where the casting media interfaces with the mold. The runner is how it travels in the mold. The gate is where the media goes into the cavity. Then, in the cavity, the vent is where the air leaves. A parting line is the seam between the faces of the mold. Flashing is any material left in the parting line. A bad mold needs lots of finishing a good mold produces parts that need no post-processing.
-
-[![Part 2 - Machining the Wax](https://img.youtube.com/vi/JENkC61RSR0/0.jpg)](https://www.youtube.com/watch?v=JENkC61RSR0 "Part 2 - Machining the Wax")
-_Part 2 of Demo for molding/casting led by Neil Gershenfeld at the Heads on Fire :: Fab Lab in San Diego. We are using a Modela MDX-20 milling machine in the video. (filmed by Xavier Leonard)_
 
 Insert molding is where you mold around something. Examples of this are, Alex Schaub's [fabfoos](http://www.fabguru.com/fabfoos) or Adriana's washable gyro from the 2016 review.
 
@@ -56,23 +50,11 @@ Blow molding is where you heat and inflate media inside of a mold. Applications 
 
 Rotational molding is where you turn the mold as you are casting to drive the media through the mold.
 
-[![Part 3 - Preparing Rubber for Mold](https://img.youtube.com/vi/uz4nq3OgP0Q/0.jpg)](https://www.youtube.com/watch?v=uz4nq3OgP0Q "Part 3 - Preparing Rubber for Mold")
-_Part 3 of Demo for molding/casting led by Neil Gershenfeld at the Heads on Fire :: Fab Lab in San Diego. We used Smooth-On's Mold Making Rubber (PMC-121/30 Dry). (filmed by Xavier Leonard)_
-
 Flexible or soft molding is the goal for this week's assignment. We machine a rigid material. Then a mold is made from a flexible material. This is often the first step before conducting injection molding. Mold faces are not limited to two sides.[Matt Edwards](http://fab.cba.mit.edu/classes/863.12/people/matted/weekly-projects/6-molding-and-casting.html) made a mold with six faces.
-
-[![Part 4 - Making the Mold](https://img.youtube.com/vi/7PaZc2llJ6o/0.jpg)](https://www.youtube.com/watch?v=7PaZc2llJ6o "Part 4 - Making the Mold")
-_Part 4 of Demo for molding/casting led by Neil Gershenfeld at the Heads on Fire :: Fab Lab in San Diego. (filmed by Xavier Leonard)_
 
 [Amaco Flexwax Moldmaking Material](https://s3.amazonaws.com/amacobrent/section_images/attachments/2985/original_MSDS-Flexwax-AP.pdf?1441121713) is flexible at room temperature, reusable, and good for making copies of objects.
 
-[![Part 5 - Casting](https://img.youtube.com/vi/mQXbwUzO4IE/0.jpg)](https://www.youtube.com/watch?v=mQXbwUzO4IE "Part 5 - Casting")
-_Part 5 of Demo for molding/casting led by Neil Gershenfeld at the Heads on Fire :: Fab Lab in San Diego. (filmed by Xavier Leonard)_
-
 [Machineable Wax](http://machinablewax.com/docs/SDS-MachinableWax_BLUE_F-14.pdf) is a rigid material which can be recycled. An example of recycling can be found in Mario Fullone's documentation.
-
-[![Part 6 (final) - Taking cast out](https://img.youtube.com/vi/ADGg7-QDQF4/0.jpg)](https://www.youtube.com/watch?v=ADGg7-QDQF4 "Part 6 (final) - Taking cast out")
-_Part 6 of Demo for molding/casting led by Neil Gershenfeld at the Heads on Fire :: Fab Lab in San Diego. (filmed by Xavier Leonard)_
 
 [FOAMULAR® 150 Rigid Foam Insulation](http://www.foamular.com/foam/products/foamular-150.aspx) can be used for architectural molds. The issue with these applications would be sealing the parts. This can be achieved by applying coats of Gesso or melting the foam onto itself.
 
@@ -119,3 +101,29 @@ Storage of resin is very sensitive. When using the material, build up tends to f
 For safety concerns, a number of the materials have warnings. In procurement and deployment, I have to be familiar with reading MSDS to know what can be sent via air. For users what could happen is sensitization, one student in Barcelona ended up in the hospital after exposure to the materials without ventilation. The materials required for this week are more friendly for beginning users.
 
 To complete the assignment, it is a requirement to use 3-axis machining. While tooling could be 3D printed, the resolution of the printer is a limiter for the resolution of the tooling. The first sequence of passes is called a rough cut. A second sequence of passes is the finishing cut. A rough cut passes in layers horizontally and then plunges. Jens Dyvik added that 7% stepover is a "magic number" when calculating finishing cut toolpaths. Stepover of 20% is okay and doesn't leave very visible artifacts. Stepover of 100% leaving clear beading, according to Neil. CAM software options include VCarve, Fusion 360, or Fab modules.
+
+## Neil demos molding & casting
+
+[![Part 1 - Cutting a Wax Block](https://img.youtube.com/vi/TovsiBCElZE/0.jpg)](https://www.youtube.com/watch?v=TovsiBCElZE "Part 1 - Cutting a Wax Block")
+
+_Part 1 of Demo for molding/casting led by Neil Gershenfeld at the Heads on Fire :: Fab Lab in San Diego. We used a DeWalt DW788S 20" Variable Speed Scroll Saw. (filmed by Xavier Leonard)_
+
+[![Part 2 - Machining the Wax](https://img.youtube.com/vi/JENkC61RSR0/0.jpg)](https://www.youtube.com/watch?v=JENkC61RSR0 "Part 2 - Machining the Wax")
+
+_Part 2 of Demo for molding/casting led by Neil Gershenfeld at the Heads on Fire :: Fab Lab in San Diego. We are using a Modela MDX-20 milling machine in the video. (filmed by Xavier Leonard)_
+
+[![Part 3 - Preparing Rubber for Mold](https://img.youtube.com/vi/uz4nq3OgP0Q/0.jpg)](https://www.youtube.com/watch?v=uz4nq3OgP0Q "Part 3 - Preparing Rubber for Mold")
+
+_Part 3 of Demo for molding/casting led by Neil Gershenfeld at the Heads on Fire :: Fab Lab in San Diego. We used Smooth-On's Mold Making Rubber (PMC-121/30 Dry). (filmed by Xavier Leonard)_
+
+[![Part 4 - Making the Mold](https://img.youtube.com/vi/7PaZc2llJ6o/0.jpg)](https://www.youtube.com/watch?v=7PaZc2llJ6o "Part 4 - Making the Mold")
+
+_Part 4 of Demo for molding/casting led by Neil Gershenfeld at the Heads on Fire :: Fab Lab in San Diego. (filmed by Xavier Leonard)_
+
+[![Part 5 - Casting](https://img.youtube.com/vi/mQXbwUzO4IE/0.jpg)](https://www.youtube.com/watch?v=mQXbwUzO4IE "Part 5 - Casting")
+
+_Part 5 of Demo for molding/casting led by Neil Gershenfeld at the Heads on Fire :: Fab Lab in San Diego. (filmed by Xavier Leonard)_
+
+[![Part 6 (final) - Taking cast out](https://img.youtube.com/vi/ADGg7-QDQF4/0.jpg)](https://www.youtube.com/watch?v=ADGg7-QDQF4 "Part 6 (final) - Taking cast out")
+
+_Part 6 of Demo for molding/casting led by Neil Gershenfeld at the Heads on Fire :: Fab Lab in San Diego. (filmed by Xavier Leonard)_
