@@ -43,7 +43,7 @@ Processors are rated by the word size. The example microcontroller is 8-bit mean
 
 The AVR family was originally designed by Egil Bogen and Vegard Wollan. The idea was a modern compiler like gcc is designed to target high-performance RISC processors. 8051 or PIC family did not fit modern compiler design. AVR family are embedded processors that you can use modern compilers to program. They are an intersection of cheap parts and high performance.
 
---I stopped at 15:15
+--I stopped at 15:15, will pick up as soon as possible
 
 #### Sources
 
