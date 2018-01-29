@@ -162,3 +162,7 @@ Alan; head (logic), heart (human face and emotion), hands (experience and feedba
 
 Alex McDowell and Alan started a new company, design shop, towards aspirational but achievable futures. [Experimental Design, Rapidly-Prototyping the Future](http://www.dicesummit.org/events/2018_roundtables.asp)
 
+Alan; study on Minecraft, Linux, Wikipedia, etc.:
+Galvanizing vision -> Offer (accessible) platforms and tools that people can modify and extend -> Users that can adopt and adapt platforms and tools
+
+Core controversy; what are the definitions of Propagation and Scale?
