@@ -64,7 +64,7 @@ On the surface level, digital fabrication is using a computer and a tool to make
 
 MIT's Center for Bits and Atoms facilitates a ten million dollar "fab lab", which is a suite of research tools. There was a bottle neck on instruction of how to use the tools. This lead to the creation of "How to Make (almost) Anything". Projects from this class answered not so much "how" but "why" to do digital fabrication.
 
-Following the parallel of development of computation, the Whirlwind was transistorized into the MIT TX-0 computer. The birth of modern computing happened at Bell Labs with the PDP, this was reflected in a scaling down physically of equipment from a building scale to a room. Ken Olsen was skeptical about the personal computer stating, "There is no reason for any individual to have a computer in his home". The killer app for computing ultimately became personal computing. The parallel discovered in the HTMaA class was that digital fabrication could be used to make products for a market of one, personal fabrication.
+Following the parallel of development of computation, the Whirlwind was transistorized into the MIT TX-0 computer. TX-0 was commercialized into the PDP. The birth of modern computing happened at Bell Labs with the PDP, this was reflected in a scaling down physically of equipment from a building scale to a room. Ken Olsen was skeptical about the personal computer stating, "There is no reason for any individual to have a computer in his home". The killer app for computing ultimately became personal computing. The parallel discovered in the HTMaA class was that digital fabrication could be used to make products for a market of one, personal fabrication.
 
 Educational outreach from CBA lead to the Fab Lab programming. The community-based Fab Lab is analogous to the PDP in scale. Filling the room, it is one machine or system for digital fabrication. One machine cannot make almost anything. The collection of fab lab machine can rather output any such projects.
 
@@ -101,4 +101,64 @@ From one billion to one trillion, this is the Internet of Things but for a manuf
 Manufacturing is going from a mainframe to a minicomputer (fab lab) to a personal computer (mtm) to ubiquitous (Star Trek Replicator). Research to reach ubiquitous takes fifty years, we are currently in the middle of that path, the "mini computer" era. The class is teaching digital fabrication, but also asks what is: business, education, governance, and how does the world change?
 
 **Designing Reality**
+
+CSPAN, ["Designing Reality Neil Gershenfeld, Alan Gershenfeld, and Joel Cutcher-Gershenfeld discussed what they call the 'third digital revolution,' an increase of digital fabrication"](https://www.c-span.org/video/?438596-1/designing-reality)
+
+How can influence the shape and the ethos surrounding digital fabrication?
+
+Alan Gershenfeld, social impact of media and games
+
+Joel Cutcher-Gershenfeld, large scale systems of change
+
+Fifty year doubling of computation and communications, illustrated by Moore's Law. Parallel scaling experienced in Fab Lab Network, Lass's Law.
+
+Carnegie and spread of public libraries, proliferation of fab labs is analogous through the work of champions like Mel King, Haakon Karlsen, Blair Evans, John Peto, and Phyllis Klein.
+
+Fab Academy was meant to retain talent of extraordinary individuals that were inspired to solve local problems through digital fabrication.
+
+Rep. Bill Foster, the only physicist is Congress, introduced the [National Fab Lab Charter](https://www.congress.gov/114/bills/hr1622/BILLS-114hr1622ih.pdf). National network is a "cloud" laboratory that empowers and informs solutions on the local level.
+
+Altair is the first personal computer. Empowered innovations by Bill Gates as well as the Homebrew Computer Club. Stephen Wozniak, ["Homebrew and How the Apple Came to Be"](https://www.atariarchives.org/deli/homebrew_and_how_the_apple.php).
+
+Supply chain is deprecated to tens of digital materials that can be assembled by properties.
+
+Question posed by von Neumann, how to make a mahcine that communicates a computation for its own construction?
+
+What are the minimal building blocks that you need to bootstrap a technological civilization?
+
+Joel; the technology is marching at an exponential rate, but what about society?
+
+Alan; disciplines and ideas for businesses tend to overlap.
+
+Joel; domain is Social Science. What is the path? Neither dystopian nor techno-optimism. Both parents were college professors of industrial relations and labor arbitrators. Begins with labor management principles but transitions into large systems. Installation of fab lab takes about a month. Organization of organizations to support a fab lab takes about two years.
+
+Alan; going from Hollywood to video games. Power of video games as a medium was huge. Game for Change, chasing millions of dollars without much impact on the other end of development. Every project is a multistakeholder project. Cook Inlet Tribal Council, how to empower youth and direct their own narrative within the media? CITC is largest stakeholder in e-Line Media. Development of FAB game triggered the installation of a fab lab.
+
+The book starts with a hypothetical time travel episode back into 1965. If you are a policy maker or a social scientist, what are the questions of inclusion? Social sciences were reactive to the science in reality. Today, four billion people still have no access to the Internet. A fab lab can not function as designed without the access. Most of the planet is ill-equipped to reap the benefits of digital fabrication technology.
+
+"The Internet is not a luxury, it is a necessity", Barack Obama. If we look at the next fifty years of FAB, what are the issues of FAB divides and FAB access? Access and literacy are a part of FAB inclusion. Computer acquisition did not match with literacy promotion. Technology sat while literacy attempted to catch up. Fab Labs leverage multiple domains, disciplines, skills, and dispositions. 
+
+The process of making things has enormous benefits. We are not however at a point in which we can make what we consume. What is usually overlooked are enabling ecosystems. One of the most important things in the Fab ecosystem is the mentor. People are desperate for mentors. We need a fullbright type of scholarship that can enable a Jens-like journey to cultivate mentors.
+
+Joel; there are about 15 - 20 needed platforms. How to cultivate mentors? How to do equipment repair? How to share designs? Platforms are currently being cobbled together, not so much being implemented on a global scale. How can you anticipate change, align stakeholders, cultivate ecosystems so that social and technical can co-evolve?
+
+Alan; how can we error correct the social along with the technical? Social error correction is much slower, but could be accelerated. How does toxic behavior proliferate? How does positive behavior proliferate? Immediate feedback loops with buy-in from the community on the methodologies. Brendan Maher, ["Good Gaming: Scientists are helping to tame toxic behaviour in the world's most popular online game."](https://www.nature.com/polopoly_fs/1.19647!/menu/main/topColumns/topLeftColumn/pdf/531568a.pdf) Social science error correction married with technology.
+
+Government, Philanthropy, Corporate, Distributed; Fab Solutions: inclusion a focus and priority now...
+
+How do we reduce friction for people wanting to join the network? For any system, risk mitigation is a concern. Fab risks include ethics around weapons and biofabrication. If the number of fab labs doubles every year and a half, consumables needed to faciliate become an ecological risk. Fair treatment, succession planning, depend on the existence of a physical work space; what happens when the work space is distributed?
+
+The Fab Charter is way out of date. There is nothing in the charter that governs how big decisions are made.
+
+![](/assets/fab-charter.png)
+
+Fab Labs make us rethink the concept of work. There is potential for a blended economy (i.e., volunteer hours producing work credits). Impact of Moore's Law at Intel is analogous to the boulder scene in raiders of the Lost Ark, work racing innovation at an exponential rate.
+
+What if we think of organizations in modular terms?
+
+![](/assets/science-of-digital.png)
+
+Alan; head (logic), heart (human face and emotion), hands (experience and feedback leading to a path forward). When you get invited into something you care about, you fail most of the time but you are getting feedback. The consideration of the three concepts is important to promote a movement centered around FAB inclusion.
+
+Alex McDowell and Alan started a new company, design shop, towards aspirational but achievable futures. [Experimental Design, Rapidly-Prototyping the Future](http://www.dicesummit.org/events/2018_roundtables.asp)
 
