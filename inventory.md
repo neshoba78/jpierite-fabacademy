@@ -67,8 +67,8 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 3 | ICUSB232   | StarTech.com USB-to-RS232 Serial DB9 Adapter Cable ICUSB232   | 13.68 | 41.04 |  | China | 8544.42.0000
 3 | F2L088-06 | Belkin DB9 Female/DB25 Male Modem Cable | 5.99 | 17.97 |  | China | 8544.42.0000
 10 | 2388A57 | Stainless Steel Pocket Rule Semiflexible, Inch to 64Ths, Metric/mm, | 2.54 | 25.40 |  | USA | 9017.20.80.60
-50 | http://www.mcmaster.com/#5233k65/=ud4csa | PVC Tubing /// 5233K65 | 0.75 | 37.50 |  |  | 
-1 | http://www.mcmaster.com/#91465k92/=ud4coc |  Brass Push on hose Fitting 5 pack /// 91465K92 | 8.21 | 8.21 |  |  | 
+50 | 5233k65 | PVC Tubing /// 5233K65 | 0.75 | 37.50 |  |  | 
+1 | 91465k92 |  Brass Push on hose Fitting 5 pack /// 91465K92 | 8.21 | 8.21 |  |  | 
  | Safety: |  |  |  |  |  | 
 1 | B00IYCE7IC | Hot Headz Fire Blanket, 36 x 36-Inch, Red | 17.97 | 17.97 |  |  | 
 1 | 6430T16 | Class ABC Dry Chemical Fire Extinguisher 3-A:40-B:C UL Rating, | 52.08 | 52.08 |  |  | 8424.10.00.00
@@ -118,10 +118,9 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 1 | ZC-20-32 (SRM-20) | 3.2mm-1/8in SRM Collet | 64.99 | 64.99 |  |  | 
 1 | B00E9HR7KG | Cuisinart TOB-135 Deluxe Convection Toaster Oven | 159.00 | 159.00 |  | China | 8516.60.6000
 1 | 6966C | Weller Heat Gun, Model 6966C, 750-800 Degrees Farenheit (110V).  For 230V, try http://uk.farnell.com/weller/6966ek/heat-gun-3-wire-eu-plug-230v/dp/1689001 | 122.00 | 122.00 |  | Mexico | 84.19
-2 | http://www.amazon.com/SunFounder-Project-Universal-Starter-Mega2560/dp/B00D9MK150/ref=sr_1_2?ie=UTF8&qid=1463685906&sr=8-2&keywords=breadboard+starter+kit | Breadboard starter kit w/ components | 19.99 | 39.98 |  |  | 
+2 | B00D9MK150 | Breadboard starter kit w/ components | 19.99 | 39.98 |  |  | 
 1 | Instek GDS-1152A-U 150 MHz Digital Storage Oscilloscope (110-240v) |  | 935.00 | 935.00 |  | Taiwan | 9030.20.1500
-1 | "Instek AFG-2125 Function Generator, 25MHZ, sweep, AM/FM (110-240v)
-" |  | 510.00 | 510.00 |  | Taiwan | 8543.20.0000
+1 | Instek AFG-2125 Function Generator, 25MHZ, sweep, AM/FM (110-240v) |  | 510.00 | 510.00 |  | Taiwan | 8543.20.0000
 1 | Instek GPD-3303D Triple-Output DC Power Supply, 30V/3A x 2, 2.5V/3.3V/5V/3A x 1  (110v-230v) |  | 415.00 | 415.00 |  | Taiwan | 8471.80.90.00
 1 | Aven Tools 26502-LED ProVue Slim LED Magnifying Lamp w/Mounting Clamp, 110-220v | 26502-LED | 81.96 | 81.96 |  | USA | 9405.20.30.00
 2 | 6958A21 | Hex L-Key 1.5 mm Size, 3-1/16" Overall Length | 0.23 | 0.46 |  | USA | 8204.11.0060
@@ -240,10 +239,10 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 10 | ATMEGA16U2-AU-ND | IC MCU 8BIT 16KB FLASH 32TQFP | 3.53 | 35.28 |  |  | 854231
 10 | ATMEGA16U4-AU-ND | IC MCU 8BIT 16KB FLASH 44TQFP | 4.63 | 46.27 |  |  | 854231
 10 | ATTINY44A-SSU-ND | IC MCU AVR 4K FLASH 20MHZ 14SOIC- | 1.18 | 11.76 |  | South Korea | 854231
-5 | ATXMEGA16A4U-AURCT-ND         | IC MCU 8BIT 16KB FLASH 44TQFP | 2.80 | 13.99 |  | South Korea | 854231
+5 | ATXMEGA16A4U-AURCT-ND | IC MCU 8BIT 16KB FLASH 44TQFP | 2.80 | 13.99 |  | South Korea | 854231
 5 | ATXMEGA16E5-AURCT-ND | IC MCU 8BIT 16KB FLASH 32TQFP | 2.11 | 10.53 |  | South Korea | 854231
 10 | BZT52C4V7-13-FDICT-ND | DIODE ZENER 4.7V 500MW SOD-123- | 0.07 | 0.65 |  | China | 854110
-5 | "CLA413-ND | " | POWER SWITCH AC SS SCR 8SOIC | 3.04 | 15.20 |  |  | 
+5 | CLA413-ND | POWER SWITCH AC SS SCR 8SOIC | 3.04 | 15.20 |  |  | 
 10 | CLV1A-FKB-CK1N1G1BB7R4S3CT-ND         | LED RGB DIFFUSED 4PLCC SMD | 0.60 | 5.98 |  | China | 854140
 10 | CP-002AHPJCT-ND | CONN-POWER JACK 2.1MM SMD | 1.47 | 14.69 |  | Hong Kong | 853669
 10 | CP-012-ND | CONN DC PWR PLUG 0.7X2.35MM- | 0.78 | 7.76 |  | Taiwan | 853669
@@ -469,10 +468,9 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
 :---: | --- | --- | ---: | ---: | ---: | ---: | ---
  | Materials: |  |  |  |  |  | 
-5 | http://www.amazon.com/SunFounder-Ultrasonic-Distance-Mega2560-Duemilanove/dp/B00E0NXTJW | "2 pcs Ultrasonic Module HC-SR04 Distance Sensor
-" | 8.99 | 44.95 |  |  | 
-5 | http://www.amazon.com/J-deal%C2%AE-Pyroelectric-Infrared-Detector-Hc-sr501/dp/B013LA6MW0 | Pyroelectric Infrared PIR Motion Sensor Detector Module Hc-sr501 (5pcs) | 8.48 | 42.40 |  |  | 
-5 | http://www.amazon.com/sunkee-OV7670-640X480-Compatible-Interface/dp/B00AZWVZKW | Yosoo VGA OV7670 Camera Module Lens CMOS 640X480 SCCB Compatible W/ I2C Interface | 8.27 | 41.35 |  |  | 
+5 | B00E0NXTJW | "2 pcs Ultrasonic Module HC-SR04 Distance Sensor" | 8.99 | 44.95 |  |  | 
+5 | B013LA6MW0 | Pyroelectric Infrared PIR Motion Sensor Detector Module Hc-sr501 (5pcs) | 8.48 | 42.40 |  |  | 
+5 | B00AZWVZKW | Yosoo VGA OV7670 Camera Module Lens CMOS 640X480 SCCB Compatible W/ I2C Interface | 8.27 | 41.35 |  |  | 
 10 | 1080-1379-1-ND | Phototransistor 940nm Top View 1206 IR | 0.15 | 1.49 |  | Taiwan | 854140
 10 | 1080-1380-1-ND | Phototransistor 940nm Top View 1206 visible | 0.15 | 1.49 |  |  | 
 5 | 235-1109-1-ND | THERMISTOR NTC 10K OHM 10% 1206- | 2.50 | 12.50 |  | Japan | 853329
@@ -500,45 +498,45 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
 :---: | --- | --- | ---: | ---: | ---: | ---: | ---
  | (Composite) Materials: |  |  |  |  |  | 
-3 | https://entropyresins.com/product/super-sap-100-1000/ | "Super Sap ONE Epoxy and ONE Hardener, 3 gal, Complete Starter Kit (Pumps, cups, sticks, gloves)
+3 | super-sap-100-1000 | "Super Sap ONE Epoxy and ONE Hardener, 3 gal, Complete Starter Kit (Pumps, cups, sticks, gloves)
 (Cannot be purchased for overseas)" | 254.95 | 764.85 |  |  | 
-3 | https://entropyresins.com/product/super-sap-clr-clear-epoxy-resin/ | "Super Sap CLR Epoxy and CLF (FAST) Hardener, 3 gal, Complete Starter Kit (Pumps, cups, sticks, gloves)
+3 | super-sap-clr-clear-epoxy-resin | "Super Sap CLR Epoxy and CLF (FAST) Hardener, 3 gal, Complete Starter Kit (Pumps, cups, sticks, gloves)
 (Cannot be purchased for overseas)" | 254.95 | 764.85 |  |  | 
-10 | http://www.fabrics-store.com/first.php?goto=big_fabric&menu=f&menu=f&fabric_id=740 | IL020, 100% Linen, 57 inch, per yard | 10.39 | 103.90 |  |  | 
-10 | http://www.fibreglast.com/product/Polyethelene_Bagging_Film_577/Vacuum_Bagging_Films_Peel_Ply_Tapes | Polyethylene Bagging Film (yds) | 1.75 | 17.50 |  |  | 
-10 | http://www.fibreglast.com/product/low-temperature-release-film-1580/Vacuum_Bagging_Films_Peel_Ply_Tapes | Low Temperature Release Film, unperforated (yds) | 2.95 | 29.50 |  |  | 
-2 | http://www.amazon.com/LA-Linen-15-Inch-Natural-100-Yard/dp/B00HTVMX08 | LA Linen 15-Inch Natural Jute Burlap Roll, 100-Yard, Natural | 50.90 | 101.80 |  |  | 
+10 | 740 | IL020, 100% Linen, 57 inch, per yard | 10.39 | 103.90 |  |  | 
+10 | Polyethelene_Bagging_Film_577 | Polyethylene Bagging Film (yds) | 1.75 | 17.50 |  |  | 
+10 | low-temperature-release-film-1580s | Low Temperature Release Film, unperforated (yds) | 2.95 | 29.50 |  |  | 
+2 | B00HTVMX08 | LA Linen 15-Inch Natural Jute Burlap Roll, 100-Yard, Natural | 50.90 | 101.80 |  |  | 
  | Tools: |  |  |  |  |  | 
 1 | B000HE8BMS | WEN 2290 Air Compressor Accessory Kit, 20-Piece | 21.99 | 21.99 |  | China | 3917.31.0000
-3 | http://www.amazon.com/Wiss-28N-Industrial-Shears-Scissors/dp/B000TDILJA | Wiss 28N Industrial Shears / Scissors | 26.32 | 78.96 |  |  | 
-2 | http://www.amazon.com/Duck-Stretch-20-Inch-Single-970700/dp/B000NHTUCE | Duck Brand Stretch Wrap, 20 Inches Wide x 1000 Feet Long, Single Roll (970700) | 19.97 | 39.94 |  |  | 
-1 | http://www.amazon.com/Warner-250-Tool-covering-Perforator/dp/B000I6JLAQ | Warner 250 Tool Wall covering Perforator | 31.62 | 31.62 |  |  | 
-3 | https://www.amazon.com/Mountain-Mist-Quilt-Light-Polyester-Batting/dp/B000G6JNCE/ | Mountain Mist Quilt-Light Polyester Batting, Full 81-inch-by-96-inch | 6.58 | 19.74 |  |  | 
-2 | http://www.amazon.com/Space-Saver-Vacuum-Storage-Jumbo/dp/B004X98B5A | 50 PACK Space Saver Vacuum Storage Bags Jumbo Size 51"X40" | 102.95 | 205.90 |  |  | 
-3 | http://www.amazon.com/Mann-Release-Technologies-Ease-200/dp/B004BNAN3G | Mann Release Technologies Ease Release 200 14 fl. oz. | 10.44 | 31.32 |  |  | 
-3 | http://www.amazon.com/Johnson-Fine-Wood-Paste-00203/dp/B0000DIWIM | Johnson Wax 16 Oz Fine Wood Paste Wax 00203 | 7.99 | 23.97 |  |  | 
-5 | http://www.amazon.com/Gorilla-Glue-50008-Adhesive-8-Ounces/dp/B0000223UV | 8oz Original Gorilla Glue | 12.99 | 64.95 |  |  | 
-2 | http://www.amazon.com/Members-Mark-Clear-Plastic-Cups/dp/B001KJFPR8 | Members Mark Clear Plastic Cups - 100/16oz Cups | 12.39 | 24.78 |  |  | 
-2 | http://www.amazon.com/All-you-Containers-Lids-32/dp/B00IEBYLKM | All 4 you Containers w/ Lids 32 oz (24) | 12.99 | 25.98 |  |  | 
-2 | http://www.amazon.com/Chenille-Kraft-Natural-Sticks-3776-01/dp/B001GXD6BU | Chenille Kraft Natural Wood Craft Sticks, Jumbo Size, 6 x 3/4, Wood, Natural Wood, 500/Box (3776-01) | 7.27 | 14.54 |  |  | 
-2 | http://www.amazon.com/Perfect-Stix-PAINT9-Birchwood-Paddle/dp/B009EE61MY | Perfect Stix 9" Wooden Paint Paddle Stirrer Sticks Length (Pack of 100) | 13.25 | 26.50 |  |  | 
-2 | http://www.amazon.com/Mountain-4526-4-Inch-Plastic-Spreaders/dp/B000LQDATG | Mountain 4526 4-Inch Plastic Spreaders, 100/box | 28.39 | 56.78 |  |  | 
-5 | http://www.amazon.com/dp/B003K15D9E | Ansell TNT Blue 92-575 Nitrile Glove, Chemical Resistant, Powdered, Disposable, Rolled Beaded Cuff, 9.5" Length, 5 mils Thick, Large (Pack of 100) | 7.95 | 39.75 |  |  | 
-3 | https://www.amazon.com/Irwin-Tools-Quick-Piece-Clamp/dp/B00M9IHYIC/ | Irwin Tools Quick Grip 6 Piece Clamp Set | 57.91 | 173.73 |  |  | 
-1 | http://www.amazon.com/BLACK-GARBAGE-TRASH-INDUSTRIAL-GALLON/dp/B000Y3PPK8 | "BLACK GARBAGE (TRASH) BAGS FOR HEAVY INDUSTRIAL USE, 60 GALLON XXX. HEAVY, BLACK 2.1 MIL - 4 MIL STRENGTH, 100/CASE
+3 | B000TDILJA | Wiss 28N Industrial Shears / Scissors | 26.32 | 78.96 |  |  | 
+2 | B000NHTUCE | Duck Brand Stretch Wrap, 20 Inches Wide x 1000 Feet Long, Single Roll (970700) | 19.97 | 39.94 |  |  | 
+1 | B000I6JLAQ | Warner 250 Tool Wall covering Perforator | 31.62 | 31.62 |  |  | 
+3 | B000G6JNCE/ | Mountain Mist Quilt-Light Polyester Batting, Full 81-inch-by-96-inch | 6.58 | 19.74 |  |  | 
+2 | B004X98B5A | 50 PACK Space Saver Vacuum Storage Bags Jumbo Size 51"X40" | 102.95 | 205.90 |  |  | 
+3 | B004BNAN3G | Mann Release Technologies Ease Release 200 14 fl. oz. | 10.44 | 31.32 |  |  | 
+3 | B0000DIWIM | Johnson Wax 16 Oz Fine Wood Paste Wax 00203 | 7.99 | 23.97 |  |  | 
+5 | B0000223UV | 8oz Original Gorilla Glue | 12.99 | 64.95 |  |  | 
+2 | B001KJFPR8 | Members Mark Clear Plastic Cups - 100/16oz Cups | 12.39 | 24.78 |  |  | 
+2 | B00IEBYLKM | All 4 you Containers w/ Lids 32 oz (24) | 12.99 | 25.98 |  |  | 
+2 | B001GXD6BU | Chenille Kraft Natural Wood Craft Sticks, Jumbo Size, 6 x 3/4, Wood, Natural Wood, 500/Box (3776-01) | 7.27 | 14.54 |  |  | 
+2 | B009EE61MY | Perfect Stix 9" Wooden Paint Paddle Stirrer Sticks Length (Pack of 100) | 13.25 | 26.50 |  |  | 
+2 | B000LQDATG | Mountain 4526 4-Inch Plastic Spreaders, 100/box | 28.39 | 56.78 |  |  | 
+5 | B003K15D9E | Ansell TNT Blue 92-575 Nitrile Glove, Chemical Resistant, Powdered, Disposable, Rolled Beaded Cuff, 9.5" Length, 5 mils Thick, Large (Pack of 100) | 7.95 | 39.75 |  |  | 
+3 | B00M9IHYIC | Irwin Tools Quick Grip 6 Piece Clamp Set | 57.91 | 173.73 |  |  | 
+1 | B000Y3PPK8 | "BLACK GARBAGE (TRASH) BAGS FOR HEAVY INDUSTRIAL USE, 60 GALLON XXX. HEAVY, BLACK 2.1 MIL - 4 MIL STRENGTH, 100/CASE
 " | 53.99 | 53.99 |  |  | 
-3 | http://www.amazon.com/3M-Scotch-Seal-Mastic-Width-Length/dp/B0010XFTQ6 | 3M Scotch-Seal Mastic Tape | 11.72 | 35.16 |  |  | 
-1 | https://www.amazon.com/Gast-DOA-P704-AA-Diaphragm-Pressure-Plastic/dp/B002KVKG9W/ | Electric Diaphragm vacuum pump (GAST) | 471.98 | 471.98 |  |  | 
+3 | B0010XFTQ6 | 3M Scotch-Seal Mastic Tape | 11.72 | 35.16 |  |  | 
+1 | B002KVKG9W | Electric Diaphragm vacuum pump (GAST) | 471.98 | 471.98 |  |  | 
 
 **networking and communications**
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
 :---: | --- | --- | ---: | ---: | ---: | ---: | ---
  | Materials: |  |  |  |  |  | 
-2 | https://www.amazon.com/NRF905-Wireless-Transmitting-Receiver-1-9-3-6V/dp/B00HR69SEO | 2pcs NRF905 GFSK Wireless Transmitting Receiver Module 1.9-3.6V | 14.57 | 29.14 |  |  | 
-2 | https://www.amazon.com/DIYmall-Transceiver-Antistatic-Compatible-Raspberry/dp/B01DD5IV0Y | DIYmall nRF24L01+ 2.4GHz Wireless Transceiver 2pcs | 6.45 | 12.90 |  |  | 
-2 | https://www.amazon.com/Diymall-Bluetooth-Module-Anti-lost-Android/dp/B00O2TTUEW | Hm11 Bluetooth 4.0 BLE Module | 11.99 | 23.98 |  |  | 
-2 | https://www.amazon.com/Diymall-ESP8266-Wifi-Module-ESP-12E/dp/B00XJG7CYY | ESP8266 Wifi Module ESP-12E | 5.99 | 11.98 |  |  | 
+2 | B00HR69SEO | 2pcs NRF905 GFSK Wireless Transmitting Receiver Module 1.9-3.6V | 14.57 | 29.14 |  |  | 
+2 | B01DD5IV0Y | DIYmall nRF24L01+ 2.4GHz Wireless Transceiver 2pcs | 6.45 | 12.90 |  |  | 
+2 | B00O2TTUEW | Hm11 Bluetooth 4.0 BLE Module | 11.99 | 23.98 |  |  | 
+2 | B00XJG7CYY | ESP8266 Wifi Module ESP-12E | 5.99 | 11.98 |  |  | 
 10 | 160-1889-1-ND | LED BLUE CLEAR 1206 REV MT SMD | 0.13 | 1.34 |  |  | 854140
 10 | 311-0.0ERCT-ND | RES 0.0 OHM 1-4W 5% 1206 SMD- | 0.00 | 0.05 |  | China | 853321
 10 | 311-1.00KFRCT-ND | RES 1.00K OHM 1-4W 1% 1206 SMD- | 0.01 | 0.06 |  | China | 853321
