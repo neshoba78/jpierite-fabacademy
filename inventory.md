@@ -118,10 +118,10 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 1 | B00E9HR7KG | Cuisinart TOB-135 Deluxe Convection Toaster Oven | 159.00 | 159.00 |  | China | 8516.60.6000
 1 | 6966C | Weller Heat Gun, Model 6966C, 750-800 Degrees Farenheit (110V) | 122.00 | 122.00 |  | Mexico | 84.19
 2 | B00D9MK150 | Breadboard starter kit w/ components | 19.99 | 39.98 |  |  | 
-1 | Instek GDS-1152A-U 150 MHz Digital Storage Oscilloscope (110-240v) |  | 935.00 | 935.00 |  | Taiwan | 9030.20.1500
-1 | Instek AFG-2125 Function Generator, 25MHZ, sweep, AM/FM (110-240v) |  | 510.00 | 510.00 |  | Taiwan | 8543.20.0000
-1 | Instek GPD-3303D Triple-Output DC Power Supply, 30V/3A x 2, 2.5V/3.3V/5V/3A x 1  (110v-230v) |  | 415.00 | 415.00 |  | Taiwan | 8471.80.90.00
-1 | Aven Tools 26502-LED ProVue Slim LED Magnifying Lamp w/Mounting Clamp, 110-220v | 26502-LED | 81.96 | 81.96 |  | USA | 9405.20.30.00
+1 | GDS-1152A-U | Instek GDS-1152A-U 150 MHz Digital Storage Oscilloscope (110-240v) | 935.00 | 935.00 |  | Taiwan | 9030.20.1500
+1 | AFG-2125 | Instek AFG-2125 Function Generator, 25MHZ, sweep, AM/FM (110-240v) | 510.00 | 510.00 |  | Taiwan | 8543.20.0000
+1 | GPD-3303D | Instek GPD-3303D Triple-Output DC Power Supply, 30V/3A x 2, 2.5V/3.3V/5V/3A x 1  (110v-230v) | 415.00 | 415.00 |  | Taiwan | 8471.80.90.00
+1 | 26502-LED | Aven Tools 26502-LED ProVue Slim LED Magnifying Lamp w/Mounting Clamp, 110-220v | 81.96 | 81.96 |  | USA | 9405.20.30.00
 2 | 6958A21 | Hex L-Key 1.5 mm Size, 3-1/16" Overall Length | 0.23 | 0.46 |  | USA | 8204.11.0060
 2 | 57185A21 | HT-Torque Ball-End L-Key, 2 mm Size | 0.79 | 1.58 |  |  | 
 2 | 92605A097 | Metric 18-8 SS Flat Point Socket Set Screw M3 | 2.73 | 5.46 |  | Taiwan | 8204.11.0060
@@ -180,7 +180,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 1 | Logitech C920 | HD Pro Webcam 1080p | 67.99 | 67.99 |  | USA | 8525.80.00.35
 1 | 399204 | Cubify Sense 3D Scanner | 459.99 | 459.99 |  |  | 8471.60
  | Cleaning/Maintenance: |  |  |  |  |  | 
-1 | Maintenance Kit (Ultimaker 2+) | PT100 B Sensor Glass Fiber; TFM (2x); Fan Pack; Bowden Tube Pack; Olsson Nozzle 0.4; Hot End Isolator; Pulley Pack; Glass plate; Build Platform Glass Retainer Back (2x); Calibration Card; Sliding Blocks (2x); Magnalube / Grease; Timing Belt GT2 200 (2x); Timing Belt GT2 610 (4x); Heater Cartridge 24V 35W; Injection Molding Part / Print Head Aid; Sewing Machine Oil | 432.75 | 432.75 |  | Netherlands | 84.56
+1 | Maintenance Kit (Ultimaker 2+) |  | 432.75 | 432.75 |  | Netherlands | 84.56
 
 [//]: # (1. **QTY:** 2 **Product Name:** Filament **Description:** 1.75 PLA filament (1KG) **Unit Price:** 7 KD)
 
@@ -281,7 +281,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 :---: | :--- | :--- | ---: | ---: | ---: | ---: | ---:
  | _Materials:_ |  |  |  |  |  | 
 1 | LXAS8305 | Midwest Poplar Plywood Sheet 1/8 x 12 x 24" (30) | 174.80 | 174.80 |  | USA | 44.12
- | Tools: |  |  |  |  |  | 
+ | _Tools:_ |  |  |  |  |  | 
 1 | 34-152 | ER 25 Collet - Inches 1/8 ID | 39.90 | 39.90 |  | USA | 8466.10.0175
 1 | 34-156 | ER 25 Collet - Inches 1/4 ID | 39.90 | 39.90 |  | USA | 8466.10.0175
 1 | 34-164 | ER 25 Collet - Inches 1/2 ID | 39.90 | 39.90 |  | USA | 8466.10.0175
@@ -404,8 +404,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 10 | 238538 | MOTOR,STEP,12VDC/.4A, 3200 GM-CM | 19.95 | 199.50 |  | USA | 850110
  | _Servos:_ |  |  |  |  |  | 
 10 | HK-5320 | Ultra-Micro Digital Servo 1.7g/0.05sec/0.075kg | 3.77 | 37.70 |  | USA | 850110
-10 | HK15178 | "Analog Servo 10g/1.4kg/0.09s
-" | 1.95 | 19.50 |  | USA | 850110
+10 | HK15178 | Analog Servo 10g/1.4kg/0.09s | 1.95 | 19.50 |  | USA | 850110
 10 | HKSCM9-5 | Single Chip Digital Servo (5V) 10g/1.4kg/0.09s | 2.99 | 29.90 |  | USA | 850110
 10 | HK15138 | Standard Analog Servo 38g/4.3kg/0.17s | 3.12 | 31.20 |  | USA | 850110
 10 | HKSCM16-6 | Single Chip Digital Servo (6V) 16g/2.5kg/0.13s | 3.64 | 36.40 |  | USA | 850110
@@ -423,11 +422,11 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 10 | OOMOO 25 | OOMOO 25 Pint | 25.47 | 254.70 |  | USA | 3910.00.0000
 5 | Mold Max 60 | Mold Max 60 - Trial Size | 23.93 | 119.65 |  | USA | 3910.00.0000
 5 | Smooth-Cast 305 | Smooth-Cast 305 Pint | 25.96 | 129.80 |  | USA | 3909.50.1000
-5 | Smooth-Cast 326 (Cannot be purchased for overseas) | Smooth-Cast 326 Pint | 25.96 | 129.80 |  | USA | 3909.50.1000
-2 | Universal Mold Release - Aerosol Can (Cannot be purchased for overseas) | Universal Mold Release - Aerosol Can | 13.28 | 26.56 |  |  | 
+5 | Smooth-Cast 326 | Smooth-Cast 326 Pint | 25.96 | 129.80 |  | USA | 3909.50.1000
+2 | Universal Mold Release | Universal Mold Release - Aerosol Can | 13.28 | 26.56 |  |  | 
 1 | SO-Strong® 9-Pack Color Sampler | SO-Strong® 9-Pack Color Sampler | 28.25 | 28.25 |  |  | 
-2 | Ease Release 205 - Pint Unit- (Cannot be purchased for overseas | Ease Release 205 - Pint Unit | 13.20 | 26.40 |  |  | 
-5 | SORTA Clear® 37 - Trial Size |  Translucent Platinum Silicone Rubber Compound. | 34.72 | 173.60 |  | USA | 3910.00.0000
+2 | Ease Release 205 | Ease Release 205 - Pint Unit | 13.20 | 26.40 |  |  | 
+5 | SORTA Clear® 37 |  Translucent Platinum Silicone Rubber Compound. | 34.72 | 173.60 |  | USA | 3910.00.0000
 10 | 18-0150307 | Machinable wax blue 1.5" x 3" x 7" | 8.95 | 89.50 |  | USA | 3407.00.4000
 5 | 18-150612 | Machinable wax blue 1.5" x 6" x 12" | 24.95 | 124.75 |  | USA | 3407.00.4000
 5 | 18-030606 | Machinable wax blue 3" x 6" x 6" | 25.95 | 129.75 |  | USA | 3407.00.4000
@@ -466,7 +465,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
 :---: | :--- | :--- | ---: | ---: | ---: | ---: | ---:
  | _Materials:_ |  |  |  |  |  | 
-5 | B00E0NXTJW | "2 pcs Ultrasonic Module HC-SR04 Distance Sensor" | 8.99 | 44.95 |  |  | 
+5 | B00E0NXTJW | 2 pcs Ultrasonic Module HC-SR04 Distance Sensor | 8.99 | 44.95 |  |  | 
 5 | B013LA6MW0 | Pyroelectric Infrared PIR Motion Sensor Detector Module Hc-sr501 (5pcs) | 8.48 | 42.40 |  |  | 
 5 | B00AZWVZKW | Yosoo VGA OV7670 Camera Module Lens CMOS 640X480 SCCB Compatible W/ I2C Interface | 8.27 | 41.35 |  |  | 
 10 | 1080-1379-1-ND | Phototransistor 940nm Top View 1206 IR | 0.15 | 1.49 |  | Taiwan | 854140
@@ -519,8 +518,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 2 | B000LQDATG | Mountain 4526 4-Inch Plastic Spreaders, 100/box | 28.39 | 56.78 |  |  | 
 5 | B003K15D9E | Ansell TNT Blue 92-575 Nitrile Glove, Chemical Resistant, Powdered, Disposable, Rolled Beaded Cuff, 9.5" Length, 5 mils Thick, Large (Pack of 100) | 7.95 | 39.75 |  |  | 
 3 | B00M9IHYIC | Irwin Tools Quick Grip 6 Piece Clamp Set | 57.91 | 173.73 |  |  | 
-1 | B000Y3PPK8 | "BLACK GARBAGE (TRASH) BAGS FOR HEAVY INDUSTRIAL USE, 60 GALLON XXX. HEAVY, BLACK 2.1 MIL - 4 MIL STRENGTH, 100/CASE
-" | 53.99 | 53.99 |  |  | 
+1 | B000Y3PPK8 | BLACK GARBAGE (TRASH) BAGS FOR HEAVY INDUSTRIAL USE, 60 GALLON XXX. HEAVY, BLACK 2.1 MIL - 4 MIL STRENGTH, 100/CASE | 53.99 | 53.99 |  |  | 
 3 | B0010XFTQ6 | 3M Scotch-Seal Mastic Tape | 11.72 | 35.16 |  |  | 
 1 | B002KVKG9W | Electric Diaphragm vacuum pump (GAST) | 471.98 | 471.98 |  |  | 
 
