@@ -2,7 +2,7 @@
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
 :---: | --- | --- | ---: | ---: | ---: | ---: | ---
- | Materials: |  |  |  |  |  | 
+ | _Materials:_ |  |  |  |  |  | 
 3 | 487547 | uni-ball Vision Elite Rollerball Pens, Micro Point, Blue/Black, Dozen | 28.59 | 85.77 |  |  | 9608.10.0000
 5 | 229690 | 13023/13403 Acme 8" Economy Shears, Bent-Handle, 3/Pack | 7.99 | 39.95 |  | USA | 8213.00.0000
 1 | 818674 | X-Acto® 12" Heavy-Duty Plastic Paper Trimmer, 10 Sheet Capacity, Black | 49.29 | 49.29 |  |  | 
@@ -10,7 +10,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 5 | 399782 | Model L50BP3HB-K6 Pentel Super Hi-Polymer Lead Refills, 0.7mm, HB, 36 Leads | 6.04 | 30.20 |  | USA | 9609.20
 5 | 264291 | Model ZE21BP3-K6 Pentel Clic Eraser with Grip, 3/Pack | 3.89 | 19.45 |  | USA | 4016.92
 3 | 163451 | Model 11299 Staples Glue-Top Scratch Pads, 5" x 8", White, 12/Pack | 17.29 | 51.87 |  | USA | 4820.90.0000
- | Tools: |  |  |  |  |  | 
+ | _Tools:_ |  |  |  |  |  | 
 2 | Logitech C920 | HD Pro Webcam, 1080p Widescreen Video Calling and Recording | 73.32 | 146.64 |  | USA | 8525.80.00.35
 2 | Logitech P710e | Mobile Speakerphone with Enterprise-Quality Audio | 141.00 | 282.00 |  | USA | 8518.10
 1 | BWCMO363 | 4.3'' Color TFT Monitor | 19.52 | 19.52 |  | China | 8528.59.0100
@@ -21,14 +21,13 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 
 **project management**
 
-Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
-:---: | --- | --- | ---: | ---: | ---: | ---: | ---
+_included in previous week_
 
 **computer-aided design**
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
 :---: | --- | --- | ---: | ---: | ---: | ---: | ---
- | Tools: |  |  |  |  |  | 
+ | _Tools:_ |  |  |  |  |  | 
 5 | CTL471 | Wacom Bamboo Splash Pen Tablet | 42.99 | 214.95 |  | Japan | 8471.60
 5 | P-SDX128U1H-GE | PNY Elite Performance 128GB High Speed SDXC Class 10 | 49.99 | 249.95 |  |  | 
 5 | B00LLEODCK | SanDisk Ultra Fit CZ43 64GB USB 3.0 Low-Profile Flash Drive | 27.49 | 137.45 |  |  | 
@@ -37,7 +36,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
 :---: | --- | --- | ---: | ---: | ---: | ---: | ---
- | Materials: |  |  |  |  |  | 
+ | _Materials:_ |  |  |  |  |  | 
 1 | Permacel # 595B  | Permacel # 595B transfer adhesive 6"x60 yds. @  | 53.75 | 53.75 |  | USA | 3506.10.00.00
 1 | 3M #214 | 3M #214 masking tape 6"x60 yds @  | 211.22 | 211.22 |  | USA | 4811.41.2100
 1 | 3M #1 | 3M #1 epoxy film on liner 6"x100 yds @  | 220.87 | 220.87 |  | USA | 3919.10.2020
@@ -60,7 +59,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 1 | #2119 | Orange 1/4" thickness 6mm#2119 cast material | 224.96 | 224.96 |  |  | 
 1 | LXAS8305 | Midwest Poplar Plywood Sheet 1/8 x 12 x 24" (30) | 174.80 | 174.80 |  | USA | 44.12
 100 | S-12647 | 30 x 40" 275# Corrugated Pads | 1.50 | 150.00 |  | USA | 48.02
- | Tools: |  |  |  |  |  | 
+ | _Tools:_ |  |  |  |  |  | 
 5 | Roland 45 Degree Plotter Blades, 5 pack (GS-24) |  | 32.50 | 162.50 |  | USA | 8443.99.5600
 5 | 560-0072B (GCC America Jaguar IV) | RED Cap 45 Degree Blade for Cutter 5 PACK | 55.00 | 275.00 |  |  | 
 4 | B000GOZXA2 | Mini Sharpie 4 pack | 5.49 | 21.96 |  |  | 9608.20.0000
@@ -69,11 +68,11 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 10 | 2388A57 | Stainless Steel Pocket Rule Semiflexible, Inch to 64Ths, Metric/mm, | 2.54 | 25.40 |  | USA | 9017.20.80.60
 50 | 5233k65 | PVC Tubing /// 5233K65 | 0.75 | 37.50 |  |  | 
 1 | 91465k92 |  Brass Push on hose Fitting 5 pack /// 91465K92 | 8.21 | 8.21 |  |  | 
- | Safety: |  |  |  |  |  | 
+ | _Safety:_ |  |  |  |  |  | 
 1 | B00IYCE7IC | Hot Headz Fire Blanket, 36 x 36-Inch, Red | 17.97 | 17.97 |  |  | 
 1 | 6430T16 | Class ABC Dry Chemical Fire Extinguisher 3-A:40-B:C UL Rating, | 52.08 | 52.08 |  |  | 8424.10.00.00
 10 | 52755T9 | Panoramic Safety Glasses W/Vented Side Shield Clear Lens, Clear | 4.81 | 48.10 |  | USA | 9004.90.0000
- | Cleaning/Maintenance: |  |  |  |  |  | 
+ | _Cleaning/Maintenance:_ |  |  |  |  |  | 
 1 | 074887544100 | Zeiss Pre-Moistened Lens Cloths Wipes 400 Ct | 25.99 | 25.99 |  | USA | 34.02
 1 | 7074T62 | Swab Cotton-Low Lint Tip,.141" Diam X .44" L Tip, | 2.26 | 2.26 |  | USA | 5601.21.0000
 
@@ -84,8 +83,8 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
 :---: | --- | --- | ---: | ---: | ---: | ---: | ---
- | Materials: |  |  |  |  |  | 
-10 | 5"x9" Single=8x10=80/sheet | Single side circuit board stock | 1.40 | 14.00 |  | USA | 4811.90.5050
+ | _Materials:_ |  |  |  |  |  | 
+10 | 5"x9" Single | Single side circuit board stock | 1.40 | 14.00 |  | USA | 4811.90.5050
 5 | 5"x9" Double | Double side circuit board stock | 2.50 | 12.50 |  | USA | 4811.90.5050
 10 | 311-0.0ERCT-ND | RES 0.0 OHM 1-4W 5% 1206 SMD- | 0.02 | 0.24 |  | China | 853321
 10 | 311-1.00KFRCT-ND | RES 1.00K OHM 1-4W 1% 1206 SMD- | 0.03 | 0.29 |  | China | 853321
@@ -101,7 +100,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 10 | 649-95278-101A06LF | Bergstik Headers 2X3P UNSHRD HDR 30 microinch gold | 0.81 | 8.14 |  | USA | 853669
 10 | 649-71600-006LF | Quickie IDC Connectors 2X3P SNGL BM RCPL 30 microinch gold | 0.75 | 7.49 |  | USA | 853669
 10 | XC1109CT-ND | CER RESONATOR 20.00MHZ SMD | 0.52 | 5.23 |  | China | 8541.6
- | Tools: |  |  |  |  |  | 
+ | _Tools:_ |  |  |  |  |  | 
 1 | GT 11550 | 0.0100" DIA 220M .010 | 16.43 | 16.43 |  | USA | 820900
 2 | CU 129974 | 0.0156" DIA 2FL SE AlTiN 1/64 | 14.94 | 29.88 |  | USA | 820900
 1 | CU 129985 | 0.0312" DIA 2FL SE AlTiN 1/32 | 10.10 | 10.10 |  | USA | 820900
@@ -117,7 +116,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 1 | CU 137212 | 0.1250" DIA 4FL BALLNOSE LONG AlTiN 1/8 | 13.71 | 13.71 |  | USA | 820900
 1 | ZC-20-32 (SRM-20) | 3.2mm-1/8in SRM Collet | 64.99 | 64.99 |  |  | 
 1 | B00E9HR7KG | Cuisinart TOB-135 Deluxe Convection Toaster Oven | 159.00 | 159.00 |  | China | 8516.60.6000
-1 | 6966C | Weller Heat Gun, Model 6966C, 750-800 Degrees Farenheit (110V).  For 230V, try http://uk.farnell.com/weller/6966ek/heat-gun-3-wire-eu-plug-230v/dp/1689001 | 122.00 | 122.00 |  | Mexico | 84.19
+1 | 6966C | Weller Heat Gun, Model 6966C, 750-800 Degrees Farenheit (110V) | 122.00 | 122.00 |  | Mexico | 84.19
 2 | B00D9MK150 | Breadboard starter kit w/ components | 19.99 | 39.98 |  |  | 
 1 | Instek GDS-1152A-U 150 MHz Digital Storage Oscilloscope (110-240v) |  | 935.00 | 935.00 |  | Taiwan | 9030.20.1500
 1 | Instek AFG-2125 Function Generator, 25MHZ, sweep, AM/FM (110-240v) |  | 510.00 | 510.00 |  | Taiwan | 8543.20.0000
@@ -145,9 +144,9 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 5 | A038B-4-ND | HEATSHRINK 3-8 IN X 4FT BLACK | 1.46 | 7.30 |  | USA | 854690
 5 | A012B-4-ND | HEATSHRINK 1-2 IN X 4FT BLACK | 1.66 | 8.30 |  | USA | 854690
 1 | KE1409-ND | SOLDER NO-CLEAN .020" X 1 lb- | 74.33 | 74.33 |  | USA | 831130
-1 | K416-ND | FAN FUME ABSORBER BENCHTOP 115V.  For 230v, try: Newark, http://www.newark.com/weller/wsa350eu/bench-top-smoke-absorber-20w-230v/dp/64X7315 | 101.20 | 101.20 |  | USA | 851519
+1 | K416-ND | FAN FUME ABSORBER BENCHTOP 115V | 101.20 | 101.20 |  | USA | 851519
 2 | EB1088-ND | QUICK BRAID GOLD .050" X 10'- | 4.63 | 9.26 |  | USA | 741300
-2 | WES51-ND | SOLDER STATION ANALOG 50W (110V).  For 240V, try http://www.newark.com/weller/wesd51d/digital-soldering-station-50w/dp/17H0846 | 99.00 | 198.00 |  | Germany | 851519
+2 | WES51-ND | SOLDER STATION ANALOG 50W (110V) | 99.00 | 198.00 |  | Germany | 851519
 4 | ETU-ND | TIP REPLACEMENT SINGLE FLAT.015"- | 5.12 | 20.48 |  | Mexico | 851590
 2 | TC205-ND | SPONGE REPLACEMENT | 1.10 | 2.20 |  | USA | 0511.99.3600
 4 | EROP7SA-ND | TWEEZER CURVED PRECISION TIP- | 3.50 | 14.00 |  | Pakistan | 820320
@@ -160,7 +159,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 10 | BS6I-MC-ND | 9V BATTERY SNAP WITH 2PC MOLDED- | 0.69 | 6.90 |  | China | 853669
 10 | BH9V-W-ND | HOLDER BATTERY 9V WIRE LEADS- | 1.50 | 15.00 |  | China | 853669
 10 | 55K-ND | CLIP BATTERY AAA-N CELL SMT | 0.35 | 3.53 |  | USA | 853669
- | Fixturing: |  |  |  |  |  | 
+ | _Fixturing:_ |  |  |  |  |  | 
 5 | 504829 | Model 137 Scotch Double Sided Permanent Tape with Dispenser, 1/2" x 450" | 3.49 | 17.45 |  | USA | 3919.10
  | Cleaning/Maintenance: |  |  |  |  |  | 
 1 | CHV1510 | Black & Decker CHV1510 Dustbuster 15.6-Volt Cordless Cyclonic Hand Vac | 39.99 | 39.99 |  | China | 8508.11.0000
@@ -172,11 +171,11 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
 :---: | --- | --- | ---: | ---: | ---: | ---: | ---
- | Materials: |  |  |  |  |  | 
+ | _Materials:_ |  |  |  |  |  | 
 20 | Cartridge PLA 700g (Sindoh 3DWox) | PLA Cartridge | 39.00 | 780.00 |  |  | 3907.70.0000
 10 | PLABlue (Ultimaker 2+) | Blue PLA 0.75kg Spool 2.85mm Filament | 36.59 | 365.90 |  | Netherlands | 3907.70.0000
 10 | PLAWhite (Ultimaker 2+) | White (or choice of color) PLA 0.75kg Spool 2.85mm Filament | 36.59 | 365.90 |  | Netherlands | 3907.70.0000
- | Tools: |  |  |  |  |  | 
+ | _Tools:_ |  |  |  |  |  | 
 1 | B00D73RWNA | IncrediSonic Pico Projector Vue Series PMJ-500 3D DLP | 549.95 | 549.95 |  | USA | 
 1 | Logitech C920 | HD Pro Webcam 1080p | 67.99 | 67.99 |  | USA | 8525.80.00.35
 1 | 399204 | Cubify Sense 3D Scanner | 459.99 | 459.99 |  |  | 8471.60
@@ -189,7 +188,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
 :---: | --- | --- | ---: | ---: | ---: | ---: | ---
- | Materials: |  |  |  |  |  | 
+ | _Materials:_ |  |  |  |  |  | 
 1 | B006LW331E | 5M Waterproof 5050 SMD 300 Epoxy LED Strip Light White | 11.55 | 11.55 |  |  | 8541.40.2000
 10 | 1080-1346-1-ND | LED IR GAA1AS WATER CLEAR SMD | 0.36 | 3.57 |  | Taiwan | 854140
 5 | 1528-1154-ND | M/M Jumper Wires 6" (40pcs) | 3.95 | 19.75 |  | China | 854449
@@ -280,7 +279,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
 :---: | --- | --- | ---: | ---: | ---: | ---: | ---
- | Materials: |  |  |  |  |  | 
+ | _Materials:_ |  |  |  |  |  | 
 1 | LXAS8305 | Midwest Poplar Plywood Sheet 1/8 x 12 x 24" (30) | 174.80 | 174.80 |  | USA | 44.12
  | Tools: |  |  |  |  |  | 
 1 | 34-152 | ER 25 Collet - Inches 1/8 ID | 39.90 | 39.90 |  | USA | 8466.10.0175
@@ -301,7 +300,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 2 | 56-041 | 1/8" Solid Carbide Two Flute Straight V Flute for Composites, Hard and Soft Plastics, Solid Surface | 26.25 | 52.50 |  | USA | 820900
 2 | 56-082 | 1/4" Solid Carbide Two Flute Straight V Flute for Composites, Hard and Soft Plastics, Solid Surface | 28.90 | 57.80 |  | USA | 820900
 1 | 64-000 | 1/16" Solid Carbide One Flute Downcut Super O Flute for Plastic, Wood, Aluminum, Solid Surface | 34.05 | 34.05 |  | USA | 820900
- | Fixturing: |  |  |  |  |  | 
+ | _Fixturing:_ |  |  |  |  |  | 
 5 | 9970 | Intertape 9970 Indoor Carpet Tape 1.87-Inches x 36-Yards | 12.45 | 62.25 |  | USA | 3919.10.2010
 1 | 7578A11 | Cordless Glue Gun       | 22.72 | 22.72 |  | Taiwan | 8516.79.0000
 2 | 7518A717 | Clear Glue Stick, 1/2" X 4", 1-lb Package  | 11.98 | 23.96 |  | USA | 3506.91.0000
@@ -310,10 +309,10 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 5 | 468389 | Staples® Acrylic Utility Duct Tape, Standard Grade, Silver, 2" x 60 yds, 1 Roll | 8.99 | 44.95 |  |  | 
 5 | 572355 | 3M #214 masking tape 2"x60 yds | 4.99 | 24.95 |  |  | 
 2 | 462104 | Polyethylene Double Sided Foam Tape, 1" x 36 yds., 2/Pack | 57.99 | 115.98 |  |  | 
- | Safety: |  |  |  |  |  | 
+ | _Safety:_ |  |  |  |  |  | 
 2 | 54725T34 | Disposable Foam Ear Plug (Corded) (100 pk) | 29.05 | 58.10 |  | USA | 4016.99.6000
 3 | 54375T11 | Three-Position Hearing Protection Earmuff | 7.80 | 23.40 |  | USA | 3926.2
- | Cleaning/Maintenance: |  |  |  |  |  | 
+ | _Cleaning/Maintenance:_ |  |  |  |  |  | 
 1 | D4572 | Upper micron bag (don't get it wet, you can clean these with compressed air) | 49.00 | 49.00 |  |  | 
 2 | D4573-5pk | Lower plastic bags | 35.00 | 70.00 |  |  | 
 1 | 1244K14 | 10W Machine Oil (4 oz.) | 3.33 | 3.33 |  |  | 
@@ -324,8 +323,8 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
 :---: | --- | --- | ---: | ---: | ---: | ---: | ---
- | Tools: |  |  |  |  |  | 
-5 | http://www.amazon.com/Guide--Clear-Case--Power-Supply--WiFi-Dongle--Kingston-Adapter--HDMI/dp/B00MV6TAJI | Raspberry Pi 2 Model B (1GB) Complete Starter Kit | 69.99 | 349.95 |  |  | 
+ | _Tools:_ |  |  |  |  |  | 
+5 | B00MV6TAJI | Raspberry Pi 2 Model B (1GB) Complete Starter Kit | 69.99 | 349.95 |  |  | 
 1 | ATATMEL-ICE-BASIC-ND | EMU FOR SAM AND AVR MCU BASIC | 54.11 | 54.11 |  |  | 854231
 1 | ATAVRDRAGON-ND | Atmel Dragon programmer - isp, pdi | 53.75 | 53.75 |  |  | 
 2 | ATXMEGAE5-XPLD-ND | XMEGA E5 XPLAINED EVAL KIT | 36.36 | 72.72 |  |  | 854231
@@ -342,8 +341,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 
 **mechanical design**
 
-Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
-:---: | --- | --- | ---: | ---: | ---: | ---: | ---
+_see next week_
 
 **machine design**
 
@@ -365,7 +363,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
 :---: | --- | --- | ---: | ---: | ---: | ---: | ---
- | Materials: |  |  |  |  |  | 
+ | _Materials:_ |  |  |  |  |  | 
 5 | 1956784 | TRANSDUCER,PIEZO,30VAC,75dB, LEADS,0.5-20Hz,SINGLE TONE | 2.95 | 14.75 |  | USA | 8543.7
 10 | 1276-2728-1-ND | CAP CER 22UF 16V X5R 1206 | 0.146 | 8.21 |  |  | 
 10 | 160-1167-1-ND | LED RED CLEAR 1206 SMD- | 0.13 | 1.31 |  | Taiwan | 854140
@@ -396,7 +394,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 10 | RFD16N05LSM9ACT-ND | MOSFET N-CH 50V 16A TO-252AA- | 1.13 | 11.25 |  | Malaysia | 854129
 10 | S1143E-36-ND | SMT RT Angle Male Header 0.1" (36pos) | 3.30 | 33.00 |  | USA | 853669
 10 | XC1109CT-ND | CER RESONATOR 20.00MHZ SMD | 0.43 | 4.28 |  | China | 8541.6
- | Motors/Actuators: |  |  |  |  |  | 
+ | _Motors/Actuators:_ |  |  |  |  |  | 
 50 | 1810099 | MOTOR,DC,12VDC,8600RPM,63mA, SHAFT:Dia.0.08 ,0.43 L,14.8TOR | 2.49 | 124.50 |  | USA | 850110
 10 | 232047 | DC MOTOR , 12VDC , 8750MA | 4.49 | 44.90 |  | USA | 850110
 25 | 256314 | Vibrating Motor 3 Volt DC 75 mA | 2.95 | 73.75 |  |  | 
@@ -404,7 +402,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 10 | 253471 | MOTOR,DC,GEAR,12V,50/1,120RPM, 1100G-CM,74MA  | 13.45 | 134.50 |  | USA | 850110
 10 | 2120479 | MOTOR,STEPPER,BIPOLAR,4VDC/1A 3600 GR-CM,1.8 STEP ANGLE | 17.95 | 179.50 |  | USA | 850110
 10 | 238538 | MOTOR,STEP,12VDC/.4A, 3200 GM-CM | 19.95 | 199.50 |  | USA | 850110
- | Servos: |  |  |  |  |  | 
+ | _Servos:_ |  |  |  |  |  | 
 10 | HK-5320 | Ultra-Micro Digital Servo 1.7g/0.05sec/0.075kg | 3.77 | 37.70 |  | USA | 850110
 10 | HK15178 | "Analog Servo 10g/1.4kg/0.09s
 " | 1.95 | 19.50 |  | USA | 850110
@@ -417,7 +415,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
 :---: | --- | --- | ---: | ---: | ---: | ---: | ---
- | Materials: |  |  |  |  |  | 
+ | _Materials:_ |  |  |  |  |  | 
 2 | 00682-1001 | BLICK STUDIO GESSO/GALLON 2 COAT | 25.50 | 51.00 |  | USA | 9503.00.0000
 2 | 33504-1905 | FLEXWAX 5 lb block | 51.14 | 102.28 |  | USA | 3407.00.4000
 10 | Hydrostone Super X - 1 Gallon Pail    |  | 12.75 | 127.50 |  | USA | 2520.10.0000
@@ -434,8 +432,8 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 5 | 18-150612 | Machinable wax blue 1.5" x 6" x 12" | 24.95 | 124.75 |  | USA | 3407.00.4000
 5 | 18-030606 | Machinable wax blue 3" x 6" x 6" | 25.95 | 129.75 |  | USA | 3407.00.4000
 5 | 8586K81 | Easy-to-Machine ABS Shapes, 1" Thick, 6" x 6", Black | 17.13 | 85.65 |  |  | 
- | Tools: |  |  |  |  |  | 
-1 | http://www.amazon.com/Bel-Art-Scienceware-F42010-Polypropylene-Desiccator/dp/B002VBW9R8/ | Vacuum Chamber (Polycarbonate, 24cm ID) for degassing silicone, etc. | 101.84 | 101.84 |  |  | 
+ | _Tools:_ |  |  |  |  |  | 
+1 | B002VBW9R8 | Vacuum Chamber (Polycarbonate, 24cm ID) for degassing silicone, etc. | 101.84 | 101.84 |  |  | 
 2 | 06066-1489 | FOAM BRUSH SET/48SET CLSPK WD HND | 19.09 | 38.18 |  | USA | 9603.40
 5 | 617688 |  Model RK5 Translucent Plastic Cold Cups, 5-oz, 100/Pack | 2.99 | 14.95 |  | USA | 3924.10.0002
 5 | 563562 | TP10 Solo Plastic Party Cups, 10-oz. | 6.79 | 33.95 |  | USA | 3924.10.0002
@@ -456,7 +454,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 1 | 5400K3 | Bend-and-Stay Very Flexible Metal Duct Hose for Fumes, 5 foot section, for laser ventilation. | 44.6 | 44.60 |  |  | 
 1 | 3498A11 | Center-Marking Punch with Round-Knurled Handle | 3.48 | 3.48 |  |  | 
 1 | 3415A13 | Pin-Loosening Punches | 5.43 | 5.43 |  |  | 
- | Safety: |  |  |  |  |  | 
+ | _Safety:_ |  |  |  |  |  | 
 4 | 9832T62 | Nitrile Palm-Coated Cotton Work Glove | 4.50 | 18.00 |  |  | 6116.10.0000
 2 | 9738T81 | Disposable Polyethylene Apron Smooth, 28" Wide X 46" Long, 1.50 Mils Thick, White | 9.66 | 19.32 |  |  | 6211.33.0000
 2 | 5450T42 | Disposable Respirator Mask N95 Filter, Aluminum Nose, Inner Foam Seal | 20.95 | 41.90 |  |  | 39.26
@@ -467,7 +465,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
 :---: | --- | --- | ---: | ---: | ---: | ---: | ---
- | Materials: |  |  |  |  |  | 
+ | _Materials:_ |  |  |  |  |  | 
 5 | B00E0NXTJW | "2 pcs Ultrasonic Module HC-SR04 Distance Sensor" | 8.99 | 44.95 |  |  | 
 5 | B013LA6MW0 | Pyroelectric Infrared PIR Motion Sensor Detector Module Hc-sr501 (5pcs) | 8.48 | 42.40 |  |  | 
 5 | B00AZWVZKW | Yosoo VGA OV7670 Camera Module Lens CMOS 640X480 SCCB Compatible W/ I2C Interface | 8.27 | 41.35 |  |  | 
@@ -497,16 +495,14 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
 :---: | --- | --- | ---: | ---: | ---: | ---: | ---
- | (Composite) Materials: |  |  |  |  |  | 
-3 | super-sap-100-1000 | "Super Sap ONE Epoxy and ONE Hardener, 3 gal, Complete Starter Kit (Pumps, cups, sticks, gloves)
-(Cannot be purchased for overseas)" | 254.95 | 764.85 |  |  | 
-3 | super-sap-clr-clear-epoxy-resin | "Super Sap CLR Epoxy and CLF (FAST) Hardener, 3 gal, Complete Starter Kit (Pumps, cups, sticks, gloves)
-(Cannot be purchased for overseas)" | 254.95 | 764.85 |  |  | 
+ | _(Composite) Materials:_ |  |  |  |  |  | 
+3 | super-sap-100-1000 | Super Sap ONE Epoxy and ONE Hardener, 3 gal, Complete Starter Kit (Pumps, cups, sticks, gloves) | 254.95 | 764.85 |  |  | 
+3 | super-sap-clr-clear-epoxy-resin | Super Sap CLR Epoxy and CLF (FAST) Hardener, 3 gal, Complete Starter Kit (Pumps, cups, sticks, gloves) | 254.95 | 764.85 |  |  | 
 10 | 740 | IL020, 100% Linen, 57 inch, per yard | 10.39 | 103.90 |  |  | 
-10 | Polyethelene_Bagging_Film_577 | Polyethylene Bagging Film (yds) | 1.75 | 17.50 |  |  | 
-10 | low-temperature-release-film-1580s | Low Temperature Release Film, unperforated (yds) | 2.95 | 29.50 |  |  | 
+10 | 577 | Polyethylene Bagging Film (yds) | 1.75 | 17.50 |  |  | 
+10 | 1580 | Low Temperature Release Film, unperforated (yds) | 2.95 | 29.50 |  |  | 
 2 | B00HTVMX08 | LA Linen 15-Inch Natural Jute Burlap Roll, 100-Yard, Natural | 50.90 | 101.80 |  |  | 
- | Tools: |  |  |  |  |  | 
+ | _Tools:_ |  |  |  |  |  | 
 1 | B000HE8BMS | WEN 2290 Air Compressor Accessory Kit, 20-Piece | 21.99 | 21.99 |  | China | 3917.31.0000
 3 | B000TDILJA | Wiss 28N Industrial Shears / Scissors | 26.32 | 78.96 |  |  | 
 2 | B000NHTUCE | Duck Brand Stretch Wrap, 20 Inches Wide x 1000 Feet Long, Single Roll (970700) | 19.97 | 39.94 |  |  | 
@@ -532,7 +528,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
 :---: | --- | --- | ---: | ---: | ---: | ---: | ---
- | Materials: |  |  |  |  |  | 
+ | _Materials:_ |  |  |  |  |  | 
 2 | B00HR69SEO | 2pcs NRF905 GFSK Wireless Transmitting Receiver Module 1.9-3.6V | 14.57 | 29.14 |  |  | 
 2 | B01DD5IV0Y | DIYmall nRF24L01+ 2.4GHz Wireless Transceiver 2pcs | 6.45 | 12.90 |  |  | 
 2 | B00O2TTUEW | Hm11 Bluetooth 4.0 BLE Module | 11.99 | 23.98 |  |  | 
@@ -553,22 +549,18 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 
 **interface and application programming**
 
-Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
-:---: | --- | --- | ---: | ---: | ---: | ---: | ---
+_TBD_
 
 **applications and implications**
 
-Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
-:---: | --- | --- | ---: | ---: | ---: | ---: | ---
+_TBD_
 
 **invention, intellectual property, and income**
 
-Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
-:---: | --- | --- | ---: | ---: | ---: | ---: | ---
+_TBD_
 
 **project development**
 
-Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
-:---: | --- | --- | ---: | ---: | ---: | ---: | ---
+_student defined BOM_
 
 
