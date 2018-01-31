@@ -22,6 +22,7 @@
 * [Jun 07: project development](jun-07-project-development.md)
 * [Jun 14: project presentations](jun-14-project-presentations.md)
 * [Appendices](appendices.md)
+* [Inventory](inventory.md)
 * [How to Trade \(almost\) Anything](how-to-trade-almost-anything.md)
 * [InDigiFab](indigifab.md)
 * [License](LICENSE.md)
