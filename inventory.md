@@ -60,7 +60,6 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 1 | #2119 | Orange 1/4" thickness 6mm#2119 cast material | 224.96 | 224.96 |  |  | 
 1 | LXAS8305 | Midwest Poplar Plywood Sheet 1/8 x 12 x 24" (30) | 174.80 | 174.80 |  | USA | 44.12
 100 | S-12647 | 30 x 40" 275# Corrugated Pads | 1.50 | 150.00 |  | USA | 48.02
- |  |  |  |  |  |  | 
  | Tools: |  |  |  |  |  | 
 5 | Roland 45 Degree Plotter Blades, 5 pack (GS-24) |  | 32.50 | 162.50 |  | USA | 8443.99.5600
 5 | 560-0072B (GCC America Jaguar IV) | RED Cap 45 Degree Blade for Cutter 5 PACK | 55.00 | 275.00 |  |  | 
@@ -70,18 +69,16 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 10 | 2388A57 | Stainless Steel Pocket Rule Semiflexible, Inch to 64Ths, Metric/mm, | 2.54 | 25.40 |  | USA | 9017.20.80.60
 50 | http://www.mcmaster.com/#5233k65/=ud4csa | PVC Tubing /// 5233K65 | 0.75 | 37.50 |  |  | 
 1 | http://www.mcmaster.com/#91465k92/=ud4coc |  Brass Push on hose Fitting 5 pack /// 91465K92 | 8.21 | 8.21 |  |  | 
- |  |  |  |  |  |  | 
  | Safety: |  |  |  |  |  | 
 1 | B00IYCE7IC | Hot Headz Fire Blanket, 36 x 36-Inch, Red | 17.97 | 17.97 |  |  | 
 1 | 6430T16 | Class ABC Dry Chemical Fire Extinguisher 3-A:40-B:C UL Rating, | 52.08 | 52.08 |  |  | 8424.10.00.00
 10 | 52755T9 | Panoramic Safety Glasses W/Vented Side Shield Clear Lens, Clear | 4.81 | 48.10 |  | USA | 9004.90.0000
- |  |  |  |  |  |  | 
  | Cleaning/Maintenance: |  |  |  |  |  | 
 1 | 074887544100 | Zeiss Pre-Moistened Lens Cloths Wipes 400 Ct | 25.99 | 25.99 |  | USA | 34.02
 1 | 7074T62 | Swab Cotton-Low Lint Tip,.141" Diam X .44" L Tip, | 2.26 | 2.26 |  | USA | 5601.21.0000
 
-[comment]: (1. **QTY:** 4 **Product Name:** Acrylic **Description:** Acrylic Sheet (90x210cm) **Unit Price:**) 
-[comment]: (2. **QTY**  2 **Product Name:** 3mm Wood **Description:** 3mm Wood Sheet (90x210cm) **Unit Price:**)
+[//]: # (1. **QTY:** 4 **Product Name:** Acrylic **Description:** Acrylic Sheet (90x210cm) **Unit Price:**) 
+[//]: # (2. **QTY**  2 **Product Name:** 3mm Wood **Description:** 3mm Wood Sheet (90x210cm) **Unit Price:**)
 
 **electronics production**
 
@@ -104,7 +101,6 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 10 | 649-95278-101A06LF | Bergstik Headers 2X3P UNSHRD HDR 30 microinch gold | 0.81 | 8.14 |  | USA | 853669
 10 | 649-71600-006LF | Quickie IDC Connectors 2X3P SNGL BM RCPL 30 microinch gold | 0.75 | 7.49 |  | USA | 853669
 10 | XC1109CT-ND | CER RESONATOR 20.00MHZ SMD | 0.52 | 5.23 |  | China | 8541.6
- |  |  |  |  |  |  | 
  | Tools: |  |  |  |  |  | 
 1 | GT 11550 | 0.0100" DIA 220M .010 | 16.43 | 16.43 |  | USA | 820900
 2 | CU 129974 | 0.0156" DIA 2FL SE AlTiN 1/64 | 14.94 | 29.88 |  | USA | 820900
@@ -165,17 +161,13 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 10 | BS6I-MC-ND | 9V BATTERY SNAP WITH 2PC MOLDED- | 0.69 | 6.90 |  | China | 853669
 10 | BH9V-W-ND | HOLDER BATTERY 9V WIRE LEADS- | 1.50 | 15.00 |  | China | 853669
 10 | 55K-ND | CLIP BATTERY AAA-N CELL SMT | 0.35 | 3.53 |  | USA | 853669
- |  |  |  |  |  |  | 
  | Fixturing: |  |  |  |  |  | 
 5 | 504829 | Model 137 Scotch Double Sided Permanent Tape with Dispenser, 1/2" x 450" | 3.49 | 17.45 |  | USA | 3919.10
- |  |  |  |  |  |  | 
- | Safety: |  |  |  |  |  | 
- |  |  |  |  |  |  | 
  | Cleaning/Maintenance: |  |  |  |  |  | 
 1 | CHV1510 | Black & Decker CHV1510 Dustbuster 15.6-Volt Cordless Cyclonic Hand Vac | 39.99 | 39.99 |  | China | 8508.11.0000
 
-[comment]: (1. **QTY:** 20 **Product Name:** Copper Boards **Description:** F1,F4 Copper Boards (10x15cm) **Unit Price:** 0.75KD)
-[comment]: (2. SMD KITs add-later)
+[//]: # (1. **QTY:** 20 **Product Name:** Copper Boards **Description:** F1,F4 Copper Boards (10x15cm) **Unit Price:** 0.75KD)
+[//]: # (2. SMD KITs add-later)
 
 **3D scanning and printing**
 
@@ -185,18 +177,14 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 20 | Cartridge PLA 700g (Sindoh 3DWox) | PLA Cartridge | 39.00 | 780.00 |  |  | 3907.70.0000
 10 | PLABlue (Ultimaker 2+) | Blue PLA 0.75kg Spool 2.85mm Filament | 36.59 | 365.90 |  | Netherlands | 3907.70.0000
 10 | PLAWhite (Ultimaker 2+) | White (or choice of color) PLA 0.75kg Spool 2.85mm Filament | 36.59 | 365.90 |  | Netherlands | 3907.70.0000
- |  |  |  |  |  |  | 
  | Tools: |  |  |  |  |  | 
 1 | B00D73RWNA | IncrediSonic Pico Projector Vue Series PMJ-500 3D DLP | 549.95 | 549.95 |  | USA | 
 1 | Logitech C920 | HD Pro Webcam 1080p | 67.99 | 67.99 |  | USA | 8525.80.00.35
 1 | 399204 | Cubify Sense 3D Scanner | 459.99 | 459.99 |  |  | 8471.60
- |  |  |  |  |  |  | 
- | Safety: |  |  |  |  |  | 
- |  |  |  |  |  |  | 
  | Cleaning/Maintenance: |  |  |  |  |  | 
 1 | Maintenance Kit (Ultimaker 2+) | PT100 B Sensor Glass Fiber; TFM (2x); Fan Pack; Bowden Tube Pack; Olsson Nozzle 0.4; Hot End Isolator; Pulley Pack; Glass plate; Build Platform Glass Retainer Back (2x); Calibration Card; Sliding Blocks (2x); Magnalube / Grease; Timing Belt GT2 200 (2x); Timing Belt GT2 610 (4x); Heater Cartridge 24V 35W; Injection Molding Part / Print Head Aid; Sewing Machine Oil | 432.75 | 432.75 |  | Netherlands | 84.56
 
-[comment]: (1. **QTY:** 2 **Product Name:** Filament **Description:** 1.75 PLA filament (1KG) **Unit Price:** 7 KD)
+[//]: # (1. **QTY:** 2 **Product Name:** Filament **Description:** 1.75 PLA filament (1KG) **Unit Price:** 7 KD)
 
 **electronics design**
 
@@ -284,7 +272,6 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 10 | XC1109CT-ND | CER RESONATOR 20.00MHZ SMD | 0.43 | 4.28 |  | China | 8541.6
 10 | ZLDO1117G33DICT-ND | IC REG LDO 3.3V 1A SOT223-3 | 0.34 | 3.40 |  |  | 8542.31.0000
 10 | ZLDO1117G50DICT-ND | IC REG LDO 5V 1A SOT223-3 | 0.34 | 3.40 |  | Malaysia | 854239
- |  |  |  |  |  |  | 
 1 |  | CABLE 10 COND 300' MULTI RIBBON | 125.45 | 125.45 |  | Taiwan | 854449
 1 | 752759 | Duracell 9-Volt Alkaline Batteries, 72/Pack | 287.99 | 287.99 |  | USA | 8506.80.00.00
 1 | 751595 | Duracell AA Alkaline Batteries, 144/Pack | 114.99 | 114.99 |  | USA | 8506.80.00.00
@@ -296,7 +283,6 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 :---: | --- | --- | ---: | ---: | ---: | ---: | ---
  | Materials: |  |  |  |  |  | 
 1 | LXAS8305 | Midwest Poplar Plywood Sheet 1/8 x 12 x 24" (30) | 174.80 | 174.80 |  | USA | 44.12
- |  |  |  |  |  |  | 
  | Tools: |  |  |  |  |  | 
 1 | 34-152 | ER 25 Collet - Inches 1/8 ID | 39.90 | 39.90 |  | USA | 8466.10.0175
 1 | 34-156 | ER 25 Collet - Inches 1/4 ID | 39.90 | 39.90 |  | USA | 8466.10.0175
@@ -316,7 +302,6 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 2 | 56-041 | 1/8" Solid Carbide Two Flute Straight V Flute for Composites, Hard and Soft Plastics, Solid Surface | 26.25 | 52.50 |  | USA | 820900
 2 | 56-082 | 1/4" Solid Carbide Two Flute Straight V Flute for Composites, Hard and Soft Plastics, Solid Surface | 28.90 | 57.80 |  | USA | 820900
 1 | 64-000 | 1/16" Solid Carbide One Flute Downcut Super O Flute for Plastic, Wood, Aluminum, Solid Surface | 34.05 | 34.05 |  | USA | 820900
- |  |  |  |  |  |  | 
  | Fixturing: |  |  |  |  |  | 
 5 | 9970 | Intertape 9970 Indoor Carpet Tape 1.87-Inches x 36-Yards | 12.45 | 62.25 |  | USA | 3919.10.2010
 1 | 7578A11 | Cordless Glue Gun       | 22.72 | 22.72 |  | Taiwan | 8516.79.0000
@@ -326,17 +311,15 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 5 | 468389 | Staples® Acrylic Utility Duct Tape, Standard Grade, Silver, 2" x 60 yds, 1 Roll | 8.99 | 44.95 |  |  | 
 5 | 572355 | 3M #214 masking tape 2"x60 yds | 4.99 | 24.95 |  |  | 
 2 | 462104 | Polyethylene Double Sided Foam Tape, 1" x 36 yds., 2/Pack | 57.99 | 115.98 |  |  | 
- |  |  |  |  |  |  | 
  | Safety: |  |  |  |  |  | 
 2 | 54725T34 | Disposable Foam Ear Plug (Corded) (100 pk) | 29.05 | 58.10 |  | USA | 4016.99.6000
 3 | 54375T11 | Three-Position Hearing Protection Earmuff | 7.80 | 23.40 |  | USA | 3926.2
- |  |  |  |  |  |  | 
  | Cleaning/Maintenance: |  |  |  |  |  | 
 1 | D4572 | Upper micron bag (don't get it wet, you can clean these with compressed air) | 49.00 | 49.00 |  |  | 
 2 | D4573-5pk | Lower plastic bags | 35.00 | 70.00 |  |  | 
 1 | 1244K14 | 10W Machine Oil (4 oz.) | 3.33 | 3.33 |  |  | 
 
-[comment]: (1. **QTY:** 4 **Product Code:** MDF Sheets **Description:** 5MM - 10MM MDF Sheets (90x210cm) **Unit Price:**)
+[//]: # (1. **QTY:** 4 **Product Code:** MDF Sheets **Description:** 5MM - 10MM MDF Sheets (90x210cm) **Unit Price:**)
 
 **embedded programming**
 
@@ -369,15 +352,15 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 :---: | --- | --- | ---: | ---: | ---: | ---: | ---
 4 | gestalt | Fablab gestalt node rev 0.4 | 17 | $68.00 |  |  | 
 
-[comment]: (_fab foundation backstock_)
-[comment]: (1. **QTY:** 409	**Product Code:** gestalt **Description:** Fablab gestalt node rev 0.4 **Unit Price:** 17)
-[comment]: (2. **QTY:** 66	**Product Code:** 4568T999 **Description:** Anodized Tube, 3/8" OD, 0.070" Wall Thickness, 2' length **Unit Price:** 3.3)
-[comment]: (3. **QTY:** 575	**Product Code:** 92137A250 **Description:** Alloy Steel Button-Head Cap Screw, M3 Size, 8 mm L, 0.50 mm P **Unit Price:** 0.3836)
-[comment]: (4. **QTY:** 293	**Product Code:** 6389K625 **Description:** Nylon Bearing, flanged, for 3/8" Shaft Diameter, 1/2" OD, 3/8" L **Unit Price:** 2.93)
-[comment]: (5. **QTY:** 500	**Product Code:** 17HDC1220-300N **Description:** 1.8 degree NEMA 17 external linear motor w anti-backlash **Unit Price:** 30.46)
-[comment]: (6. **QTY:** 16	**Product Code:** 768-1041-ND **Description:** Cable USB RS485 Wire End 1.8M **Unit Price:** 26.75)
-[comment]: (7. **QTY:** 352	**Product Code:** 667-ERJ-8ENF6040V **Description:** Thick Film Resistors - SMD1206 604ohms 1% **Unit Price:** 0.02)
-[comment]: (8. **QTY:** 36	**Product Code:** 649-71600-108LF **Description:** Headers & Wire Housings, 100" RCPT2x4 **Unit Price:** 1.00)
+[//]: # (_fab foundation backstock_)
+[//]: # (1. **QTY:** 409	**Product Code:** gestalt **Description:** Fablab gestalt node rev 0.4 **Unit Price:** 17)
+[//]: # (2. **QTY:** 66	**Product Code:** 4568T999 **Description:** Anodized Tube, 3/8" OD, 0.070" Wall Thickness, 2' length **Unit Price:** 3.3)
+[//]: # (3. **QTY:** 575	**Product Code:** 92137A250 **Description:** Alloy Steel Button-Head Cap Screw, M3 Size, 8 mm L, 0.50 mm P **Unit Price:** 0.3836)
+[//]: # (4. **QTY:** 293	**Product Code:** 6389K625 **Description:** Nylon Bearing, flanged, for 3/8" Shaft Diameter, 1/2" OD, 3/8" L **Unit Price:** 2.93)
+[//]: # (5. **QTY:** 500	**Product Code:** 17HDC1220-300N **Description:** 1.8 degree NEMA 17 external linear motor w anti-backlash **Unit Price:** 30.46)
+[//]: # (6. **QTY:** 16	**Product Code:** 768-1041-ND **Description:** Cable USB RS485 Wire End 1.8M **Unit Price:** 26.75)
+[//]: # (7. **QTY:** 352	**Product Code:** 667-ERJ-8ENF6040V **Description:** Thick Film Resistors - SMD1206 604ohms 1% **Unit Price:** 0.02)
+[//]: # (8. **QTY:** 36	**Product Code:** 649-71600-108LF **Description:** Headers & Wire Housings, 100" RCPT2x4 **Unit Price:** 1.00)
 
 **output devices**
 
@@ -414,7 +397,6 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 10 | RFD16N05LSM9ACT-ND | MOSFET N-CH 50V 16A TO-252AA- | 1.13 | 11.25 |  | Malaysia | 854129
 10 | S1143E-36-ND | SMT RT Angle Male Header 0.1" (36pos) | 3.30 | 33.00 |  | USA | 853669
 10 | XC1109CT-ND | CER RESONATOR 20.00MHZ SMD | 0.43 | 4.28 |  | China | 8541.6
- |  |  |  |  |  |  | 
  | Motors/Actuators: |  |  |  |  |  | 
 50 | 1810099 | MOTOR,DC,12VDC,8600RPM,63mA, SHAFT:Dia.0.08 ,0.43 L,14.8TOR | 2.49 | 124.50 |  | USA | 850110
 10 | 232047 | DC MOTOR , 12VDC , 8750MA | 4.49 | 44.90 |  | USA | 850110
@@ -423,7 +405,6 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 10 | 253471 | MOTOR,DC,GEAR,12V,50/1,120RPM, 1100G-CM,74MA  | 13.45 | 134.50 |  | USA | 850110
 10 | 2120479 | MOTOR,STEPPER,BIPOLAR,4VDC/1A 3600 GR-CM,1.8 STEP ANGLE | 17.95 | 179.50 |  | USA | 850110
 10 | 238538 | MOTOR,STEP,12VDC/.4A, 3200 GM-CM | 19.95 | 199.50 |  | USA | 850110
- |  |  |  |  |  |  | 
  | Servos: |  |  |  |  |  | 
 10 | HK-5320 | Ultra-Micro Digital Servo 1.7g/0.05sec/0.075kg | 3.77 | 37.70 |  | USA | 850110
 10 | HK15178 | "Analog Servo 10g/1.4kg/0.09s
@@ -450,11 +431,10 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 1 | SO-Strong® 9-Pack Color Sampler | SO-Strong® 9-Pack Color Sampler | 28.25 | 28.25 |  |  | 
 2 | Ease Release 205 - Pint Unit- (Cannot be purchased for overseas | Ease Release 205 - Pint Unit | 13.20 | 26.40 |  |  | 
 5 | SORTA Clear® 37 - Trial Size |  Translucent Platinum Silicone Rubber Compound. | 34.72 | 173.60 |  | USA | 3910.00.0000
-10 | 18-0150307         | Machinable wax blue 1.5" x 3" x 7" | 8.95 | 89.50 |  | USA | 3407.00.4000
-5 | 18-150612         | Machinable wax blue 1.5" x 6" x 12" | 24.95 | 124.75 |  | USA | 3407.00.4000
+10 | 18-0150307 | Machinable wax blue 1.5" x 3" x 7" | 8.95 | 89.50 |  | USA | 3407.00.4000
+5 | 18-150612 | Machinable wax blue 1.5" x 6" x 12" | 24.95 | 124.75 |  | USA | 3407.00.4000
 5 | 18-030606 | Machinable wax blue 3" x 6" x 6" | 25.95 | 129.75 |  | USA | 3407.00.4000
 5 | 8586K81 | Easy-to-Machine ABS Shapes, 1" Thick, 6" x 6", Black | 17.13 | 85.65 |  |  | 
- |  |  |  |  |  |  | 
  | Tools: |  |  |  |  |  | 
 1 | http://www.amazon.com/Bel-Art-Scienceware-F42010-Polypropylene-Desiccator/dp/B002VBW9R8/ | Vacuum Chamber (Polycarbonate, 24cm ID) for degassing silicone, etc. | 101.84 | 101.84 |  |  | 
 2 | 06066-1489 | FOAM BRUSH SET/48SET CLSPK WD HND | 19.09 | 38.18 |  | USA | 9603.40
@@ -477,12 +457,10 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 1 | 5400K3 | Bend-and-Stay Very Flexible Metal Duct Hose for Fumes, 5 foot section, for laser ventilation. | 44.6 | 44.60 |  |  | 
 1 | 3498A11 | Center-Marking Punch with Round-Knurled Handle | 3.48 | 3.48 |  |  | 
 1 | 3415A13 | Pin-Loosening Punches | 5.43 | 5.43 |  |  | 
- |  |  |  |  |  |  | 
  | Safety: |  |  |  |  |  | 
 4 | 9832T62 | Nitrile Palm-Coated Cotton Work Glove | 4.50 | 18.00 |  |  | 6116.10.0000
 2 | 9738T81 | Disposable Polyethylene Apron Smooth, 28" Wide X 46" Long, 1.50 Mils Thick, White | 9.66 | 19.32 |  |  | 6211.33.0000
 2 | 5450T42 | Disposable Respirator Mask N95 Filter, Aluminum Nose, Inner Foam Seal | 20.95 | 41.90 |  |  | 39.26
- |  |  |  |  |  |  | 
  | Cleaning/Maintenance: |  |  |  |  |  | 
 1 | 112743 | Medline Talc Baby Powders, 4 oz, 48/Pack | 34.99 | 34.99 |  |  | 
 
@@ -495,7 +473,6 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 " | 8.99 | 44.95 |  |  | 
 5 | http://www.amazon.com/J-deal%C2%AE-Pyroelectric-Infrared-Detector-Hc-sr501/dp/B013LA6MW0 | Pyroelectric Infrared PIR Motion Sensor Detector Module Hc-sr501 (5pcs) | 8.48 | 42.40 |  |  | 
 5 | http://www.amazon.com/sunkee-OV7670-640X480-Compatible-Interface/dp/B00AZWVZKW | Yosoo VGA OV7670 Camera Module Lens CMOS 640X480 SCCB Compatible W/ I2C Interface | 8.27 | 41.35 |  |  | 
- |  |  |  |  |  |  | 
 10 | 1080-1379-1-ND | Phototransistor 940nm Top View 1206 IR | 0.15 | 1.49 |  | Taiwan | 854140
 10 | 1080-1380-1-ND | Phototransistor 940nm Top View 1206 visible | 0.15 | 1.49 |  |  | 
 5 | 235-1109-1-ND | THERMISTOR NTC 10K OHM 10% 1206- | 2.50 | 12.50 |  | Japan | 853329
@@ -516,7 +493,6 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 5 | PTS12061.0KCT-ND | TEMP SENSOR RTD 1.0K OHM 1206 | 3.20 | 16.02 |  | USA | 8533.21.0030
 10 | S1143E-36-ND | SMT RT Angle Male Header 0.1" (36pos) | 3.30 | 33.00 |  | USA | 853669
 10 | SW262CT-ND | SWITCH TACT SMD W-GND 160GF | 0.74 | 7.39 |  | Japan | 853650
- |  |  |  |  |  |  | 
 10 | 139492 | SENSOR,ULTRASONIC,40KHZ,TRAN1,REC1,112db/67db,2000pf/VARIOUS 40TR12B-R | 7.19 | 71.90 |  | USA | 8543.70.6000
 
 **wildcard week**
@@ -532,7 +508,6 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 10 | http://www.fibreglast.com/product/Polyethelene_Bagging_Film_577/Vacuum_Bagging_Films_Peel_Ply_Tapes | Polyethylene Bagging Film (yds) | 1.75 | 17.50 |  |  | 
 10 | http://www.fibreglast.com/product/low-temperature-release-film-1580/Vacuum_Bagging_Films_Peel_Ply_Tapes | Low Temperature Release Film, unperforated (yds) | 2.95 | 29.50 |  |  | 
 2 | http://www.amazon.com/LA-Linen-15-Inch-Natural-100-Yard/dp/B00HTVMX08 | LA Linen 15-Inch Natural Jute Burlap Roll, 100-Yard, Natural | 50.90 | 101.80 |  |  | 
- |  |  |  |  |  |  | 
  | Tools: |  |  |  |  |  | 
 1 | B000HE8BMS | WEN 2290 Air Compressor Accessory Kit, 20-Piece | 21.99 | 21.99 |  | China | 3917.31.0000
 3 | http://www.amazon.com/Wiss-28N-Industrial-Shears-Scissors/dp/B000TDILJA | Wiss 28N Industrial Shears / Scissors | 26.32 | 78.96 |  |  | 
