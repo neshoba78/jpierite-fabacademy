@@ -1,7 +1,7 @@
 **principles and practices, introductions, presentations, projects**
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
-:---: | --- | --- | ---: | ---: | ---: | ---: | ---:
+:---: | :--- | :--- | ---: | ---: | ---: | ---: | ---:
  | _Materials:_ |  |  |  |  |  | 
 3 | 487547 | uni-ball Vision Elite Rollerball Pens, Micro Point, Blue/Black, Dozen | 28.59 | 85.77 |  |  | 9608.10.0000
 5 | 229690 | 13023/13403 Acme 8" Economy Shears, Bent-Handle, 3/Pack | 7.99 | 39.95 |  | USA | 8213.00.0000
@@ -26,7 +26,7 @@ _included in previous week_
 **computer-aided design**
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
-:---: | --- | --- | ---: | ---: | ---: | ---: | ---:
+:---: | :--- | :--- | ---: | ---: | ---: | ---: | ---:
  | _Tools:_ |  |  |  |  |  | 
 5 | CTL471 | Wacom Bamboo Splash Pen Tablet | 42.99 | 214.95 |  | Japan | 8471.60
 5 | P-SDX128U1H-GE | PNY Elite Performance 128GB High Speed SDXC Class 10 | 49.99 | 249.95 |  |  | 
@@ -35,7 +35,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 **computer-controlled cutting**
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
-:---: | --- | --- | ---: | ---: | ---: | ---: | ---:
+:---: | :--- | :--- | ---: | ---: | ---: | ---: | ---:
  | _Materials:_ |  |  |  |  |  | 
 1 | Permacel # 595B  | Permacel # 595B transfer adhesive 6"x60 yds. @  | 53.75 | 53.75 |  | USA | 3506.10.00.00
 1 | 3M #214 | 3M #214 masking tape 6"x60 yds @  | 211.22 | 211.22 |  | USA | 4811.41.2100
@@ -82,7 +82,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 **electronics production**
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
-:---: | --- | --- | ---: | ---: | ---: | ---: | ---:
+:---: | :--- | :--- | ---: | ---: | ---: | ---: | ---:
  | _Materials:_ |  |  |  |  |  | 
 10 | 5"x9" Single | Single side circuit board stock | 1.40 | 14.00 |  | USA | 4811.90.5050
 5 | 5"x9" Double | Double side circuit board stock | 2.50 | 12.50 |  | USA | 4811.90.5050
@@ -170,7 +170,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 **3D scanning and printing**
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
-:---: | --- | --- | ---: | ---: | ---: | ---: | ---:
+:---: | :--- | :--- | ---: | ---: | ---: | ---: | ---:
  | _Materials:_ |  |  |  |  |  | 
 20 | Cartridge PLA 700g (Sindoh 3DWox) | PLA Cartridge | 39.00 | 780.00 |  |  | 3907.70.0000
 10 | PLABlue (Ultimaker 2+) | Blue PLA 0.75kg Spool 2.85mm Filament | 36.59 | 365.90 |  | Netherlands | 3907.70.0000
@@ -187,7 +187,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 **electronics design**
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
-:---: | --- | --- | ---: | ---: | ---: | ---: | ---:
+:---: | :--- | :--- | ---: | ---: | ---: | ---: | ---:
  | _Materials:_ |  |  |  |  |  | 
 1 | B006LW331E | 5M Waterproof 5050 SMD 300 Epoxy LED Strip Light White | 11.55 | 11.55 |  |  | 8541.40.2000
 10 | 1080-1346-1-ND | LED IR GAA1AS WATER CLEAR SMD | 0.36 | 3.57 |  | Taiwan | 854140
@@ -278,7 +278,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 **computer-controlled machining**
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
-:---: | --- | --- | ---: | ---: | ---: | ---: | ---:
+:---: | :--- | :--- | ---: | ---: | ---: | ---: | ---:
  | _Materials:_ |  |  |  |  |  | 
 1 | LXAS8305 | Midwest Poplar Plywood Sheet 1/8 x 12 x 24" (30) | 174.80 | 174.80 |  | USA | 44.12
  | Tools: |  |  |  |  |  | 
@@ -322,7 +322,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 **embedded programming**
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
-:---: | --- | --- | ---: | ---: | ---: | ---: | ---:
+:---: | :--- | :--- | ---: | ---: | ---: | ---: | ---:
  | _Tools:_ |  |  |  |  |  | 
 5 | B00MV6TAJI | Raspberry Pi 2 Model B (1GB) Complete Starter Kit | 69.99 | 349.95 |  |  | 
 1 | ATATMEL-ICE-BASIC-ND | EMU FOR SAM AND AVR MCU BASIC | 54.11 | 54.11 |  |  | 854231
@@ -346,7 +346,7 @@ _see next week_
 **machine design**
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
-:---: | --- | --- | ---: | ---: | ---: | ---: | ---:
+:---: | :--- | :--- | ---: | ---: | ---: | ---: | ---:
 4 | gestalt | Fablab gestalt node rev 0.4 | 17 | $68.00 |  |  | 
 
 [//]: # (_fab foundation backstock_)
@@ -362,7 +362,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 **output devices**
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
-:---: | --- | --- | ---: | ---: | ---: | ---: | ---:
+:---: | :--- | :--- | ---: | ---: | ---: | ---: | ---:
  | _Materials:_ |  |  |  |  |  | 
 5 | 1956784 | TRANSDUCER,PIEZO,30VAC,75dB, LEADS,0.5-20Hz,SINGLE TONE | 2.95 | 14.75 |  | USA | 8543.7
 10 | 1276-2728-1-ND | CAP CER 22UF 16V X5R 1206 | 0.146 | 8.21 |  |  | 
@@ -414,7 +414,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 **molding and casting**
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
-:---: | --- | --- | ---: | ---: | ---: | ---: | ---:
+:---: | :--- | :--- | ---: | ---: | ---: | ---: | ---:
  | _Materials:_ |  |  |  |  |  | 
 2 | 00682-1001 | BLICK STUDIO GESSO/GALLON 2 COAT | 25.50 | 51.00 |  | USA | 9503.00.0000
 2 | 33504-1905 | FLEXWAX 5 lb block | 51.14 | 102.28 |  | USA | 3407.00.4000
@@ -464,7 +464,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 **input devices**
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
-:---: | --- | --- | ---: | ---: | ---: | ---: | ---:
+:---: | :--- | :--- | ---: | ---: | ---: | ---: | ---:
  | _Materials:_ |  |  |  |  |  | 
 5 | B00E0NXTJW | "2 pcs Ultrasonic Module HC-SR04 Distance Sensor" | 8.99 | 44.95 |  |  | 
 5 | B013LA6MW0 | Pyroelectric Infrared PIR Motion Sensor Detector Module Hc-sr501 (5pcs) | 8.48 | 42.40 |  |  | 
@@ -494,7 +494,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 **wildcard week**
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
-:---: | --- | --- | ---: | ---: | ---: | ---: | ---:
+:---: | :--- | :--- | ---: | ---: | ---: | ---: | ---:
  | _(Composite) Materials:_ |  |  |  |  |  | 
 3 | super-sap-100-1000 | Super Sap ONE Epoxy and ONE Hardener, 3 gal, Complete Starter Kit (Pumps, cups, sticks, gloves) | 254.95 | 764.85 |  |  | 
 3 | super-sap-clr-clear-epoxy-resin | Super Sap CLR Epoxy and CLF (FAST) Hardener, 3 gal, Complete Starter Kit (Pumps, cups, sticks, gloves) | 254.95 | 764.85 |  |  | 
@@ -527,7 +527,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | KIT
 **networking and communications**
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | KIT TOTAL | Country of Origin | Schedule B Tariff Code
-:---: | --- | --- | ---: | ---: | ---: | ---: | ---:
+:---: | :--- | :--- | ---: | ---: | ---: | ---: | ---:
  | _Materials:_ |  |  |  |  |  | 
 2 | B00HR69SEO | 2pcs NRF905 GFSK Wireless Transmitting Receiver Module 1.9-3.6V | 14.57 | 29.14 |  |  | 
 2 | B01DD5IV0Y | DIYmall nRF24L01+ 2.4GHz Wireless Transceiver 2pcs | 6.45 | 12.90 |  |  | 
