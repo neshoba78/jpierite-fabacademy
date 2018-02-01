@@ -27,5 +27,4 @@
 * [Inventory](inventory.md)
 * [How to Trade \(almost\) Anything](how-to-trade-almost-anything.md)
 * [InDigiFab](indigifab.md)
-* Jan 24: project management
 
