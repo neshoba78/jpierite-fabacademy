@@ -72,10 +72,40 @@ Cloud computing, Amazon EC2 (elastic cloud computing) is a popular platform. The
 
 Project Management Systems, these are more intended for managing more than one person completing more than one task. Example programs are useful such as, TaskJuggler, OpenProj, GanttProject, Trello, and Taiga. For the class, project management will be centered around GitLab.
 
-GitLab is many different things. It manages repositories. A repository is a set of files, is the history of the files, and can have branches for multiple versions. A second thing that GitLab does is issue tracking. Each project has its own issue tracker. In GitLab you can manage notifications. If you set a certain project to "watch", you will receive email notifications of issues as they arise. The communication is threaded. These issues trackers can cut down on email spam. Workflows, GitLab runs workflows to publish student content to the web. GitLab also has kanban boards that can help manage projects.
+GitLab is many different things. It manages repositories. A repository is a set of files, is the history of the files, and can have branches for multiple versions. A second thing that GitLab does is issue tracking. Each project has its own issue tracker. In GitLab you can manage notifications. If you set a certain project to "watch", you will receive email notifications of issues as they arise. The communication is threaded. These issues trackers can cut down on email spam. Workflows, GitLab runs workflows to publish student content to the web. GitLab also has kanban boards that can help manage projects. GitLab has an in-browser editor to do editing on the server. The editor is not optimal for composition. Rather, you can do quick edits.
 
-Notes are up to 45:00...
+Standard mistakes, students will produce MB of data per week; labs will produce GB per cycle. Filesize is important to check, du is a good tool for filesize checking. Do not put uncompressed images into the repo. If more than one person is working on a repo, merge first and then push to the server. 
+
+**Project Management Principles**
+
+There is an important distinction between demand and supply-side time management. Supply-side time management is working back from the available time. Budget in advance the time needed for specific tasks. You can learn to work to a schedule. Do not work until you can succeed in each task. instead, work with the time that you have available.
+
+Serial vs. parallel development; rather than work through tasks serially, look for ways to manage multiple tasks in parallel. Work out the dependencies for tasks.
+
+Spiral development; rather than working on the complete system in a series of tasks, look for ways to prototype projects iteratively. This will result in a nested series of projects that add more upon iteration.
+
+Bottom-up vs top-down debugging; rather than taking a big thing that doesn't work, think of projects through hierarchy and modularity. If you break your system into modules, you can debug the modules in isolation and then plug them back together.
+
+Document as you work; if you work and then document, you will fail. Ara Knaian, the product of engineering if the documentation. Record, keep a running log of work, upon the completion of the project you will only need to add the final documentation.
+
+Insights from Mythical Man-Month; a pregnancy is an example of a task that does not scale by adding labor but has fundamental limitations on the rate that progress can happen.
+
+Project Management is not implicit; rather it is a set of skills that will develop over the course of the cycle.
 
 #### Jan 22 recitation: version control (Fiore Basile)
+
+What is version control? This is a way to keep track of the work that you do on a project, especially when working with a group. Collaboration; while working on a document, historically you would work a file at a time. For complex documents, there could be many changes resulting in many different version of a document taking up hard drive space. Change can be restored in a single repository through version control. Different changes can be tracked, as well.
+
+Making copies of files; normally you would use a function like "Save as..." that would create different versions of the same project. Instead of making multiple files, we can think of development as engaging a database. For cloud applications, the act of saving can instantiate separate versions in whcih changes are tracked and can be restored. For version control, we don't just use a single, central database. This can be done in a distributed way.
+
+History and tools; SCCS was a way to manage version control in the 1970's. This solution was local due to the lack of robust networking solutions. CVS and Subversion came into use in the late 1980s and 90s which introduced client server communication. Mercurial was a solution used in previous cycles of Fab Academy, but had issues with merging files. Git is now an industry standard and a good skill to learn.
+
+Git was born out of necessity. Bitkeeper was used for tracking the Linux Kernel. The company retired their free version. Linus Torvalds, creator of Linux, coded Git based on concepts borrowed from Bitkeeper.
+
+How Git works. Snapshot vs Deltas; old version control solutions compare the difference between files. Snapshots are made for every file that are entered into a repository. Git enables local operation meaning that you do not have to connect to the network; you can instead work with all the files locally. In order to do this, you check out the project to your working directory. You can then make changes and commit the changes to then push to the repository. Entering the files into the repo essentially creates two separate versions.
+
+After installation, you can set a local identity from `git config`. `git init` will create your repository. This will create an empty folder with a hidden folder called ".git". It is important to not delete the ".git" folder. In the initialized repository, you can create files and add with `git add`. `git status` will give you the current status of the repository; this can include tracked and untracked files. Untracked files can be added or ignored prior to `git commit`. Committing files with `git commit -m "somestatus"`, will allow you to identify changes as you add to your repository. Ignoring files is done through `.gitignore`. Ignoring helps to keep repository clean. You can also have files locally that you do not want to expose globally.
+
+Added up to 29:28
 
 #### Jan 29 recitation: gitlab (Fiore Basile)
