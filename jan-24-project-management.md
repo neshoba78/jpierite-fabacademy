@@ -9,3 +9,5 @@
 * [x] documented steps for uploading files to archive
 
 * [x] pushed to the class archive
+
+#### 2018 Class Notes
