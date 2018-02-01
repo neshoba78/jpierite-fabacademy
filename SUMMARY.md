@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Bio](bio.md)
 * [Jan 17: principles and practices, presentations, introductions](jan-25-principles-and-practices-project-management.md)
-* Jan 24: project management
+* [Jan 24: project management](jan-24-project-management.md)
 * [Jan 31: computer-aided design](feb-01-computer-aided-design.md)
 * [Feb 07: computer-controlled cutting](feb-08-computer-controlled-cutting.md)
 * [Feb 14: electronics production](feb-15-electronics-production.md)
