@@ -267,7 +267,7 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | Cou
 1 | 751595 |  Duracell AA Alkaline Batteries, 144/Pack  | 114.99 | 114.99 |  USA | 8506.80.00.00 | (add links here) 
 1 | 751596 |  Duracell AAA Alkaline Batteries, 144/Pack  | 129.99 | 129.99 |  USA | 8506.80.00.00 | (add links here) 
 
-**computer-controlled machining** |  |  |  |  |  |  | 
+**computer-controlled machining**
 
 Qty | Product Code | Product Description | List Unit Price | List Extended | Country of Origin | Schedule B Tariff Code | Regional links
 :---: | :--- | :--- | ---: | ---: | ---: | ---: | :---
