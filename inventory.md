@@ -1,5 +1,5 @@
-**principles and practices, introductions, presentations, projects** |  |  |  |  |  |  | 
- |  |  |  |  |  |  | 
+**principles and practices, introductions, presentations, projects**
+
 Qty | Product Code | Product Description | List Unit Price | List Extended | Country of Origin | Schedule B Tariff Code | Regional links
 :---: | :--- | :--- | ---: | ---: | ---: | ---: | :---
  | _Materials:_ |  |  |  |  |  | 
@@ -18,13 +18,13 @@ Qty | Product Code | Product Description | List Unit Price | List Extended | Cou
 1 |  H180X | Optoma H180X  | 450.17 | 450.17 |  USA | 8528.61.00.00 | [//]: # (add links here) 
 1 |  M1Active 320 | Alesis USB Studio Monitor Pair  | 79.99 | 79.99 |  USA | 8518.22.0000 | [//]: # (add links here) 
 2 |  WZR-600DHP2D | Buffalo AirStation™ WZR-600DHP2D N600 Gigabit Dual Band Open Source DD-WRT Wireless Router  | 99.99 | 199.98 |  USA | 8517.62.0050 | [//]: # (add links here) 
- |  |  |  |  |  |  | 
-**project management** |  |  |  |  |  |  | 
- |  |  |  |  |  |  | 
-_included in previous week_ |  |  |  |  |  |  | 
- |  |  |  |  |  |  | 
-**computer-aided design** |  |  |  |  |  |  | 
- |  |  |  |  |  |  | 
+
+**project management**
+
+_included in previous week_
+
+**computer-aided design**
+
 Qty | Product Code | Product Description | List Unit Price | List Extended | Country of Origin | Schedule B Tariff Code | Regional links
 :---: | :--- | :--- | ---: | ---: | ---: | ---: | :---
  | _Tools:_ |  |  |  |  |  | 
