@@ -4,7 +4,7 @@
 
 * [x] Described what you learned by testing the 3D printers
 
-* [x] Shown how you designed and made your object and explained why it could not be made subtractively
+* [ ] Shown how you designed and made your object and explained why it could not be made subtractively (That cannot be fabricated with 3 axis limitations OR even if it’s possible to make it, it is too complicated.)
 
 * [x] Scanned an object
 
