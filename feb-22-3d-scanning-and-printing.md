@@ -46,7 +46,7 @@ NOT SO FAST: you forgot to wrestle with machines and troubleshoot
 
 Ah yes, my first set up of an Ultimaker 2 came from Fab Lab Roxbury @ The Impact Studio. We had two printers from FAB11 which were donated to local labs after the conference. The printers were packed and stored until they were ready for delivery. One of the printers still had filament loaded while it was packed and stored. What happened in that situation is that the PLA became brittle inside the Bowden Tube. It was difficult to extract the material without snapping inside the curved tube. I managed to push the trapped material through the tube with material that was still on the spool. I was still very careful not to break the spool material as both pieces were subject to the elements while in storage.
 
-##### PLA Problems
+#### PLA Problems
 
 At FAB@CIC, we experienced similar problems with the PLA filament. Indoors, during the Summer in Boston, we ran the central air conditioning to cool rooms and larger spaces. Most of our filament was stored under workstations for 3D printers and became brittle at a time when we were printing prosthetic hands for the eNable Hand-a-thon. We solved the problem by buying an indoor humidifier.
 
@@ -56,13 +56,13 @@ When a clog happens in the print head, there is a method of unclogging known as 
 
 Of course, I could just source PLA from New Zealand. I hear Diamond Age Solutions is pretty good…
 
-##### Leveling with the Ultimaker
+#### Leveling with the Ultimaker
 
 The goal of FDM \(Fused Deposition Modeling\) is to allow molten material to be extruded and consistently laid onto the build plate. Ultimaker provides some good visuals as to what is and what isn’t a good first layer. What I noticed from my first few attempts at printing was that material just barely made an impression on the build plate. It took some layers for the part to show up at all. This was due to our build plate being too close to the nozzle. Ultimaker does have on-screen instructions to help with leveling. Still, when you live in a country in which people live and die without knowing the metric system; you can easily mess up a process that starts with “make sure the nozzle is 1 mm away from the build plate.” The best way to eyeball the process that I found was to think of the materials diameter which then gets extruded through the diameter of the nozzle.
 
 ![](/assets/IMG_0750.JPG)
 
-##### Going Straight to the Ulti-Source
+#### Going Straight to the Ulti-Source
 
 I spent time with Luis Rodriguez of Ultimaker to go through basic warranty and service training for their line of printers. We went over tips and tricks for proper maintenance of the printers as well as workflow within Cura to send jobs to the printers.
 
@@ -72,7 +72,7 @@ As far as workflow in Cura, once a model is loaded the steps are to select the n
 
 I also learned about another type of filament known as PVA. This is a water-soluble material that can provide support for FDM additive structures. In the future with an improved FDM dual extrusion process, more complex parts can be printed with a combination of build and support material. With PVA, the parts can be weeded out with a bath that will dissolve the support material and leave the model. This would improve my results of printing a clump of paper clips that surround a sphere.
 
-##### Scanning the Columbus Lion
+#### Scanning the Columbus Lion
 
 Last year while taking Fab Academy at the South End Technology Center, I spotted a cool lion statue two blocks down Columbus Avenue. I wanted to capture it using 123D Catch on my iPhone.
 
