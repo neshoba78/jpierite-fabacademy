@@ -10,6 +10,7 @@
 
 * [ ] Included original design files and code
 
+* Design files:[ Right click + Save As](/uploads/input-switch.zip)
 
 #### Class Review 2016
 

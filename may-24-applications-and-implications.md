@@ -18,11 +18,11 @@ _The answers to the questions above will allow you to create your BOM, or Bill O
 
 * [ ] what processes will be used?
 
-* [ ] what tasks need to be completed?
+* [x] what tasks need to be completed?
 
 * [ ] what questions need to be answered?
 
-* [ ] what is the schedule?
+* [x] what is the schedule?
 
 * [ ] how will it be evaluated?
 
