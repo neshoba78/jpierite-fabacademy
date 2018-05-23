@@ -11,14 +11,14 @@
 * [Feb 28: electronics design](mar-01-electronics-design.md)
 * [Mar 07: computer-controlled machining](mar-08-computer-controlled-machining.md)
 * [Mar 14: embedded programming](mar-15-embedded-programming.md)
-* [Mar 21: mechanical design](mar-22-mechanical-design.md)
-* Mar 28: machine design
+* [Mar 21: molding and casting](apr-19-molding-and-casting.md)
+* [Apr 04: input devices](apr-26-input-devices.md)
 * [Apr 11: output devices](mar-29-output-devices.md)
-* [Apr 18: molding and casting](apr-19-molding-and-casting.md)
-* [Apr 25: input devices](apr-26-input-devices.md)
-* [May 02: wildcard week](may-03-composites.md)
-* [May 09: networking and communications](may-10-networking-and-communications.md)
-* [May 16: interface and application programming](may-17-interface-and-application-programming.md)
+* [Apr 18: interface and application programming](may-17-interface-and-application-programming.md)
+* [Apr 25: networking and communications](may-10-networking-and-communications.md)
+* [May 02: mechanical design](mar-22-mechanical-design.md)
+* May 09: machine design
+* [May 16: wildcard week(may-03-composites.md)
 * [May 23: applications and implications](may-24-applications-and-implications.md)
 * [May 30: invention, intellectual property, and income](may-31-invention-intellectual-property-and-income.md)
 * [Jun 11: project development](jun-07-project-development.md)
@@ -27,4 +27,3 @@
 * [Inventory](inventory.md)
 * [How to Trade \(almost\) Anything](how-to-trade-almost-anything.md)
 * [InDigiFab](indigifab.md)
-
