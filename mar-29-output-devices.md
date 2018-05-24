@@ -2,13 +2,25 @@
 
 #### Have you:
 
-* [ ] Described your design and fabrication process using words/images/screenshots.
+* [x] Described your design and fabrication process using words/images/screenshots.
 
 * [ ] Explained the programming process/es you used and how the microcontroller datasheet helped you.
 
 * [ ] Outlined problems and how you fixed them
 
-* [ ] Included original design files and code
+* [x] Included original design files and code
+
+* Design files:[ Right click + Save As](/uploads/hello.RGB.45.zip)
+
+#### Fabricating the Board
+
+![](/assets/Screenshot from 2018-05-24 15-44-38.png)
+
+Copying the traces by connections via GIMP. Process detailed in [Feb 28: electronics design](mar-01-electronics-design.md).
+
+![](/assets/Screenshot from 2018-05-24 17-21-17.png)
+
+Routing the board in Eagle. Process detailed in [Feb 28: electronics design](mar-01-electronics-design.md).
 
 **2018 Class Notes**
 
