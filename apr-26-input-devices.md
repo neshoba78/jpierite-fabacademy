@@ -10,7 +10,17 @@
 
 * [ ] Included original design files and code
 
-* Design files:[ Right click + Save As](/uploads/input-switch.zip)
+* Design files:[ Right click + Save As](/uploads/hello.txrx.45.zip)
+
+#### Fabricating the Board
+
+![](/assets/Screenshot from 2018-05-24 14-47-43.png)
+
+Copying the traces by connections via GIMP. Process detailed in [Feb 28: electronics design](mar-01-electronics-design.md).
+
+![](/assets/Screenshot from 2018-05-24 14-48-20.png)
+
+Routing the board in Eagle. Process detailed in [Feb 28: electronics design](mar-01-electronics-design.md).
 
 #### Class Review 2016
 
