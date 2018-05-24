@@ -8,9 +8,45 @@
 
 * [x] Included original design files \(Eagle, KiCad, Inkscape, .cad - whatever\)
 
-* Design files:[ Right click + Save As](/uploads/helloEcho.zip)
+* Design files:[ Right click + Save As](/uploads/hello.ftdi.44.zip)
 
 ![](/assets/electronics-design-1-350x197.png)
+
+#### Fabricating the Board
+
+![](/assets/Screenshot from 2018-05-24 09-52-40.png)
+
+The first step was to download the board preview for hello FTDI 44. In GIMP, I created a new transparent layer named VCC. I traced the connections on the board preview with a distinct color. I repeated that process for all layers. These are the descriptions of the connections from the ATTiny44 datasheet:
+
+VCC - Supply voltage
+GND - Ground
+TX PA0 - ADC0: ADC input channel 0. AREF: External analog reference. PCINT0: Pin change interrupt 0 source 0.
+RX PA1 - ADC1: ADC input channel 1. AIN0: Analog comparator positive input. PCINT1: Pin change interrupt 0 source 1. 
+MOSI PA 6 - ADC6: ADC input channel 6. DI: USI data input three wire mode. SDA: USI data input two wire mode. OC1A: Timer/Counter1 compare match A output. PCINT6: Pin change interrupt 0 source 6.
+MISO PA5 - ADC5: ADC input channel 5. DO: USI data output three wire mode. OC1B: Timer/Counter1 compare match B output. PCINT5: Pin change interrupt 0 source 5.
+RST PB3 - Reset input. A low level on this pin for longer than the minimum pulse length will generate a reset, even if the clock is not 
+running.
+SCK PA4 - ADC4: ADC input channel 4. USCK: USI Clock three wire mode. SCL: USI Clock two wire mode. T1: Timer/Counter1 counter source. PCINT4: Pin change interrupt 0 source 4.
+XTAL1 PB0 - XTAL1: Crystal oscillator input. PCINT8: Pin change interrupt 1 source 8.
+XTAL2 PB1 - XTAL2: Crystal oscillator output. PCINT9: Pin change interrupt 1 source 9.
+
+Reviewing these connections for documentation pointed out that I missed connecting PB3 to the other RESET connections. I opened the file in Eagle and corrected the schematic.
+
+I cloned the FabAcademy Resources repo from GitHub. When I opened Eagle, I added the path to the downloaded lbr and dru files. It's important not to replace the default paths in Eagle, as symbols are needed from the included libraries.
+
+![](/assets/Screenshot from 2018-05-24 09-53-32.png)
+
+I began placing the components from the fab library. VCC and GND symbols are in a supply library. Using nets and labels, I then started to make connections following the highlights in the GIMP file. I switched layers on and off as I progressed to place components and make connections.
+
+[Steven Chew](http://archive.fabacademy.org/2016/fablabsingapore/students/98/exercise06.html) connected the Pushbutton Switch with a 10k pull up resistor tied to PA7 "to tie the digital input to a logic 1 and connect the pushbutton between the digital input pin and ground. In this configuration, everytime the pushbutton switch is pressed, the digital input will be pulled low. When the pushbutton is released, the digital input reads a logic 1."
+
+For the LED, Steven "used a 499 ohm resistor to limit the current through the LED to about 6 mA. I've configured PB2 as an outpout pin to sink current from the LED when it is turned on."
+
+![](/assets/Screenshot from 2018-05-24 09-54-42.png)
+
+I found a couple of YouTube videos to walk me through the copper pour technique that Steven used. Once the Design Rule Checks were passed and there were no more airwaves, I exported the file for milling through FabModules.
+
+#### Bakground
 
 Since I began with The Fab Foundation, I helped support two cycles of Fab Academy. While my main preoccupation with Fab Labs is procuring and deploying inventories for new installations, I also help procure supplies for labs running Academany courses. While most requests come in the form of shipping out end mills or FR-1, the most involved request was the procurement and distribution of Stage Kits for the Machine Making assignment. It was during my second go in 2016 of shipping out stage kits that I got my first big lesson in Electronics Design.
 
