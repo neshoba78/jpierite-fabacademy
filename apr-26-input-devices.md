@@ -10,6 +10,7 @@
 
 * [x] Included original design files and code
 
+* Design files:[ Right click + Save As](/uploads/input-switch.zip)
 * Design files:[ Right click + Save As](/uploads/hello.txrx.45.zip)
 
 #### Fabricating the Board

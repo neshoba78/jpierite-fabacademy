@@ -8,6 +8,7 @@
 
 * [x] Included original design files \(Eagle, KiCad, Inkscape, .cad - whatever\)
 
+* Design files:[ Right click + Save As](/uploads/hello.ftdi.44.zip)
 * Design files:[ Right click + Save As](/uploads/switch-and-led.zip)
 
 ![](/assets/electronics-design-1-350x197.png)

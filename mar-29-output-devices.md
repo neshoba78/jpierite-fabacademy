@@ -11,6 +11,7 @@
 * [x] Included original design files and code
 
 * Design files:[ Right click + Save As](/uploads/hello.RGB.45.zip)
+* Design files:[ Right click + Save As](/uploads/hello.LCD.44.zip)
 
 #### Fabricating the Board
 
