@@ -26,6 +26,12 @@ _The answers to the questions above will allow you to create your BOM, or Bill O
 
 * [ ] how will it be evaluated?
 
+Iteration from [previous year](http://fabacademy.org/archives/2015/na/students/pierite.jean-luc/old-site/index859c859c.html?page_id=219):
+![](/assets/presentation.png)
+
+Illustration of proposed sculpture:
+![](/assets/28379277_10154979582331307_1602835557685497938_n.jpg)
+
 Schedule of work:
 
 Date | Location | Task
