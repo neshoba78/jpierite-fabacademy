@@ -17,7 +17,6 @@
 * [Apr 18: interface and application programming](may-17-interface-and-application-programming.md)
 * [Apr 25: networking and communications](may-10-networking-and-communications.md)
 * [May 02: mechanical design](mar-22-mechanical-design.md)
-* May 09: machine design
 * [May 16: wildcard week](may-03-composites.md)
 * [May 23: applications and implications](may-24-applications-and-implications.md)
 * [May 30: invention, intellectual property, and income](may-31-invention-intellectual-property-and-income.md)
