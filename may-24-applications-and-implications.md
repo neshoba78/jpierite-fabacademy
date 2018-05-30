@@ -14,20 +14,58 @@
 
 _The answers to the questions above will allow you to create your BOM, or Bill Of Materials._
 
-* [ ] what parts and systems will be made?
+* [x] what parts and systems will be made?
 
-* [ ] what processes will be used?
+* [x] what processes will be used?
 
 * [x] what tasks need to be completed?
 
-* [ ] what questions need to be answered?
+* [x] what questions need to be answered?
 
 * [x] what is the schedule?
 
-* [ ] how will it be evaluated?
+* [x] how will it be evaluated?
+
+I am continuing Fab Academy from 2015 and several attempts to complete in the off cycle. Thank you to all who have supported me patiently on this journey. I started with an idea of the IndigiCase Alpha, which was to be a symbolic bridge between Fab Labs and the [Indigitization](http://www.indigitization.ca) project at UBC Vancouver. As fab labs are community spaces for invention and for people to work and play, the [Indigitization](http://www.indigitization.ca) project seeks to democratize the process of language documentation by recommending a toolkit and developing training for linguistic competencies.
 
 Iteration from [previous year](http://fabacademy.org/archives/2015/na/students/pierite.jean-luc/old-site/index859c859c.html?page_id=219):
 ![](/assets/presentation.png)
+
+The original proposal in 2015 was for a language lab in a box which would incorporate recording and digitization processes. At the time of final project development in 2015, I had so much trouble fighting with the machines, my own computer, and 3D CAD tools. I ended up simplifying the project to an alligator toy that would simulate the tones in language. It would be done by parsing an XML based language documentation format.
+
+I was able to mill out one side of the toy on the ShopBot. I 3D printed clips for the toy to have movable legs. That was as far as I got with the project in 2015.
+
+![](/assets/IMG_2632.jpg)
+
+I began studying Fiore Basile's [Digital Companion](http://fabacademy.org/archives/2014/students/basile.fiore/project/index.html). I liked the social application of the digital companion and started thinking about ways to adopt my project into this simpler implementation. I even departed from language and wanted to work with plants. Perhaps my project would be a smart planter that would "cry" went the soil became too dry.
+
+Then my mom got a email:
+
+> I’m following up on my Sept 25 email (below) regarding WE NEVER LEFT: Artists of
+> Southeast Indian Tribes, an exhibition I am curating for the Museum of Arts &
+> Sciences in Daytona Beach, Florida. (MOAS is a Smithsonian Affiliate and member of
+> the Alliance of American Museums.)
+ 
+> Since writing to you, the exhibition dates have changed; the new dates are January > 12 - April 14, 2019.
+ 
+> WE NEVER LEFT will showcase artists from those Southeast tribes — like the Tunica-
+> Biloxi Tribe of Louisiana — that successfully avoided removal to so-called Indian
+> Country in the 1830s. The inspiration for this this exhibition is “Return from
+> Exile,” a traveling exhibition that primarily focused on artists from tribes that
+> had been relocated. WE NEVER LEFT is in many ways a response and complement to that
+> wonderful exhibition.
+
+> I’m writing to you to request your guidance in identifying artists who would be
+> interested in participating in WE NEVER LEFT. I’d love to hear from artists who
+> work in both traditional and non-traditional mediums.
+
+To which my mom uttered the famous last words, "My son is an artist."
+
+At this point, I have an illustration of Tanap, a being from our Tunica-Biloxi Cosmology, that teaches tribal children about plants. The idea of the project is to help combined: Input, Output, Network weeks with Molding and Casting and Composites.
+
+The skeleton of the sculpture will be laser cut tooling that will have a composite "skin" from a linen fabric and resin from Entropy Resins. The detail on the face will be from a casted mask, most likely using dragon skin in a rotary mold. The sculpture will be placed on a CNC milled box which will have a window for an LCD display. I capacitive sensor will be added as an input that will communicate with the LCD output. When the user places a hand above the sensor, the LCD will start to display the story of Tanap in our Tunica language.
+
+
 
 Illustration of proposed sculpture:
 ![](/assets/28379277_10154979582331307_1602835557685497938_n.jpg)
