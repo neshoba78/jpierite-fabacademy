@@ -124,39 +124,3 @@ June 11, 2018 | Dassault Systemes | Final Project Development
 June 12, 2018 | Dassault Systemes | Final Project Development
 June 13, 2018 | Fab@CIC | Project Presentation
 
-Complete your final project, tracking your progress:
-what tasks have been completed, and what tasks remain? 
-what has worked? what hasn't?
-what questions need to be resolved?
-what will happen when?
-what have you learned?
-Project management:
-documentation during development
-demand- vs supply-side time management
-spiral development
-system integration
-finish
-      
-Document a final project that integrates the range of units covered, 
-answering:
-What does it do?
-Who's done what beforehand?
-What did you design?
-What materials and components were used?
-Where did they come from?
-How much did they cost?
-What parts and systems were made?
-What processes were used?
-What questions were answered?
-How was it evaluated?
-What are the implications?
-Your project should incorporate 2D and 3D design,
-additive and subtractive fabrication processes,
-electronics design and production,
-microcontroller interfacing and programming,
-system integration and packaging
-Where possible, you should make rather than buy
-the parts of your project
-Projects can be separate or joint, but need to show individual 
-mastery of the skills, and be independently operable 
-Present your final project, weekly assignments, and documentation 
