@@ -38,5 +38,5 @@ We began vacuuming the air and excess mixture out of the vacuum bag. There were 
 The next day, we returned to the lab to check on the part. It was not as tacky as the day before. It took a lot of hand work to pry the peel ply and bleeder layers from the part. Between the composite part and the tooling, the peel ply was harder to pull up. I decided to break apart the foam tooling and dig out the peel ply. Once everything was cleared, I started the "whack test."
 
 <video controls="controls">
-  <source type="video/mp4" src="/assets/IMG_2677.mp4"></source>
+  <source type="video/mp4" src="assets/IMG_2677.mp4"></source>
 </video>
