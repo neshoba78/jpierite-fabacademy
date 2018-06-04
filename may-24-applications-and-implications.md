@@ -2,15 +2,15 @@
 
 #### Have you answered these questions:
 
-* [ ] what will it do?
+* [x] what will it do?
 
-* [ ] who has done what beforehand?
+* [x] who has done what beforehand?
 
-* [ ] what materials and components will be required?
+* [x] what materials and components will be required?
 
-* [ ] where will they come from?
+* [x] where will they come from?
 
-* [ ] how much will it cost?
+* [x] how much will it cost?
 
 _The answers to the questions above will allow you to create your BOM, or Bill Of Materials._
 
@@ -123,4 +123,45 @@ June 10, 2018 | Mel King | Brunch
 June 11, 2018 | Dassault Systemes | Final Project Development
 June 12, 2018 | Dassault Systemes | Final Project Development
 June 13, 2018 | Fab@CIC | Project Presentation
+
+*Bill of Materials*
+
+Description | Manufacturer | Part Number | Quantity | Price | Line Total
+:--- | :--- | :--- | ---: | ---: | ---:
+*Sculpture* |  |  |  |  | 
+OOMOO 25 Pint | Smooth-On | OOMOO 25 | 1 | 25.47 | 25.47
+Smooth-Cast 326 Pint | Smooth-On | Smooth-Cast 326 | 1 | 25.96 | 25.96
+PlastiKote T-235 Gray Sandable Primer Enamel - 12 oz. | PlastiKote | B000CPAA3A | 1 | 12.88 | 12.88
+Darice Curly Doll Hair .5oz-Black | Darice | B004ALSU1Q | 1 | 4.88 | 4.88
+Simi Creative Products Blended Turf 20 Cubic Inches/Pkg-Grass | Simi Creative Products | B007P55NJ6 | 1 | 9.37 | 9.37
+Mod Podge Waterbase Sealer, Glue and Finish (16-Ounce), CS11302 Matte Finish | Mod Podge | B001IKES5O | 1 | 6.67 | 6.67
+Rit Dye Liquid Fabric Dye, 8-Ounce, Dark Green | Rit Dye | B00AQ72T6K | 1 | 6.21 | 6.21
+3 mm 1/8" X 12" X 24" Premium Baltic Birch Plywood - B/BB Grade - 6 Flat Sheets - By Woodpeckers | Woodpeckers | B01MQTWKBX | 1 | 24.99 | 24.99
+100% Linen, 57 inch, per yard | Fabrics Store | IL020 | 1 | 10.39 | 10.39
+32 oz. epoxy & 16 oz. hardener | Entropy Resins | SUPER SAP ONE | 1 | 76 | 76
+30 x 40" 275# Corrugated Pads | ULine | S-12647 | 2 | 1.5 | 3
+LA Linen 15-Inch Natural Jute Burlap Roll, 100-Yard, Natural | LA Linen | B00HTVMX08 | 1 | 50.9 | 50.9
+6-Color Basic Set | Blick Artists' | 00624-1029 | 1 | 21.31 | 21.31
+Size 2, Blick Academic Bristle Brushes | Blick Artists' | 05921-1002 | 1 | 4.12 | 4.12
+*Capacitive Sensors, LCD Display, Serial Bus* |  |  |  |  | 
+Single side circuit board stock | Global Laminates | 6"x8" Single | 2 | 1.4 | 2.8
+Connector Header Surface Mount 4 position 0.100" (2.54mm) | Amphenol FCI | 609-5160-1-ND | 3 | 0.79 | 2.37
+Connector Header Surface Mount 6 position 0.100" (2.54mm) | Amphenol FCI | 609-5161-1-ND | 3 | 0.83 | 2.49
+IC AVR MCU 4K 10MHZ 8SOIC- | Microchip Technology | ATTINY45V-10SU-ND | 2 | 1.5 | 3
+CAP CER 1UF 50V X7R 10% 1206- | TDK Corporation | 445-1423-1-ND | 2 | 0.28 | 0.56
+RES 10.0K OHM 1-4W 1% 1206 SMD | Yageo | 311-10.0KFRCT-ND | 4 | 0.1 | 0.4
+RES SMD 1M OHM 1% 1/4W 1206 | Yageo | YAG3832CT-ND | 2 | 0.1 | 0.2
+CONN HEADER 36POS .100 R/A SMD | Sullins Connector Solutions | S1143E-36-ND | 1 | 4.23 | 4.23
+3M 1126 Copper Foil Tape with Acrylic Adhesive, 0.5" length, 0.5" width, Squares (Pack of 5) | 3M | B00KNUISOM | 1 | 3.56 | 3.56
+CABLE USB EMBD UART 5V .1"HDR | FTDI, Future Technology Devices International Ltd | 768-1028-ND | 1 | 20 | 20
+RES SMD 1K OHM 1% 1/4W 1206 | Yageo | 311-1.00KFRCT-ND | 2 | 0.1 | 0.2
+RES SMD 0 OHM JUMPER 1/4W 1206 | Yageo | 311-0.0LICT-ND | 1 | 0.1 | 0.1
+MOSFET P-CH 30V 1.1A SSOT3 | ON Semiconductor | NDS356APCT-ND | 1 | 0.52 | 0.52
+CER RES 20.0000MHZ 15PF SMD | ECS Inc. | XC1109CT-ND | 1 | 0.63 | 0.63
+Connector Header Surface Mount 10 position 0.100" (2.54mm) | Amphenol FCI | 609-5163-1-ND | 1 | 1.06 | 1.06
+IC MCU 8BIT 4KB FLASH 14SOIC | Microchip Technology | ATTINY44A-SSU-ND | 1 | 0.74 | 0.74
+LCD MODULE 16X2 CHARACTER | Lumex Opto/Components Inc. | 67-1781-ND | 1 | 9.65 | 9.65
+LED GREEN CLEAR 1206 SMD | Lite-On Inc. | 160-1169-1-ND | 1 | 0.34 | 0.34
+CBL RIBN 10COND 0.050 MULTI 50' | 3M | MC10M-50-ND | 1 | 38.07 | 38.07
+CONN SOCKET IDC 6POS DL SR 30AU | Amphenol FCI | 609-2841-ND | 6 | 0.76 | 4.56
 
