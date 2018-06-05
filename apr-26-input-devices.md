@@ -4,9 +4,9 @@
 
 * [x] Described your design and fabrication process using words/images/screenshots.
 
-* [ ] Explained the programming process/es you used and how the microcontroller datasheet helped you.
+* [x] Explained the programming process/es you used and how the microcontroller datasheet helped you.
 
-* [ ] Explained problems and how you fixed them
+* [x] Explained problems and how you fixed them
 
 * [x] Included original design files and code
 
@@ -22,6 +22,140 @@ Copying the traces by connections via GIMP. Process detailed in [Feb 28: electro
 ![](/assets/Screenshot from 2018-05-24 14-48-20.png)
 
 Routing the board in Eagle. Process detailed in [Feb 28: electronics design](mar-01-electronics-design.md).
+
+#### Breaking down Neil's code
+
+I started with the step response transmit-receive hello-world. This is set for a 9600 baud FTDI [interface](http://www.ftdichip.com/Support/Documents/DataSheets/Cables/DS_TTL-232R_CABLES.pdf). The microcontroller is the ATTiny 45.
+
+We start the main loop by setting the clock divider. This is covered in [Embedded Programming](mar-15-embedded-programming.md). Afterwards, we initialize the output pins. `serial_port` is defined globally as `PORTB`. From the [datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet.pdf), Port B is defined as:
+
+> Port B is a 6-bit bi-directional I/O port with internal pull-up resistors
+> (selected for each bit). The Port B output buffers have symmetrical drive
+> characteristics with both high sink and source capability. As inputs, Port B
+> pins that are externally pulled low will source current if the pull-up
+> resistors are activated. The Port B pins are tri-stated when a reset
+> condition becomes active, even if the clock is not running.
+
+`serial_pin_out` writes logic one to PB2 which enabes the Analod to Digital Converter, Channel 1. `serial_direction` is DDRB which is define in the datasheet as the Port B Data Direction Register. DDR is an 8-bit register which stores configuration information for the pins, as stated [here](http://www.avr-tutorials.com/digital/about-avr-8-bit-microcontrollers-digital-io-ports). Writing a 1 in the pin location in the DDR makes the physical pin of that port an output.
+
+The `transmit_port` is also Port B, while `transmit_pin` is PB4. PB4 is the Analog to Digital Converter Channel 2. We first clear the transmit port and pin, before using the Port B Data Direction Register to set PB4 as an output.
+
+```
+   //
+   // initialize output pins
+   //
+   set(serial_port, serial_pin_out);
+   output(serial_direction, serial_pin_out);
+   clear(transmit_port, transmit_pin);
+   output(transmit_direction, transmit_pin);
+```
+
+Next we deal with ADMUX, defined in the datasheet as:
+
+> The voltage reference for the ADC may be selected by writing to the REFS[2:0]
+> bits in ADMUX. The VCC supply, the AREF pin or an internal 1.1V / 2.56V
+> voltage referenc e may be selected as the ADC voltage reference. Optionally
+> the internal 2.56V voltage reference may be decoupled by an external 
+> capacitor at the AREF pin to improve noise immunity.
+
+> The ADC module contains a prescaler, which generates an acceptable ADC clock
+> frequency from any CPU frequency above 100 kHz. The prescaling is set by the
+> ADPS bits in ADCSRA. The prescaler starts counting from the moment the ADC is
+> switched on by setting the ADEN bit in ADCSRA. The prescaler keeps running
+> for as long as the ADEN bit is set, and is continuously reset when ADEN is low.
+
+```
+   //
+   // init A/D
+   //
+   ADMUX = (0 << REFS2) | (0 << REFS1) | (0 << REFS0) // Vcc ref
+      | (0 << ADLAR) // right adjust
+      | (0 << MUX3) | (0 << MUX2) | (1 << MUX1) | (1 << MUX0); // PB3
+   ADCSRA = (1 << ADEN) // enable
+      | (1 << ADPS2) | (1 << ADPS1) | (1 << ADPS0); // prescaler /128
+```
+
+At the beginning of the main loop we initialize two unsigned 16-bit integers `up` and `down` to 0. Each one describes when the transmit pin is set or cleared. Each time, we write logic one to ADSC to initiate a conversion. The values of `up` or `down` are added with the results from the Analog to Digital Converter to "save."
+
+Later on, we send the binary values of the results either directly bitwise AND'd with 255 or right shifted 8 spaces.
+
+This is all done in a `for` loop for `nloop` number of times which is defined globally as 100.
+
+
+```
+   //
+   // main loop
+   //
+   while (1) {
+      //
+      // accumulate
+      //
+      up = 0;
+      down = 0;
+      for (count = 0; count < nloop; ++count) { 
+         //
+         // settle, charge
+         //
+         settle_delay();
+         set(transmit_port, transmit_pin);
+         //
+         // initiate conversion
+         //
+         ADCSRA |= (1 << ADSC);
+         //
+         // wait for completion
+         //
+         while (ADCSRA & (1 << ADSC))
+            ;
+         //
+         // save result
+         //
+         up += ADC;
+         //
+         // settle, discharge
+         //
+         settle_delay();
+         clear(transmit_port, transmit_pin);
+         //
+         // initiate conversion
+         //
+         ADCSRA |= (1 << ADSC);
+         //
+         // wait for completion
+         //
+         while (ADCSRA & (1 << ADSC))
+            ;
+         //
+         // save result
+         //
+         down += ADC;
+         }
+      //
+      // send framing
+      //
+      put_char(&serial_port, serial_pin_out, 1);
+      char_delay();
+      put_char(&serial_port, serial_pin_out, 2);
+      char_delay();
+      put_char(&serial_port, serial_pin_out, 3);
+      char_delay();
+      put_char(&serial_port, serial_pin_out, 4);
+      //
+      // send result
+      //
+      put_char(&serial_port, serial_pin_out, (up & 255));
+      char_delay();
+      put_char(&serial_port, serial_pin_out, ((up >> 8) & 255));
+      char_delay();
+      put_char(&serial_port, serial_pin_out, (down & 255));
+      char_delay();
+      put_char(&serial_port, serial_pin_out, ((down >> 8) & 255));
+      char_delay();
+      }
+   }
+```
+
+At this point, I'm not too sure how to make changes to this code. I'll have to dig deeper in the archive to find an answer.
 
 #### Class Review 2016
 

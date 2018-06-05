@@ -26,3 +26,4 @@
 * [Inventory](inventory.md)
 * [How to Trade \(almost\) Anything](how-to-trade-almost-anything.md)
 * [InDigiFab](indigifab.md)
+* [Modified MIT License for Indigenous Use](LICENSE.md)
