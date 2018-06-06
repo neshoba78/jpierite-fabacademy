@@ -1,4 +1,4 @@
-<meta http-equiv="refresh" content="5">
+<meta http-equiv="refresh" content="300">
 
 # Applications and Implications {#applications-and-implications}
 
