@@ -71,6 +71,8 @@ Illustration of proposed sculpture:
 Preliminary model:
 <script src="https://embed.github.com/view/3d/neshoba78/jpierite-fabacademy/master//uploads/tanap.stl"></script>
 
+* Design files:[ Right click + Save As](/uploads/tanap.stl)
+
 Schedule of work:
 
 Date | Location | Task
