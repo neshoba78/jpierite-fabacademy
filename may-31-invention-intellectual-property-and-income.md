@@ -18,6 +18,8 @@ Going from the community-based research to public disclosure, I started with the
 
 The reason for having a specific network for Indigenous Nations and to have a modified license that spells out specific protections for traditional knowledge is to prevent situations as presented in ["Using Intellectual Property Laws to Protect Indigenous Cultural Property."](https://www.weil.com/~/media/files/pdfs/greerarticle.pdf).
 
+Working towards fostering an Indigenous ecosystem, as President of the Board of Directors of the [North American Indian Center of Boston](http://www.naicob.org/about-us.html); I helped to move [Boston Makers](https://www.bostonmakers.org/new-space-opening-in-june/) onto the premises which made it the first makerspace within an Urban Indian Cenetr in the United States.
+
 #### 2016 Review
 
 Vigyan Ashram presented an interesting project called "Mudra". They proposed a point of sale unit for blockchain currency. The name is a refernce to Hindu spirituality. Mudras are gestures with an energetic seal of authenticity. This prompted me to research block chain applications for Intellectual Property Management.
