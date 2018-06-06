@@ -65,10 +65,11 @@ At this point, I have an illustration of Tanap, a being from our Tunica-Biloxi C
 
 The skeleton of the sculpture will be laser cut tooling that will have a composite "skin" from a linen fabric and resin from Entropy Resins. The detail on the face will be from a casted mask, most likely using dragon skin in a rotary mold. The sculpture will be placed on a CNC milled box which will have a window for an LCD display. I capacitive sensor will be added as an input that will communicate with the LCD output. When the user places a hand above the sensor, the LCD will start to display the story of Tanap in our Tunica language.
 
-
-
 Illustration of proposed sculpture:
 ![](/assets/28379277_10154979582331307_1602835557685497938_n.jpg)
+
+Preliminary model:
+<script src="https://embed.github.com/view/3d/neshoba78/jpierite-fabacademy/master//uploads/tanap.stl"></script>
 
 Schedule of work:
 
