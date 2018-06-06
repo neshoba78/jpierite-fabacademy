@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="5">
+
 # Applications and Implications {#applications-and-implications}
 
 #### Have you answered these questions:
