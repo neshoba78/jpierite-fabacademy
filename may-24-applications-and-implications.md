@@ -33,6 +33,8 @@ Iteration from [previous year](http://fabacademy.org/archives/2015/na/students/p
 
 The original proposal in 2015 was for a language lab in a box which would incorporate recording and digitization processes. At the time of final project development in 2015, I had so much trouble fighting with the machines, my own computer, and 3D CAD tools. I ended up simplifying the project to an alligator toy that would simulate the tones in language. It would be done by parsing an XML based language documentation format.
 
+FYI: The Lexicon Interchange Format data on Tunica eventually was used for the Tunica online [Webonary](https://tunica.webonary.org/browse/browse-vernacular/). This was done through our Tribe's [collaboration](http://tunica.wp.tulane.edu) with Tulane University in New Orleans, LA.
+
 I was able to mill out one side of the toy on the ShopBot. I 3D printed clips for the toy to have movable legs. That was as far as I got with the project in 2015.
 
 ![](/assets/IMG_2632.jpg)
