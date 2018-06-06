@@ -10,6 +10,62 @@
 
 * [x] pushed to the class archive
 
+#### Choose a platform for web development
+
+I started the class in 2015, this is my web development workflow and steps to work with Mercurial. For the sake of posterity...
+
+I detailed steps that I took for local web development in the following posts:
+
+* [Installing WordPress Locally on Ubuntu](http://fabacademy.org/archives/2015/na/students/pierite.jean-luc/old-site/indexc4f7c4f7.html?p=7)
+* [Using HTTrack to Rip HTML files from WordPress](http://fabacademy.org/archives/2015/na/students/pierite.jean-luc/old-site/index2df42df4.html?p=8)
+* [Fixing Permissions for WordPress to Update/Upgrade](http://fabacademy.org/archives/2015/na/students/pierite.jean-luc/old-site/indexb5fbb5fb.html?p=9)
+
+Install and get use to version control, Mercurial
+
+Notes from our guru, Terence Fagan:
+> To use Mercurial is a different story, Neil said there was a stiff learning
+> curve and there was anticipated mistakes the first week. I wanted to make
+> sure this did not happen, neither did Francisco Sanchez Arroyo, our
+> instructor. So, he gave us a small tutorial below. It worked without a hitch.
+
+> Standard Workflow – In case no one is pushing/pulling at the same time, this
+> will happen:
+
+> hg pull
+
+> hg update
+
+> hg addremove
+
+> hg commit -m "describe your changes"
+
+> hg push
+
+> Merge workflow – The following happens when you have pulled the archive, but
+> before pushing, someone -Quick Billy- pushed his changeset. As time tends to > zero, probability of this situation to happen tends to infinite. Do not
+> worry. This is how it happens:
+
+> hg pull
+
+> hg update
+
+> hg addremove
+
+> hg commit -m "your changes"
+
+> NEVER FORCE PUSH or you will receive the email that you do not want to
+> receive from Neil. So do the following:
+
+> hg merge
+
+> hg commit -m "merge"
+
+> hg push
+
+> Successfully uploaded without merge command this time!
+
+#### Background
+
 In a previous life, I was an Internet Marketing Specialist for Mohegan Sun in Uncasville, CT. I helped manage six of their company websites using proprietary content managements systems and flat HTML. I got comfortable with working first with a local copy and pushing content to a server that was scheduled to cache every four hours.
 
 These are some of the websites that I worked on:
@@ -35,6 +91,8 @@ As part of my job deploying fab lab inventory to new fab lab installations, I wo
 ![](/assets/mama-rosie.jpg)
 
 I decided to try the same setup with Mama Rosie. I had to migrate the local Wordpress installation from the Ubuntu partition to the Vbox installation. I then mirrored and flattened the site. Even under VirtualBox, the workflow was pretty slow. To scan and flatten the site took up to 30 minutes, each time. I also had to go to The Fab Foundation office to work on my documentation.
+
+#### Workflow in Git
 
 It was after the first lecture for this cycle of Fab Academy that I worked out a procedure that would allow me to work from multiple devices. I cloned the repository to Mama Rosie's desktop. Eclipse is an editor that I was comfortable with using from my previous web work. I could work on the code locally and push to the server. To solve the need for a local copy, I turned on a localhost server on Mama Rosie. I then copied my student folder to a subfolder of the local WebServer. In order to keep the code up to date, I tried some solutions for file synchronization. Unison was one option that we covered in the lecture. This solution needed a couple dependencies and some edits to config files. After a couple attempts, the build still failed on OS X El Capitan. It was then that I resolved, when we cover topics we aren't exactly mandated to use the options covered. Unison and rsync are recommendations, but I needed a currently supported app that would synchronize the contents of two local folders. I found Sync Folders on the App Store. This not only works with Mama Rosie running El Capitan, but also with my home laptop which runs Lion. I can sync folders and push to the repository much faster.
 

@@ -6,7 +6,24 @@
 
 * [x] described what it will do and who will use it
 
+#### Sketch a design idea on paper and in the computer
 
+For a few generations, my family has served as keepers of the ways of my tribe. We hold our story and song tradition close. Over the past year, I have participated in a couple conferences to gain insight on the role of technology in language and culture preservation.
+Background
+
+There is a wealth of classic media that exists documenting tribal culture, both oral and material. Much of the resources require efficient digitization and curation. These resources serve to inform language and culture preservation and revitalization initiatives.
+
+Costs of object-centric digitization, analysis and curation can be prohibitive. At The University of British Columbia, the [Irving K. Barber Learning Centre](http://www.ikebarberlearningcentre.ubc.ca/programs/indigitization/) hosts a collaborative project known as "Indigitization." The project seeks to clarify processes and identify issues in the conservation and digitization of First Nation community information resources.
+
+I learned about [Indigitization](http://www.indigitization.ca/) by attending the annual meeting of the American Anthropological Association. During that meeting, I learned of the Indigitzation Toolkit. Similar to Fab Lab technology, the toolkit supports community efforts at digitization taking analog communication (language and texts) and curating it as bits.
+
+Access to curated information presents another challenge for community preservationists. Instead of a publicly open and accessible system, proper consideration must be given with respect to community set guidelines. Some information can be deemed sensitive based on age, gender, and whether or not the person accessing is a community member.
+
+![](/assets/indigi-case1.png)
+
+I chose the form of a brief case in reference to [Pop Fab](http://vimeo.com/45911972), designed by Ilan Moyer and Nadya Peek. I want to create a portable device for digitization and curation. I chose the name Indigi-Case to be descriptive and allude to the fact that I base the proposal on the Indigization toolkit.
+
+The case itself is a cross between a netbook and a Nintendo 3DS. It features a cassette deck “drive” for digitzation of classic media. I added two jacks for headphones and speakers. Two usb ports for devices. I plan to embed a keyboard in one side of the case. Facing opposite, is an LCD screen with two internal speakers. Above the screen is an internal camera. On the outside of the case, I have a stereoscopic camera for 3D pictures and video of material culture or subjects/informants.
 
 #### 2018 Class Notes
 
