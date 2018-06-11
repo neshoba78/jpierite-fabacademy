@@ -8,11 +8,16 @@
 
 * [x] Described problems and how you fixed them
 
-* [ ] Included your design files and ‘hero shot’ photos of final object
+* [x] Included your design files and ‘hero shot’ photos of final object
+
+
+#### Hero shot and Design Files
+
+* Design files:[ Right click + Save As](/uploads/table for make something big.zip)
+
+#### This week's "Invention Exchange"
 
 ![](/assets/cnc-fab-lab.gif)
-
-**This week's "Invention Exchange"**
 
 Oh. My God. It's like I've always thought. [Mystery Science Theater 3000](http://splitsider.com/2017/03/building-on-sacred-ground-with-the-new-cast-of-mst3k/) is a parody of my work at The Fab Foundation!
 
@@ -24,7 +29,7 @@ When I was growing up though, Thanksgiving was "Turkey Day"; a marathon day for 
 
 What was the connection? Oh yeah, Jonah just happened to say, "CNC in my Fab Lab."
 
-**Visiting MIT's Center for Bits and Atoms**
+#### Visiting MIT's Center for Bits and Atoms
 
 There's a tutorial for this assignment on The Center for Bits and Atoms site, [here](http://fab.cba.mit.edu/content/tools/shopbot/index.html). I didn't know that in 2015. So, what ended up happening is that I went to the CBA shop and bothered the "Spiciest Meme Lord" Tom Lutz.
 
@@ -46,7 +51,7 @@ With Tom's assistance, I was able to design and cut out a monogram plaque which 
 
 _Baby's first machining project_
 
-**Trouble at The Southend Technology Center**
+#### Trouble at The Southend Technology Center
 
 After taking that nice lesson, I returned to the South End Technology Center to wrestle with the first ShopBot ever purchased for a Fab Lab. What a bear that thing was. First off, the control box looked like a hollowed out desktop tower with an emergency stop.
 
@@ -65,7 +70,7 @@ Bill Young's visit gave us a little history on the "first ShopBot ever purchased
 
 Next time, I'll do this assignment on _#HardMode_ by flying to Milan, send my files with LinuxCNC, and machining out my parts with a MECAMATIC MF 150. Right, Fiore?
 
-**Steps for Machining**
+#### Steps for Machining
 
 Ale Diaz de Leon has a nice summary of work flow on her page that I will adapt and integrate with the tutorials and CBA lesson:
 
@@ -111,7 +116,7 @@ _ShopBot file running and sending tool paths to the machine_
 * Remove the pieces and the excess stock
 * _#GonzalosTip_ Gonzalo Siu, finishing is harder than expected. Even though design can be adjusted parametrically, be prepared for a lot of sanding to chamfer males and widen female slots to perfect joints.
 
-**Tooling**
+#### Tooling
 
 The week of DigiFabCon 2017, I met Ted Hall at Center for Bits and Atoms. His first words to me were, "Oh, so you're Jean-Luc. I heard everything about you." Bill Young chuckled, "Well, that's one way to start a conversation." Sallye Coyle of ShopBot \(and FAB CNC Guru\) was on several adventures with me during the course of my work at The Fab Foundation. We've so far been on two lab installs and two FABx meetings.
 
@@ -134,15 +139,17 @@ Main takeaways:
    5. Machineable wax  
    6. Plaster and other mold making materials such as pressed vermiculite and Ceramaguard TM\(use good dust collec on and respira on masks\)
 
-**Materials**
+#### Materials
 
-[//]: # (Isaac: First, be mindful about the materials you use, Plywood tends to bend, MDF not, and so on...  Second, check ALL parts of the machining bed are leveled  Third, test your assemblies BEFORE actually cutting the piece  Fourth, sanding is essential.  Fifth, be patient; Robert: The idea for the milling assigment is to fabricate a new kind of laptop stand that you can use and take with you around the house. The material for the stand is Oriented Strand Board , is an engineered wood particle board formed by adding adhesives and then compressing layers of wood strands in specific orientations.)
+I used an Oriented Strand Board. It's fairly inexpensive, but required a hefty delivery charge from Home Depot. Some other things to keep in mind (taking a cue from Isaac Robles), plywood tends to bend while MDF does not. Make sure all the parts of the machining bed are leveled. This is usually accomplished with a very long level, and measuring on the diagonals. 
 
-**Designing files for Machining**
+#### Designing files for Machining
 
-[//]: # (Aldo: For this week I decided to explore once again and a little bit deeper looping systems but this time applied to furniture design. A very simple modular element is design to generate this aggretated system. It has a triangular shape and present two perpendicular cuts on two sides. The script is a little bit tricky since it's logic is to avoid overlapping between elements while the system grows. To controll the horizontality of the structure again I had to use a bit of logic about the rule of mirroring of each element.; Ted: For the big object. I randomly made two surfaces in Maya, then export to Rhino, and using grasshopper to generate the cutting outline. Again,using surfcam to generate G-Code, the material is 4x8 MDF 3/4" thick and using 10mm flat bit to mill; Kenzo: One consideration, if you are going to do a file with the dog bones (fillets) in them don't do it the exactly same size as your endmill (diameter), because if you need to a small offset the CNC will not cut that dog bone. (everything smaller than the diameter of the endmill is ignored)   Other thing, i did all the holes to hold down the plywod, than stopped the machine, then screw the screw and only than made the final cuts, and the pieces wore stable for the final cut.; Adam: The interesting thing here is that when you import the PDF into Parkworks, each line is separated. The first thing I cut was a test of a 4" diameter circle and it took a long time. Since Sketchup doesn't do arcs, and it instead makes a circle or arc from a bunch of small lines, the result was that the ShopBot did all 4 layers of a single line before moving to the next line. This was not desirable and tool a very long time. Playing around with the tools in this software, I found that you can't just GROUP line segments, you must JOIN them. This made for a much quicker cut.; Phonesavanh: At Woma and Makerspace North, we use vCarve. I later learned after trying to fit my stool design piece that there is a “nesting” function which finds the optimal arrangement to squeeze parts into the material to reduce waste, and automatic “tab placement,” which makes it easy to add small tabs to keep creations from slipping as your router cuts them out. Another feature is the “Estimated Machining Time” function, but users at Woma said that sometime they have to double the time.; Siron: At Vcarve, I adjusted the design because for some features it is easier than Inkscape. I add a fillet "dog bone" style in the corners that I have some joints. In other, I add a round fillet to make it easier to fit. Also at Vcarve, I adjusted the sizes of the models, because from Inkscape the dimensions count on the stroke as well. Also at V-carve it is possible to make some adjustments and set the better positions of your pieces and use less material. For that it is better to group your pieces, otherwise it gets each vector and move it alone. To group them you need to select the objects you want to group and press Ctrl+G A good tip at V-carve, is the way you select the objects. If you left click, hold and drag from right-left direction among the pieces, you will select everything the selection area "touch". If you drag right left, you will select only what is inside the selection area. This is good when you are selecting objects that are near each other.)
+I used Fusion 360 to design the CAD files for Machining. This is a very useful program as it also does CAM.
 
-**Building up a ShopBot**
+(Video to be uploaded)
+
+#### Building up a ShopBot
 
 ![](/assets/IMG_0783.JPG)
 
@@ -154,7 +161,7 @@ I helped Sallye build and troubleshoot ShopBots at several sites including: Tamp
 
 _Does this count as "Machine Building"?_
 
-**Sources**
+#### Sources
 
 Abiko, K. (n.d.). Kenzo Abiko FabAcademy. Retrieved April 19, 2017, from http://fabacademy.org/archives/2015/na/students/abiko.kenzo/index.html
 
