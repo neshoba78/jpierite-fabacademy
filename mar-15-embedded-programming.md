@@ -13,7 +13,13 @@
 * [ ] Included your code
 
 
-[![Embedded programming](https://img.youtube.com/vi/wdKsoC5_NIc/0.jpg)](https://www.youtube.com/watch?v=wdKsoC5_NIc "Embedded programming")
+[![Embedded programming](https://img.youtube.com/vi/wdKsoC5_NIc/0.jpg)](https://www.youtube.com/watch?v=wdKsoC5_NIc "Embedded programming with Arduino IDE")
+
+Sending C code through AVR tools and testing through Arduino serial Monitor:
+<video width="320" height="240" controls="controls">
+  <source type="video/mp4" src="assets/IMG_2575.mp4"></source>
+</video>
+
 
 #### Breaking down Neil's code
 

@@ -13,7 +13,17 @@
 * Design files:[ Right click + Save As](/uploads/hello.RGB.45.zip)
 * Design files:[ Right click + Save As](/uploads/hello.LCD.44.zip)
 
+#### Hero Shot
+
+![](/assets/resize-IMG_2583.JPG)
+Current iteration of LCD interface.
+
 #### Fabricating the Board
+
+Milling out the LCD board:
+<video width="320" height="240" controls="controls">
+  <source type="video/mp4" src="assets/IMG_2574.mp4"></source>
+</video>
 
 ![](/assets/Screenshot from 2018-05-24 15-44-38.png)
 

@@ -13,6 +13,11 @@
 
 ![](/assets/electronics-design-1-350x197.png)
 
+#### Hero Shot
+
+![](/assets/resize-IMG_2576.JPG)
+Two versions with and without ground plane.
+
 #### Fabricating the Board
 
 ![](/assets/Screenshot from 2018-05-24 09-52-40.png)
@@ -47,7 +52,25 @@ For the LED, Steven "used a 499 ohm resistor to limit the current through the LE
 
 I found a couple of YouTube videos to walk me through the copper pour technique that Steven used. Once the Design Rule Checks were passed and there were no more airwaves, I exported the file for milling through FabModules.
 
-#### Bakground
+![](/assets/resize-IMG_2601.JPG)
+
+Milled out version with ground plane pictured above. After stuffing this version, I received:
+
+```
+avrdude: initialization failed, rc=-1
+         Double check connections and try again, or use -F to override this
+check. 
+```
+![](/assets/resize-IMG_2649.JPG)
+
+This first iteration of the board, the LED lit up. That was due to a solder bridge...
+
+
+I sought advice from Luciano Betoldi. We tested the board with a multimeter, which was inconclusive. Luciano advised that the ground plane adds an air of mystery to whether there is electrical interference in the circuit. I ultiamtely decided to redraw the board in Eagle. The second iteration. I was successful in sending code to the board.
+
+![](/assets/Screenshot from 2018-05-24 09-54-42.png)
+
+#### Background
 
 Since I began with The Fab Foundation, I helped support two cycles of Fab Academy. While my main preoccupation with Fab Labs is procuring and deploying inventories for new installations, I also help procure supplies for labs running Academany courses. While most requests come in the form of shipping out end mills or FR-1, the most involved request was the procurement and distribution of Stage Kits for the Machine Making assignment. It was during my second go in 2016 of shipping out stage kits that I got my first big lesson in Electronics Design.
 

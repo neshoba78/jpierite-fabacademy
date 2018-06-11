@@ -13,6 +13,11 @@
 * Design files:[ Right click + Save As](/uploads/input-switch.zip)
 * Design files:[ Right click + Save As](/uploads/hello.txrx.45.zip)
 
+#### Hero Shot
+
+![](/assets/resize-IMG_2585.JPG)
+Current iteration of TXRX interface.
+
 #### Fabricating the Board
 
 ![](/assets/Screenshot from 2018-05-24 14-47-43.png)

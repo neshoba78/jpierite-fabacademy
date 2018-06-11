@@ -2,17 +2,37 @@
 
 #### Have you:
 
-* [ ] Explained your individual contribution to this project on your own website
+* [x] Explained your individual contribution to this project on your own website
 
 #### On the group page, has your group:
 
-* [ ] Shown how your team planned and executed the project
+* [x] Shown how your team planned and executed the project
 
-* [ ] Described problems and how the team solved them
+* [x] Described problems and how the team solved them
 
-* [ ] Listed future development opportunities for this project
+* [x] Listed future development opportunities for this project
 
-* [ ] Included your design files, ‘hero shot’ photos of the machine and a short video of it operating
+* [x] Included your design files, ‘hero shot’ photos of the machine and a short video of it operating
+
+#### 2018 Tiny G Controller Project
+
+Design Files: [Right Click + Save]()
+
+As a continuing student, I asked to join the class at [Dassault 3D Experience Lab](http://fab.academany.org/2018/labs/fablabdassault/). There, I collaborated on an automated Etch-A-Sktech.
+
+The first issue was that the machine was very top heavy. This created a problem with the automation of the erasing process on the Etch-a-Sketch screen. The original design was that a motor on the Z-axis would flip the screen 180 degrees to erase any drawing. The problem with the machine being top heavy meant that gravity would pull the screen downwards. The majority of the time, a motor on the Z-axis would have to do work to hold the screen in place while the sketch was being rendered on the X and Y axes. After advice from Jean-Michel Molenaar, we considered adding a counter weight to the device. Placement became an issue, at that point. At the top of the device and behind the screen, the counter weight would continue the rotation. I brought up the physics of a [Drinking Bird](http://www.physics.usyd.edu.au/super/physics_tut/activities/Thermal_Physics/The_Drinking_Bird.pdf) as a possibility to resolve the issue. Perhaps we could have used an hour glass shaped container with sand or fluid to help control the weight issue. Ultimately, the team resolved to install a manual lever due to the deadline. Future development plans for the machine still include a way to automate the erasing process on the Z-axis.
+
+<video width="320" height="240" controls="controls">
+  <source type="video/mp4" src="assets/mtm_lever.mp4"></source>
+</video>
+
+The second issue involved talking to the Tiny G controller to send code to automate the motors. The team could send individual moves to the controller through [CoolTerm](https://github.com/synthetos/TinyG/wiki/TinyG-Sending-Files-with-CoolTerm). 
+
+<video width="320" height="240" controls="controls">
+  <source type="video/mp4" src="assets/tinygcode.mp4"></source>
+</video>
+
+#### 2015 Gestalt Board and Stage Project
 
 ![](/assets/four-pos-tool-slide.png)
 
