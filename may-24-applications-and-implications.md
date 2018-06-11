@@ -1,5 +1,3 @@
-<meta http-equiv="refresh" content="300">
-
 # Applications and Implications {#applications-and-implications}
 
 #### Have you answered these questions:
@@ -73,7 +71,12 @@ Illustration of proposed sculpture:
 ![](/assets/28379277_10154979582331307_1602835557685497938_n.jpg)
 
 Preliminary model:
-<script src="https://embed.github.com/view/3d/neshoba78/jpierite-fabacademy/master//uploads/tanap.stl"></script>
+<script src="https://embed.github.com/view/3d/neshoba78/jpierite-fabacademy/master/uploads/tanap.stl">
+$(document).ready(function()
+{
+console.log("model loaded");
+});
+</script>
 
 * Design files:[ Right click + Save As](/uploads/tanap.stl)
 
