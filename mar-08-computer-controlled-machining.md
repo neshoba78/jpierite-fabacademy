@@ -147,7 +147,9 @@ I used an Oriented Strand Board. It's fairly inexpensive, but required a hefty d
 
 I used Fusion 360 to design the CAD files for Machining. This is a very useful program as it also does CAM.
 
-(Video to be uploaded)
+<video width="320" height="240" controls="controls">
+  <source type="video/mp4" src="assets/table laid out.mp4"></source>
+</video>
 
 #### Building up a ShopBot
 
